@@ -7,7 +7,7 @@
    "x": 0.0,
    "y": 0.0,
    "width": 340,
-   "height": 480,
+   "height": 504,
    "color": "6"
   },
   {
@@ -17,7 +17,7 @@
    "x": 970.0,
    "y": 0.0,
    "width": 240,
-   "height": 55,
+   "height": 62,
    "color": "6"
   },
   {
@@ -27,7 +27,7 @@
    "x": 820.0,
    "y": 255.0,
    "width": 200,
-   "height": 60,
+   "height": 88,
    "color": "6"
   },
   {
@@ -37,7 +37,7 @@
    "x": 1210.0,
    "y": 255.0,
    "width": 220,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n5",
@@ -46,7 +46,7 @@
    "x": 1630.0,
    "y": 255.0,
    "width": 240,
-   "height": 75,
+   "height": 114,
    "color": "3"
   },
   {
@@ -56,7 +56,7 @@
    "x": 2080.0,
    "y": 255.0,
    "width": 260,
-   "height": 110,
+   "height": 192,
    "color": "5"
   },
   {
@@ -66,7 +66,7 @@
    "x": 1210.0,
    "y": 465.0,
    "width": 220,
-   "height": 55
+   "height": 88
   },
   {
    "id": "n8",
@@ -75,7 +75,7 @@
    "x": 1630.0,
    "y": 465.0,
    "width": 220,
-   "height": 55
+   "height": 88
   },
   {
    "id": "n9",
@@ -84,25 +84,25 @@
    "x": 2545.0,
    "y": 255.0,
    "width": 220,
-   "height": 70,
+   "height": 114,
    "color": "6"
   },
   {
    "id": "n17",
    "type": "text",
    "text": "**Step 2 \u00b7 Project lifecycle**",
-   "x": 630.0,
-   "y": 1075.0,
+   "x": 780.0,
+   "y": 1723.0,
    "width": 240,
-   "height": 55,
+   "height": 62,
    "color": "6"
   },
   {
    "id": "n18",
    "type": "text",
    "text": "**PM:** Create new project",
-   "x": 480.0,
-   "y": 1330.0,
+   "x": 630.0,
+   "y": 1978.0,
    "width": 260,
    "height": 70,
    "color": "4"
@@ -111,70 +111,70 @@
    "id": "n19",
    "type": "text",
    "text": "Wizard: set name, client,\ntype, delivery type",
-   "x": 480.0,
-   "y": 1525.0,
+   "x": 630.0,
+   "y": 2173.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n20",
    "type": "text",
    "text": "Project created\n(Proposal phase)",
-   "x": 480.0,
-   "y": 1720.0,
+   "x": 630.0,
+   "y": 2395.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "5"
   },
   {
    "id": "n21",
    "type": "text",
    "text": "**PM:** Staff Architect\n*(gate P1)*",
-   "x": 480.0,
-   "y": 1915.0,
+   "x": 630.0,
+   "y": 2617.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n22",
    "type": "text",
    "text": "**PM:** Staff Consultant\n*(gate P2)*",
-   "x": 480.0,
-   "y": 2110.0,
+   "x": 630.0,
+   "y": 2839.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n23",
    "type": "text",
    "text": "**Architect:** Create proposal\nwith files",
-   "x": 480.0,
-   "y": 2305.0,
+   "x": 630.0,
+   "y": 3061.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n24",
    "type": "text",
    "text": "**Architect:** Submit via\nworkflow *(gate P3)*",
-   "x": 480.0,
-   "y": 2500.0,
+   "x": 630.0,
+   "y": 3283.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n31",
    "type": "text",
    "text": "****Consultant:** Review\nproposal \u2014 decision?**",
-   "x": 480.0,
-   "y": 2695.0,
+   "x": 630.0,
+   "y": 3505.0,
    "width": 240,
-   "height": 70,
+   "height": 88,
    "color": "2"
   },
   {
@@ -182,77 +182,77 @@
    "type": "text",
    "text": "**Revision Requested**\n\u2192 Architect revises\nand resubmits",
    "x": 0.0,
-   "y": 2782.75,
+   "y": 1258.0,
    "width": 260,
-   "height": 75,
+   "height": 114,
    "color": "2"
   },
   {
    "id": "n34",
    "type": "text",
    "text": "**Rejected**\nProposal stage blocked \u2014\nneeds a new proposal or\nre-staffing",
-   "x": 960.0,
-   "y": 2782.75,
+   "x": 0.0,
+   "y": 1033.0,
    "width": 260,
-   "height": 80,
+   "height": 140,
    "color": "1"
   },
   {
    "id": "n38",
    "type": "text",
    "text": "**PM:** Approve proposal\n*(gate P4)*",
-   "x": 480.0,
-   "y": 2890.0,
+   "x": 630.0,
+   "y": 3700.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n39",
    "type": "text",
    "text": "**PM/Admin:** Upload NOA\n+ Contract",
-   "x": 480.0,
-   "y": 3085.0,
+   "x": 630.0,
+   "y": 3922.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n40",
    "type": "text",
    "text": "**PM:** Set contract value\n*(gate P5)*",
-   "x": 480.0,
-   "y": 3280.0,
+   "x": 630.0,
+   "y": 4144.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n44",
    "type": "text",
    "text": "**All gates P1\u2013P5 pass?**",
-   "x": 480.0,
-   "y": 3475.0,
+   "x": 630.0,
+   "y": 4366.0,
    "width": 240,
-   "height": 60,
+   "height": 62,
    "color": "2"
   },
   {
    "id": "n46",
    "type": "text",
    "text": "**Advance to Design**",
-   "x": 480.0,
-   "y": 3670.0,
+   "x": 630.0,
+   "y": 4561.0,
    "width": 260,
-   "height": 55,
+   "height": 62,
    "color": "5"
   },
   {
    "id": "n49",
    "type": "text",
    "text": "**Architect:** Create design",
-   "x": 1005.0,
-   "y": 1330.0,
+   "x": 1155.0,
+   "y": 1978.0,
    "width": 260,
    "height": 70,
    "color": "4"
@@ -261,128 +261,128 @@
    "id": "n50",
    "type": "text",
    "text": "Upload files, assign staffed\nengineer *(gate D1)*",
-   "x": 1005.0,
-   "y": 1525.0,
+   "x": 1155.0,
+   "y": 2173.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n51",
    "type": "text",
    "text": "**Architect:** Create design\nrevision + attach files",
-   "x": 1005.0,
-   "y": 1720.0,
+   "x": 1155.0,
+   "y": 2395.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n52",
    "type": "text",
    "text": "**Consultant:** Create\ndesign review",
-   "x": 1005.0,
-   "y": 1915.0,
+   "x": 1155.0,
+   "y": 2617.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n56",
    "type": "text",
    "text": "**Review decision?**",
-   "x": 1005.0,
-   "y": 2110.0,
+   "x": 1155.0,
+   "y": 2839.0,
    "width": 240,
-   "height": 60,
+   "height": 62,
    "color": "2"
   },
   {
    "id": "n58",
    "type": "text",
    "text": "All designs approved,\nno pending review *(gate D2)*",
-   "x": 1005.0,
-   "y": 2305.0,
+   "x": 1155.0,
+   "y": 3034.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n59",
    "type": "text",
    "text": "**Architect:** Upload blueprint,\nset Current+Approved *(gate D3)*",
-   "x": 1005.0,
-   "y": 2500.0,
+   "x": 1155.0,
+   "y": 3256.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n63",
    "type": "text",
    "text": "**All gates D1\u2013D3 pass?**",
-   "x": 1005.0,
-   "y": 2695.0,
+   "x": 1155.0,
+   "y": 3478.0,
    "width": 240,
-   "height": 60,
+   "height": 62,
    "color": "2"
   },
   {
    "id": "n65",
    "type": "text",
    "text": "**Advance to\nPre-Construction**",
-   "x": 1005.0,
-   "y": 2890.0,
+   "x": 1155.0,
+   "y": 3673.0,
    "width": 260,
-   "height": 55,
+   "height": 88,
    "color": "5"
   },
   {
    "id": "n69",
    "type": "text",
    "text": "**Engineer:** Create\nrequirements (Materials/Specs)",
-   "x": 1530.0,
-   "y": 1330.0,
+   "x": 1680.0,
+   "y": 1978.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n70",
    "type": "text",
    "text": "**PM:** Approve requirements\n*(gate C1)*",
-   "x": 1530.0,
-   "y": 1525.0,
+   "x": 1680.0,
+   "y": 2200.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n71",
    "type": "text",
    "text": "**Finance:** Create + approve\nbudget lines *(gate C2)*",
-   "x": 1530.0,
-   "y": 1720.0,
+   "x": 1680.0,
+   "y": 2422.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n72",
    "type": "text",
    "text": "**PM:** Create milestones\nw/ dates, set Active *(gate C3)*",
-   "x": 1530.0,
-   "y": 1915.0,
+   "x": 1680.0,
+   "y": 2644.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n73",
    "type": "text",
    "text": "**PM:** Staff site personnel",
-   "x": 1530.0,
-   "y": 2110.0,
+   "x": 1680.0,
+   "y": 2866.0,
    "width": 260,
    "height": 70,
    "color": "4"
@@ -391,308 +391,308 @@
    "id": "n74",
    "type": "text",
    "text": "**HR/IT:** Link to employee\nrecords",
-   "x": 1530.0,
-   "y": 2305.0,
+   "x": 1680.0,
+   "y": 3061.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n75",
    "type": "text",
    "text": "**PM/Engineer:** Create tasks,\nassign staffed workers *(gate C4)*",
-   "x": 1530.0,
-   "y": 2500.0,
+   "x": 1680.0,
+   "y": 3283.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n76",
    "type": "text",
    "text": "**PM:** Upload NTP, set site\nlat/long *(gate C5)*",
-   "x": 1530.0,
-   "y": 2695.0,
+   "x": 1680.0,
+   "y": 3505.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n77",
    "type": "text",
    "text": "**Engineer:** Create purchase\nrequests *(gate C6)*",
-   "x": 1530.0,
-   "y": 2890.0,
+   "x": 1680.0,
+   "y": 3727.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n86",
    "type": "text",
    "text": "**All gates C1\u2013C6 pass?**",
-   "x": 1530.0,
-   "y": 3085.0,
+   "x": 1680.0,
+   "y": 3949.0,
    "width": 240,
-   "height": 60,
+   "height": 62,
    "color": "2"
   },
   {
    "id": "n88",
    "type": "text",
    "text": "**Advance to\nConstruction**",
-   "x": 1530.0,
-   "y": 3280.0,
+   "x": 1680.0,
+   "y": 4144.0,
    "width": 260,
-   "height": 55,
+   "height": 88,
    "color": "5"
   },
   {
    "id": "n92",
    "type": "text",
    "text": "**Site Personnel:** Work on\ntasks, update status",
-   "x": 2055.0,
-   "y": 1330.0,
+   "x": 2205.0,
+   "y": 1978.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n93",
    "type": "text",
    "text": "Progress = completed/\ntotal tasks",
-   "x": 2055.0,
-   "y": 1525.0,
+   "x": 2205.0,
+   "y": 2200.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "5"
   },
   {
    "id": "n94",
    "type": "text",
    "text": "**Site Personnel:** Submit\ndaily site report (DSR)",
-   "x": 2055.0,
-   "y": 1720.0,
+   "x": 2205.0,
+   "y": 2422.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n95",
    "type": "text",
    "text": "**Engineer:** Submit\nengineering reports",
-   "x": 2055.0,
-   "y": 1915.0,
+   "x": 2205.0,
+   "y": 2644.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n96",
    "type": "text",
    "text": "**Site Personnel:** Report\nissues",
-   "x": 2055.0,
-   "y": 2110.0,
+   "x": 2205.0,
+   "y": 2866.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n97",
    "type": "text",
    "text": "**Engineer:** Resolve issues\n\u2192 **PM:** Close *(gate K3)*",
-   "x": 2055.0,
-   "y": 2305.0,
+   "x": 2205.0,
+   "y": 3088.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n98",
    "type": "text",
    "text": "**PM:** Manage active\nworkflows *(gate K4)*",
-   "x": 2055.0,
-   "y": 2500.0,
+   "x": 2205.0,
+   "y": 3310.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n99",
    "type": "text",
    "text": "All tasks completed\n*(gate K1)*",
-   "x": 2055.0,
-   "y": 2695.0,
+   "x": 2205.0,
+   "y": 3532.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n100",
    "type": "text",
    "text": "**PM:** Close milestones\n*(gate K2)*",
-   "x": 2055.0,
-   "y": 2890.0,
+   "x": 2205.0,
+   "y": 3754.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n109",
    "type": "text",
    "text": "**All gates K1\u2013K4 pass?**",
-   "x": 2055.0,
-   "y": 3085.0,
+   "x": 2205.0,
+   "y": 3976.0,
    "width": 240,
-   "height": 60,
+   "height": 62,
    "color": "2"
   },
   {
    "id": "n111",
    "type": "text",
    "text": "**Advance to Closeout**",
-   "x": 2055.0,
-   "y": 3280.0,
+   "x": 2205.0,
+   "y": 4171.0,
    "width": 260,
-   "height": 55,
+   "height": 62,
    "color": "5"
   },
   {
    "id": "n115",
    "type": "text",
    "text": "**Engineer:** Submit Final\nInspection, Approved *(gate X1)*",
-   "x": 2580.0,
-   "y": 1330.0,
+   "x": 2730.0,
+   "y": 1978.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n116",
    "type": "text",
    "text": "**PM/Admin:** Upload COC\n*(gate X2)*",
-   "x": 2580.0,
-   "y": 1525.0,
+   "x": 2730.0,
+   "y": 2200.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n117",
    "type": "text",
    "text": "**HR:** Generate closeout\npayroll batch",
-   "x": 2580.0,
-   "y": 1720.0,
+   "x": 2730.0,
+   "y": 2422.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n118",
    "type": "text",
    "text": "**Finance:** Approve payroll\n*(gate X3)*",
-   "x": 2580.0,
-   "y": 1915.0,
+   "x": 2730.0,
+   "y": 2644.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n119",
    "type": "text",
    "text": "**PM:** Start Project Closeout\nworkflow *(gate X4)*",
-   "x": 2580.0,
-   "y": 2110.0,
+   "x": 2730.0,
+   "y": 2866.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n120",
    "type": "text",
    "text": "**PM:** Close all open\ndesign requests *(gate X5)*",
-   "x": 2580.0,
-   "y": 2305.0,
+   "x": 2730.0,
+   "y": 3088.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n121",
    "type": "text",
    "text": "**Finance/PM:** Settle all\nPR/orders *(gate X6)*",
-   "x": 2580.0,
-   "y": 2500.0,
+   "x": 2730.0,
+   "y": 3310.0,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "4"
   },
   {
    "id": "n128",
    "type": "text",
    "text": "**All gates X1\u2013X6 pass?**",
-   "x": 2580.0,
-   "y": 2695.0,
+   "x": 2730.0,
+   "y": 3532.0,
    "width": 240,
-   "height": 60,
+   "height": 62,
    "color": "2"
   },
   {
    "id": "n130",
    "type": "text",
    "text": "**Advance to Completed**\n(100%)",
-   "x": 2580.0,
-   "y": 2890.0,
+   "x": 2730.0,
+   "y": 3727.0,
    "width": 260,
-   "height": 60,
+   "height": 88,
    "color": "5"
   },
   {
    "id": "n134",
    "type": "text",
    "text": "**Completed**\n100%",
-   "x": 3105.0,
-   "y": 2695.0,
+   "x": 3255.0,
+   "y": 3532.0,
    "width": 260,
-   "height": 60,
+   "height": 88,
    "color": "5"
   },
   {
    "id": "n135",
    "type": "text",
    "text": "**Archived**\nAdmin-only advance.\nTerminal state.",
-   "x": 3105.0,
-   "y": 2890.0,
+   "x": 3255.0,
+   "y": 3727.0,
    "width": 260,
-   "height": 75,
+   "height": 114,
    "color": "6"
   },
   {
    "id": "n138",
    "type": "text",
    "text": "**On Hold**\nWrites locked. From\nDesign/Pre-Con/Construction",
-   "x": 480.0,
-   "y": 1000.0,
+   "x": 1680.0,
+   "y": 1648.0,
    "width": 240,
-   "height": 75,
+   "height": 114,
    "color": "2"
   },
   {
    "id": "n139",
    "type": "text",
    "text": "**Cancelled**\nWrites locked.\nNeeds written reason",
-   "x": 960.0,
-   "y": 1000.0,
+   "x": 2130.0,
+   "y": 1648.0,
    "width": 240,
-   "height": 70,
+   "height": 114,
    "color": "1"
   },
   {
    "id": "n143",
    "type": "group",
    "label": "Design Delivery track (Design-type projects only)",
-   "x": 480.0,
-   "y": 3865.0,
+   "x": 630.0,
+   "y": 4756.0,
    "width": 1020,
    "height": 280,
    "color": "6"
@@ -701,37 +701,37 @@
    "id": "n144",
    "type": "text",
    "text": "Proposal phase:\nsame gates P1\u2013P5",
-   "x": 510.0,
-   "y": 3940.0,
+   "x": 660.0,
+   "y": 4831.0,
    "width": 240,
-   "height": 55
+   "height": 88
   },
   {
    "id": "n145",
    "type": "text",
    "text": "Design phase gates:\nDP1 lead, DP2 files,\nD2 approved, D3 blueprint,\nD4 no open design requests",
-   "x": 990.0,
-   "y": 3940.0,
+   "x": 1140.0,
+   "y": 4831.0,
    "width": 260,
-   "height": 95
+   "height": 140
   },
   {
    "id": "n146",
    "type": "text",
    "text": "Turnover phase gates:\nT1 doc on file, T2 client\naccept, T3 workflow done,\nT4 no open requests, T5 settled",
-   "x": 1530.0,
-   "y": 3940.0,
+   "x": 1680.0,
+   "y": 4831.0,
    "width": 260,
-   "height": 95
+   "height": 140
   },
   {
    "id": "n147",
    "type": "text",
    "text": "**Completed \u2192 Archived**",
-   "x": 990.0,
-   "y": 4120.0,
+   "x": 1140.0,
+   "y": 5011.0,
    "width": 240,
-   "height": 55,
+   "height": 62,
    "color": "5"
   },
   {
@@ -739,9 +739,9 @@
    "type": "text",
    "text": "**Step 3 \u00b7 Design requests**",
    "x": 1050.0,
-   "y": 4655.0,
+   "y": 5553.0,
    "width": 240,
-   "height": 55,
+   "height": 62,
    "color": "6"
   },
   {
@@ -749,9 +749,9 @@
    "type": "text",
    "text": "**Note:** real module is\n`design/design-requests`.\nNo \"DCO\" role exists in the\nactual 10 ROLE_IDS \u2014 raisers are\nPM / Engineer / Admin, responders\nare Architect / Consultant / Admin.\n(DCO is an Orra-ERP proposal only.)",
    "x": 0.0,
-   "y": 4910.0,
+   "y": 5808.0,
    "width": 300,
-   "height": 150,
+   "height": 218,
    "color": "1"
   },
   {
@@ -759,9 +759,9 @@
    "type": "text",
    "text": "**Need design info\nor approval**",
    "x": 900.0,
-   "y": 4910.0,
+   "y": 5808.0,
    "width": 260,
-   "height": 60,
+   "height": 88,
    "color": "3"
   },
   {
@@ -769,9 +769,9 @@
    "type": "text",
    "text": "**Raise as RFI\n(Request for Information)\nor RFA\n(Request for Approval)?**",
    "x": 900.0,
-   "y": 5027.0,
+   "y": 5925.0,
    "width": 240,
-   "height": 60,
+   "height": 140,
    "color": "2"
   },
   {
@@ -779,18 +779,18 @@
    "type": "text",
    "text": "**PM/Engineer (Admin\nbreak-glass):** Create request\n\u2192 state: draft",
    "x": 900.0,
-   "y": 5280.5,
+   "y": 6178.5,
    "width": 260,
-   "height": 80
+   "height": 114
   },
   {
    "id": "n156",
    "type": "text",
    "text": "**Raiser = Engineer?**",
    "x": 900.0,
-   "y": 5475.5,
+   "y": 6373.5,
    "width": 240,
-   "height": 60,
+   "height": 62,
    "color": "2"
   },
   {
@@ -798,27 +798,27 @@
    "type": "text",
    "text": "**PM/Admin:** Send request\n\u2192 state: open",
    "x": 420.0,
-   "y": 5670.5,
+   "y": 6568.5,
    "width": 260,
-   "height": 70
+   "height": 88
   },
   {
    "id": "n158",
    "type": "text",
    "text": "PM/Admin raised it\n\u2192 already open",
    "x": 1380.0,
-   "y": 5670.5,
+   "y": 6568.5,
    "width": 260,
-   "height": 65
+   "height": 88
   },
   {
    "id": "n159",
    "type": "text",
    "text": "Request **open**,\nsent to Architect/Consultant",
    "x": 900.0,
-   "y": 5885.0,
+   "y": 6783.0,
    "width": 260,
-   "height": 60,
+   "height": 88,
    "color": "5"
   },
   {
@@ -826,18 +826,18 @@
    "type": "text",
    "text": "**Architect/Consultant\n(Admin break-glass):**\nAcknowledge \u2192 in_review",
    "x": 900.0,
-   "y": 6080.0,
+   "y": 6978.0,
    "width": 260,
-   "height": 80
+   "height": 114
   },
   {
    "id": "n161",
    "type": "text",
    "text": "**Internal responder,\nor external client\nby email?**",
    "x": 900.0,
-   "y": 6294.5,
+   "y": 7192.5,
    "width": 240,
-   "height": 60,
+   "height": 114,
    "color": "2"
   },
   {
@@ -845,9 +845,9 @@
    "type": "text",
    "text": "**RFI \u2014 Architect/\nConsultant/Admin:**\nRespond with answer\n\u2192 status: **answered**",
    "x": 150.0,
-   "y": 6509.0,
+   "y": 7407.0,
    "width": 260,
-   "height": 85,
+   "height": 140,
    "color": "5"
   },
   {
@@ -855,9 +855,9 @@
    "type": "text",
    "text": "****RFA \u2014 Architect/\nConsultant/Admin:**\nRespond \u2014 choose outcome**",
    "x": 660.0,
-   "y": 6509.0,
+   "y": 7407.0,
    "width": 260,
-   "height": 85,
+   "height": 114,
    "color": "2"
   },
   {
@@ -865,9 +865,9 @@
    "type": "text",
    "text": "Outcome: **approved**",
    "x": 270.0,
-   "y": 6762.5,
+   "y": 7660.5,
    "width": 220,
-   "height": 55,
+   "height": 62,
    "color": "5"
   },
   {
@@ -875,9 +875,9 @@
    "type": "text",
    "text": "Outcome: **approved\nas noted**",
    "x": 660.0,
-   "y": 6762.5,
+   "y": 7660.5,
    "width": 220,
-   "height": 60,
+   "height": 88,
    "color": "5"
   },
   {
@@ -885,9 +885,9 @@
    "type": "text",
    "text": "Outcome: **rejected**",
    "x": 1050.0,
-   "y": 6762.5,
+   "y": 7660.5,
    "width": 220,
-   "height": 55,
+   "height": 62,
    "color": "1"
   },
   {
@@ -895,45 +895,45 @@
    "type": "text",
    "text": "Client replies by email\n(no login needed)",
    "x": 1530.0,
-   "y": 6509.0,
+   "y": 7407.0,
    "width": 260,
-   "height": 65
+   "height": 88
   },
   {
    "id": "n168",
    "type": "text",
    "text": "**Raiser (PM/Engineer):**\nRecord via client-replied\n(service refuses raiser\nresponding to internal req.)",
    "x": 1530.0,
-   "y": 6723.5,
+   "y": 7621.5,
    "width": 260,
-   "height": 100
+   "height": 140
   },
   {
    "id": "n169",
    "type": "text",
    "text": "**Raiser:** No answer yet\n\u2192 follow-up",
    "x": 150.0,
-   "y": 6996.5,
+   "y": 7894.5,
    "width": 260,
-   "height": 70
+   "height": 88
   },
   {
    "id": "n170",
    "type": "text",
    "text": "**Raiser:** Resend\nemail notification",
    "x": 150.0,
-   "y": 7230.5,
+   "y": 8128.5,
    "width": 260,
-   "height": 65
+   "height": 88
   },
   {
    "id": "n171",
    "type": "text",
    "text": "RFA **decided**\n(approved / noted / rejected)",
    "x": 660.0,
-   "y": 6996.5,
+   "y": 7894.5,
    "width": 260,
-   "height": 65,
+   "height": 88,
    "color": "5"
   },
   {
@@ -941,18 +941,18 @@
    "type": "text",
    "text": "**PM/Engineer:** Record\n**returned document**\n(RFA only, after decision \u2014\nname/position/date the\ncontractor's copy came back)",
    "x": 660.0,
-   "y": 7230.5,
+   "y": 8128.5,
    "width": 260,
-   "height": 110
+   "height": 166
   },
   {
    "id": "n173",
    "type": "text",
    "text": "**Raiser:** Close request\n(after answered or decided)",
    "x": 1140.0,
-   "y": 7503.5,
+   "y": 8401.5,
    "width": 260,
-   "height": 70,
+   "height": 88,
    "color": "5"
   },
   {
@@ -960,9 +960,9 @@
    "type": "text",
    "text": "**Admin/Owner/IT\nDesigner:** Attention\ndashboard \u2014 overdue,\nnever-sent drafts,\nstalled stages",
    "x": 2070.0,
-   "y": 5300.0,
+   "y": 6198.0,
    "width": 280,
-   "height": 110,
+   "height": 166,
    "color": "6"
   },
   {
@@ -970,27 +970,27 @@
    "type": "text",
    "text": "**Admin:** Trigger\nautomated sweep job",
    "x": 2070.0,
-   "y": 5534.0,
+   "y": 6432.0,
    "width": 280,
-   "height": 65
+   "height": 88
   },
   {
    "id": "n202",
    "type": "text",
    "text": "**Any role:** View\nimpact-forecast\n(read-only cost/schedule\npreview before approving)",
    "x": 2070.0,
-   "y": 5768.0,
+   "y": 6666.0,
    "width": 280,
-   "height": 90
+   "height": 140
   },
   {
    "id": "n206",
    "type": "text",
    "text": "**Step 4 \u00b7 Transmittals**",
    "x": 3040.0,
-   "y": 4655.0,
+   "y": 5553.0,
    "width": 240,
-   "height": 55,
+   "height": 62,
    "color": "6"
   },
   {
@@ -998,7 +998,7 @@
    "type": "group",
    "label": "Transmittals (design/transmittals)",
    "x": 2830.0,
-   "y": 4850.0,
+   "y": 5748.0,
    "width": 1180,
    "height": 280,
    "color": "5"
@@ -1008,27 +1008,27 @@
    "type": "text",
    "text": "**PM/Engineer/Architect/\nAdmin:** Create transmittal",
    "x": 2890.0,
-   "y": 4910.0,
+   "y": 5808.0,
    "width": 280,
-   "height": 70
+   "height": 88
   },
   {
    "id": "n209",
    "type": "text",
    "text": "Update transmittal\n(while draft)",
    "x": 3400.0,
-   "y": 4910.0,
+   "y": 5808.0,
    "width": 280,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n210",
    "type": "text",
    "text": "**Issue** \u2192 send to\nrecipients by email",
    "x": 3910.0,
-   "y": 4910.0,
+   "y": 5808.0,
    "width": 280,
-   "height": 65,
+   "height": 88,
    "color": "5"
   },
   {
@@ -1036,18 +1036,18 @@
    "type": "text",
    "text": "Resend email\nnotification",
    "x": 3400.0,
-   "y": 5105.0,
+   "y": 6003.0,
    "width": 280,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n212",
    "type": "text",
    "text": "Recipients record\nacknowledgements",
    "x": 3910.0,
-   "y": 5105.0,
+   "y": 6003.0,
    "width": 280,
-   "height": 65,
+   "height": 88,
    "color": "4"
   },
   {
@@ -1055,9 +1055,9 @@
    "type": "text",
    "text": "**Step 5 \u00b7 Purchase requests**",
    "x": 5330.0,
-   "y": 4655.0,
+   "y": 5553.0,
    "width": 240,
-   "height": 55,
+   "height": 62,
    "color": "6"
   },
   {
@@ -1065,7 +1065,7 @@
    "type": "group",
    "label": "Purchase Requests (finance/purchase-requests)",
    "x": 5120.0,
-   "y": 4850.0,
+   "y": 5748.0,
    "width": 960,
    "height": 340,
    "color": "3"
@@ -1075,9 +1075,9 @@
    "type": "text",
    "text": "**Material or service\nneeded**",
    "x": 5180.0,
-   "y": 4910.0,
+   "y": 5808.0,
    "width": 260,
-   "height": 60,
+   "height": 88,
    "color": "3"
   },
   {
@@ -1085,18 +1085,18 @@
    "type": "text",
    "text": "**Engineer/PM:**\nCreate PR",
    "x": 5180.0,
-   "y": 5105.0,
+   "y": 6003.0,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n221",
    "type": "text",
    "text": "****PM:** Endorse\nor reject PR?**",
    "x": 5180.0,
-   "y": 5300.0,
+   "y": 6198.0,
    "width": 240,
-   "height": 60,
+   "height": 88,
    "color": "2"
   },
   {
@@ -1104,9 +1104,9 @@
    "type": "text",
    "text": "**PM:** Reject PR\n(ends here)",
    "x": 4670.0,
-   "y": 5495.0,
+   "y": 6393.0,
    "width": 260,
-   "height": 60,
+   "height": 88,
    "color": "1"
   },
   {
@@ -1114,9 +1114,9 @@
    "type": "text",
    "text": "PR **endorsed**",
    "x": 5180.0,
-   "y": 5495.0,
+   "y": 6393.0,
    "width": 260,
-   "height": 55,
+   "height": 62,
    "color": "5"
   },
   {
@@ -1124,9 +1124,9 @@
    "type": "text",
    "text": "****Finance:** Approve\nor reject PR?**",
    "x": 5180.0,
-   "y": 5690.0,
+   "y": 6588.0,
    "width": 240,
-   "height": 60,
+   "height": 88,
    "color": "2"
   },
   {
@@ -1134,9 +1134,9 @@
    "type": "text",
    "text": "**Finance:** Reject PR\n(ends here)",
    "x": 4670.0,
-   "y": 5885.0,
+   "y": 6783.0,
    "width": 260,
-   "height": 60,
+   "height": 88,
    "color": "1"
   },
   {
@@ -1144,9 +1144,9 @@
    "type": "text",
    "text": "PR **approved**\n\u2192 ready for Procurement",
    "x": 5180.0,
-   "y": 5885.0,
+   "y": 6783.0,
    "width": 260,
-   "height": 65,
+   "height": 88,
    "color": "5"
   },
   {
@@ -1154,9 +1154,9 @@
    "type": "text",
    "text": "**Engineer/PM/Finance/\nAdmin:** Cancel PR\n(at any point before order)",
    "x": 5690.0,
-   "y": 5397.5,
+   "y": 6295.5,
    "width": 300,
-   "height": 80,
+   "height": 114,
    "color": "1"
   },
   {
@@ -1164,9 +1164,9 @@
    "type": "text",
    "text": "**Step 6 \u00b7 Procurement orders**",
    "x": 660.0,
-   "y": 8053.5,
+   "y": 8969.5,
    "width": 240,
-   "height": 55,
+   "height": 62,
    "color": "6"
   },
   {
@@ -1174,7 +1174,7 @@
    "type": "group",
    "label": "Procurement Orders (finance/procurement)",
    "x": 450.0,
-   "y": 8248.5,
+   "y": 9164.5,
    "width": 1220,
    "height": 340,
    "color": "3"
@@ -1184,45 +1184,45 @@
    "type": "text",
    "text": "**Finance:** Create order\n(after PR approved)",
    "x": 510.0,
-   "y": 8308.5,
+   "y": 9224.5,
    "width": 260,
-   "height": 65
+   "height": 88
   },
   {
    "id": "n239",
    "type": "text",
    "text": "**Admin:** Approve order\nabove limit",
    "x": 0.0,
-   "y": 8308.5,
+   "y": 9224.5,
    "width": 280,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n240",
    "type": "text",
    "text": "**Finance:** Ship order",
    "x": 510.0,
-   "y": 8503.5,
+   "y": 9419.5,
    "width": 260,
-   "height": 55
+   "height": 62
   },
   {
    "id": "n241",
    "type": "text",
    "text": "**Receiver (Engineer/\nSite Personnel/PM/Admin \u2014\nnever the PR creator):**\nDeliver order",
    "x": 510.0,
-   "y": 8698.5,
+   "y": 9614.5,
    "width": 260,
-   "height": 95
+   "height": 140
   },
   {
    "id": "n242",
    "type": "text",
    "text": "**Finance:** Pay order",
    "x": 510.0,
-   "y": 8923.5,
+   "y": 9839.5,
    "width": 260,
-   "height": 60,
+   "height": 62,
    "color": "5"
   },
   {
@@ -1230,9 +1230,9 @@
    "type": "text",
    "text": "**Finance:** Cancel\norder",
    "x": 1080.0,
-   "y": 8503.5,
+   "y": 9419.5,
    "width": 280,
-   "height": 55,
+   "height": 88,
    "color": "1"
   },
   {
@@ -1240,18 +1240,18 @@
    "type": "text",
    "text": "**Finance:** Resume\ncancelled order",
    "x": 1080.0,
-   "y": 8698.5,
+   "y": 9614.5,
    "width": 280,
-   "height": 55
+   "height": 88
   },
   {
    "id": "n245",
    "type": "text",
    "text": "**Finance:** Void order\n(terminal)",
    "x": 1080.0,
-   "y": 8893.5,
+   "y": 9809.5,
    "width": 280,
-   "height": 55,
+   "height": 88,
    "color": "1"
   },
   {
@@ -1259,9 +1259,9 @@
    "type": "text",
    "text": "**All PRs/orders\nsettled?**",
    "x": 510.0,
-   "y": 9163.5,
+   "y": 10079.5,
    "width": 240,
-   "height": 60,
+   "height": 88,
    "color": "2"
   },
   {
@@ -1269,9 +1269,9 @@
    "type": "text",
    "text": "Unsettled blocks\nproject closeout\n*(gate X6)*",
    "x": 510.0,
-   "y": 9358.5,
+   "y": 10274.5,
    "width": 260,
-   "height": 70,
+   "height": 114,
    "color": "1"
   },
   {
@@ -1279,9 +1279,9 @@
    "type": "text",
    "text": "**Step 7 \u00b7 Attendance & payroll**",
    "x": 2810.0,
-   "y": 8053.5,
+   "y": 8969.5,
    "width": 240,
-   "height": 55,
+   "height": 62,
    "color": "6"
   },
   {
@@ -1289,18 +1289,18 @@
    "type": "text",
    "text": "**HR:** Manage employee\nrecords (create/update/\ndelete)",
    "x": 2150.0,
-   "y": 8308.5,
+   "y": 9224.5,
    "width": 280,
-   "height": 75
+   "height": 114
   },
   {
    "id": "n260",
    "type": "text",
    "text": "**Staff arrives**",
    "x": 2660.0,
-   "y": 8308.5,
+   "y": 9224.5,
    "width": 260,
-   "height": 55,
+   "height": 62,
    "color": "3"
   },
   {
@@ -1308,9 +1308,9 @@
    "type": "text",
    "text": "**Location?**",
    "x": 2660.0,
-   "y": 8503.5,
+   "y": 9419.5,
    "width": 240,
-   "height": 60,
+   "height": 62,
    "color": "2"
   },
   {
@@ -1318,27 +1318,27 @@
    "type": "text",
    "text": "**Office:** One-button\nclock-in",
    "x": 2180.0,
-   "y": 8698.5,
+   "y": 9614.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n263",
    "type": "text",
    "text": "**Site:** Phone clock-in\nwith geolocation",
    "x": 3140.0,
-   "y": 8698.5,
+   "y": 9614.5,
    "width": 260,
-   "height": 65
+   "height": 88
   },
   {
    "id": "n264",
    "type": "text",
    "text": "**Inside geofence?**",
    "x": 3140.0,
-   "y": 8893.5,
+   "y": 9809.5,
    "width": 240,
-   "height": 60,
+   "height": 62,
    "color": "2"
   },
   {
@@ -1346,18 +1346,18 @@
    "type": "text",
    "text": "Flagged, not blocked",
    "x": 3620.0,
-   "y": 8893.5,
+   "y": 9809.5,
    "width": 240,
-   "height": 55
+   "height": 62
   },
   {
    "id": "n266",
    "type": "text",
    "text": "Attendance record\ncreated",
    "x": 2660.0,
-   "y": 9088.5,
+   "y": 10004.5,
    "width": 260,
-   "height": 60,
+   "height": 88,
    "color": "5"
   },
   {
@@ -1365,54 +1365,54 @@
    "type": "text",
    "text": "**HR:** Verify attendance\n(list + summary)",
    "x": 2660.0,
-   "y": 9283.5,
+   "y": 10199.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n268",
    "type": "text",
    "text": "**HR:** Generate payroll\n(tracksheet)",
    "x": 2660.0,
-   "y": 9478.5,
+   "y": 10394.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n269",
    "type": "text",
    "text": "**HR:** Compute gross\nlabor / gross tracking",
    "x": 2660.0,
-   "y": 9673.5,
+   "y": 10589.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n270",
    "type": "text",
    "text": "**HR:** Submit payroll\nbatch",
    "x": 2660.0,
-   "y": 9868.5,
+   "y": 10784.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n271",
    "type": "text",
    "text": "**Finance:** Review\npayroll batch",
    "x": 2660.0,
-   "y": 10063.5,
+   "y": 10979.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n272",
    "type": "text",
    "text": "**Validation OK?**",
    "x": 2660.0,
-   "y": 10258.5,
+   "y": 11174.5,
    "width": 240,
-   "height": 60,
+   "height": 62,
    "color": "2"
   },
   {
@@ -1420,18 +1420,18 @@
    "type": "text",
    "text": "**HR:** Fix payroll\nentries",
    "x": 2180.0,
-   "y": 10063.5,
+   "y": 10979.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n274",
    "type": "text",
    "text": "**Finance:** Approve\npayroll \u2192 Paid",
    "x": 2660.0,
-   "y": 10453.5,
+   "y": 11369.5,
    "width": 260,
-   "height": 60,
+   "height": 88,
    "color": "5"
   },
   {
@@ -1439,9 +1439,9 @@
    "type": "text",
    "text": "Workforce report\n(reports/workforce)",
    "x": 3170.0,
-   "y": 10258.5,
+   "y": 11174.5,
    "width": 240,
-   "height": 55,
+   "height": 88,
    "color": "5"
   },
   {
@@ -1449,9 +1449,9 @@
    "type": "text",
    "text": "**HR/Admin/Owner:**\nFairness report\n(workforce-reports)",
    "x": 3170.0,
-   "y": 10453.5,
+   "y": 11369.5,
    "width": 260,
-   "height": 60,
+   "height": 114,
    "color": "5"
   },
   {
@@ -1459,9 +1459,9 @@
    "type": "text",
    "text": "Payroll summary report",
    "x": 3170.0,
-   "y": 10648.5,
+   "y": 11564.5,
    "width": 240,
-   "height": 50,
+   "height": 62,
    "color": "5"
   },
   {
@@ -1469,9 +1469,9 @@
    "type": "text",
    "text": "**Step 8 \u00b7 Document vault**",
    "x": 4970.0,
-   "y": 8053.5,
+   "y": 8969.5,
    "width": 240,
-   "height": 55,
+   "height": 62,
    "color": "6"
   },
   {
@@ -1479,7 +1479,7 @@
    "type": "group",
    "label": "Secure Document Vault",
    "x": 4760.0,
-   "y": 8248.5,
+   "y": 9164.5,
    "width": 1600,
    "height": 1160,
    "color": "3"
@@ -1489,9 +1489,9 @@
    "type": "text",
    "text": "**User uploads a file**",
    "x": 4820.0,
-   "y": 8308.5,
+   "y": 9224.5,
    "width": 260,
-   "height": 55,
+   "height": 62,
    "color": "3"
   },
   {
@@ -1499,9 +1499,9 @@
    "type": "text",
    "text": "**Confidentiality\nlevel?**",
    "x": 4820.0,
-   "y": 8503.5,
+   "y": 9419.5,
    "width": 240,
-   "height": 60,
+   "height": 88,
    "color": "2"
   },
   {
@@ -1509,54 +1509,54 @@
    "type": "text",
    "text": "Internal/Confidential \u2192\nupload to Drive",
    "x": 4340.0,
-   "y": 8698.5,
+   "y": 9614.5,
    "width": 260,
-   "height": 65
+   "height": 88
   },
   {
    "id": "n304",
    "type": "text",
    "text": "Restricted \u2192 API\nencrypts (AES-GCM)",
    "x": 5300.0,
-   "y": 8698.5,
+   "y": 9614.5,
    "width": 260,
-   "height": 65
+   "height": 88
   },
   {
    "id": "n305",
    "type": "text",
    "text": "Upload ciphertext\nto Drive",
    "x": 5300.0,
-   "y": 8893.5,
+   "y": 9809.5,
    "width": 260,
-   "height": 55
+   "height": 88
   },
   {
    "id": "n306",
    "type": "text",
    "text": "SHA-256 hash computed\n+ stored",
    "x": 4820.0,
-   "y": 9088.5,
+   "y": 10004.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n307",
    "type": "text",
    "text": "Record in stored_files\ntable",
    "x": 4820.0,
-   "y": 9283.5,
+   "y": 10199.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n308",
    "type": "text",
    "text": "Log upload in\naudit trail",
    "x": 4820.0,
-   "y": 9478.5,
+   "y": 10394.5,
    "width": 260,
-   "height": 55,
+   "height": 88,
    "color": "5"
   },
   {
@@ -1564,18 +1564,18 @@
    "type": "text",
    "text": "**User requests file**",
    "x": 5870.0,
-   "y": 8308.5,
+   "y": 9224.5,
    "width": 260,
-   "height": 55
+   "height": 62
   },
   {
    "id": "n318",
    "type": "text",
    "text": "**Has access\ngrant?**",
    "x": 5870.0,
-   "y": 8503.5,
+   "y": 9419.5,
    "width": 240,
-   "height": 60,
+   "height": 88,
    "color": "2"
   },
   {
@@ -1583,27 +1583,27 @@
    "type": "text",
    "text": "Submit document access\nrequest (DAR)",
    "x": 6380.0,
-   "y": 8698.5,
+   "y": 9614.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n320",
    "type": "text",
    "text": "**Admin:** Grant\nor deny access",
    "x": 6380.0,
-   "y": 8893.5,
+   "y": 9809.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n321",
    "type": "text",
    "text": "**Download file**",
    "x": 5870.0,
-   "y": 8698.5,
+   "y": 9614.5,
    "width": 260,
-   "height": 55,
+   "height": 62,
    "color": "5"
   },
   {
@@ -1611,27 +1611,27 @@
    "type": "text",
    "text": "Restricted \u2192 API\ndecrypts before serving",
    "x": 5870.0,
-   "y": 8893.5,
+   "y": 9809.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n323",
    "type": "text",
    "text": "Verify SHA-256\non download",
    "x": 5870.0,
-   "y": 9088.5,
+   "y": 10004.5,
    "width": 260,
-   "height": 55
+   "height": 88
   },
   {
    "id": "n324",
    "type": "text",
    "text": "Log download in\naudit trail",
    "x": 5870.0,
-   "y": 9283.5,
+   "y": 10199.5,
    "width": 260,
-   "height": 55,
+   "height": 88,
    "color": "5"
   },
   {
@@ -1639,18 +1639,18 @@
    "type": "text",
    "text": "**New version uploaded**",
    "x": 4820.0,
-   "y": 9598.5,
+   "y": 10514.5,
    "width": 260,
-   "height": 55
+   "height": 62
   },
   {
    "id": "n333",
    "type": "text",
    "text": "Link to same document,\nincrement version",
    "x": 4820.0,
-   "y": 9793.5,
+   "y": 10709.5,
    "width": 260,
-   "height": 60,
+   "height": 88,
    "color": "5"
   },
   {
@@ -1658,36 +1658,36 @@
    "type": "text",
    "text": "**User requests\ndeletion**",
    "x": 4820.0,
-   "y": 10048.5,
+   "y": 10964.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n337",
    "type": "text",
    "text": "1st approver: Admin",
    "x": 4820.0,
-   "y": 10243.5,
+   "y": 11159.5,
    "width": 260,
-   "height": 55
+   "height": 62
   },
   {
    "id": "n338",
    "type": "text",
    "text": "2nd approver: Owner",
    "x": 4820.0,
-   "y": 10438.5,
+   "y": 11354.5,
    "width": 260,
-   "height": 55
+   "height": 62
   },
   {
    "id": "n339",
    "type": "text",
    "text": "Permanent delete from\nDrive + database",
    "x": 4820.0,
-   "y": 10633.5,
+   "y": 11549.5,
    "width": 260,
-   "height": 60,
+   "height": 88,
    "color": "1"
   },
   {
@@ -1695,18 +1695,18 @@
    "type": "text",
    "text": "**Admin sets\nlegal hold**",
    "x": 5330.0,
-   "y": 10048.5,
+   "y": 10964.5,
    "width": 280,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n341",
    "type": "text",
    "text": "All deletion blocked\non this document",
    "x": 5330.0,
-   "y": 10243.5,
+   "y": 11159.5,
    "width": 280,
-   "height": 60,
+   "height": 88,
    "color": "1"
   },
   {
@@ -1714,36 +1714,36 @@
    "type": "text",
    "text": "**Staff opens\nGoogle Picker**",
    "x": 4820.0,
-   "y": 10888.5,
+   "y": 11804.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n347",
    "type": "text",
    "text": "Select existing\nDrive files",
    "x": 4820.0,
-   "y": 11083.5,
+   "y": 11999.5,
    "width": 260,
-   "height": 55
+   "height": 88
   },
   {
    "id": "n348",
    "type": "text",
    "text": "App indexes:\nfile id + SHA-256",
    "x": 4820.0,
-   "y": 11278.5,
+   "y": 12194.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n349",
    "type": "text",
    "text": "Optionally copy into\nmanaged folder tree",
    "x": 4820.0,
-   "y": 11473.5,
+   "y": 12389.5,
    "width": 260,
-   "height": 60,
+   "height": 88,
    "color": "5"
   },
   {
@@ -1751,27 +1751,27 @@
    "type": "text",
    "text": "**Architect:** CRUD\narchitect-specific documents\n(design/architect-documents)",
    "x": 4820.0,
-   "y": 11728.5,
+   "y": 12644.5,
    "width": 340,
-   "height": 75
+   "height": 114
   },
   {
    "id": "n354",
    "type": "text",
    "text": "**Admin:** Manage document\ntype taxonomy\n(via platform/reference)",
    "x": 5450.0,
-   "y": 11728.5,
+   "y": 12644.5,
    "width": 340,
-   "height": 75
+   "height": 114
   },
   {
    "id": "n355",
    "type": "text",
    "text": "**Step 9 \u00b7 Workflow engine**",
    "x": 630.0,
-   "y": 12283.5,
+   "y": 13238.5,
    "width": 240,
-   "height": 55,
+   "height": 62,
    "color": "6"
   },
   {
@@ -1779,9 +1779,9 @@
    "type": "text",
    "text": "**Authorized role\nstarts a workflow**",
    "x": 480.0,
-   "y": 12538.5,
+   "y": 13493.5,
    "width": 260,
-   "height": 65,
+   "height": 88,
    "color": "3"
   },
   {
@@ -1789,36 +1789,36 @@
    "type": "text",
    "text": "Select from 8\nseeded templates",
    "x": 480.0,
-   "y": 12733.5,
+   "y": 13688.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n358",
    "type": "text",
    "text": "Create workflow instance\nfor the project",
    "x": 480.0,
-   "y": 12928.5,
+   "y": 13883.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n359",
    "type": "text",
    "text": "Stage 1: assigned\nrole acts",
    "x": 480.0,
-   "y": 13123.5,
+   "y": 14078.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n360",
    "type": "text",
    "text": "**Decide?**",
    "x": 480.0,
-   "y": 13318.5,
+   "y": 14273.5,
    "width": 240,
-   "height": 60,
+   "height": 62,
    "color": "2"
   },
   {
@@ -1826,18 +1826,18 @@
    "type": "text",
    "text": "Approve \u2192 next stage",
    "x": 0.0,
-   "y": 13513.5,
+   "y": 14468.5,
    "width": 260,
-   "height": 55
+   "height": 62
   },
   {
    "id": "n362",
    "type": "text",
    "text": "Reject \u2192 notify\ninitiator",
    "x": 480.0,
-   "y": 13513.5,
+   "y": 14468.5,
    "width": 260,
-   "height": 60,
+   "height": 88,
    "color": "1"
   },
   {
@@ -1845,18 +1845,18 @@
    "type": "text",
    "text": "Revise \u2192 initiator\nresubmits",
    "x": 960.0,
-   "y": 13513.5,
+   "y": 14468.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n364",
    "type": "text",
    "text": "**More stages?**",
    "x": 0.0,
-   "y": 13708.5,
+   "y": 14663.5,
    "width": 240,
-   "height": 60,
+   "height": 62,
    "color": "2"
   },
   {
@@ -1864,18 +1864,18 @@
    "type": "text",
    "text": "Stage N: next\nrole acts",
    "x": 0.0,
-   "y": 13903.5,
+   "y": 14858.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n366",
    "type": "text",
    "text": "**Workflow completed**",
    "x": 0.0,
-   "y": 14098.5,
+   "y": 15053.5,
    "width": 260,
-   "height": 55,
+   "height": 62,
    "color": "5"
   },
   {
@@ -1883,81 +1883,81 @@
    "type": "text",
    "text": "Attach files to\nworkflow",
    "x": 1440.0,
-   "y": 12928.5,
+   "y": 13883.5,
    "width": 260,
-   "height": 55
+   "height": 88
   },
   {
    "id": "n368",
    "type": "text",
    "text": "View impact forecast",
    "x": 1440.0,
-   "y": 13123.5,
+   "y": 14078.5,
    "width": 260,
-   "height": 55
+   "height": 62
   },
   {
    "id": "n383",
    "type": "text",
    "text": "**Admin:** Create\nworkflow template",
    "x": 1440.0,
-   "y": 13513.5,
+   "y": 14468.5,
    "width": 260,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n384",
    "type": "text",
    "text": "Define stages,\nroles, order",
    "x": 1440.0,
-   "y": 13708.5,
+   "y": 14663.5,
    "width": 260,
-   "height": 55
+   "height": 88
   },
   {
    "id": "n385",
    "type": "text",
    "text": "**Admin:** Delete\ntemplate",
    "x": 1440.0,
-   "y": 13903.5,
+   "y": 14858.5,
    "width": 260,
-   "height": 55
+   "height": 88
   },
   {
    "id": "n388",
    "type": "text",
    "text": "**Engineer:** Starts\nbudget change workflow",
    "x": 2010.0,
-   "y": 12928.5,
+   "y": 13883.5,
    "width": 280,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n389",
    "type": "text",
    "text": "**Finance:** Review\nbudget impact",
    "x": 2010.0,
-   "y": 13123.5,
+   "y": 14078.5,
    "width": 280,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n390",
    "type": "text",
    "text": "**PM:** Approve\nor reject",
    "x": 2010.0,
-   "y": 13318.5,
+   "y": 14273.5,
    "width": 280,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n393",
    "type": "text",
    "text": "**Step 10 \u00b7 Governance & planning**",
    "x": 3400.0,
-   "y": 12283.5,
+   "y": 13238.5,
    "width": 240,
-   "height": 55,
+   "height": 62,
    "color": "6"
   },
   {
@@ -1965,7 +1965,7 @@
    "type": "group",
    "label": "Project Governance & Planning (new)",
    "x": 3190.0,
-   "y": 12478.5,
+   "y": 13433.5,
    "width": 1560,
    "height": 460,
    "color": "4"
@@ -1975,9 +1975,9 @@
    "type": "text",
    "text": "AI generates plan\nsuggestion items\nper project",
    "x": 3250.0,
-   "y": 12538.5,
+   "y": 13493.5,
    "width": 280,
-   "height": 65,
+   "height": 114,
    "color": "3"
   },
   {
@@ -1985,18 +1985,18 @@
    "type": "text",
    "text": "**Architect/Consultant/\nOwner:** Read-only view",
    "x": 3250.0,
-   "y": 12733.5,
+   "y": 13688.5,
    "width": 280,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n397",
    "type": "text",
    "text": "****PM/Admin:** Accept,\ndiscard, or regenerate?**",
    "x": 3250.0,
-   "y": 12928.5,
+   "y": 13883.5,
    "width": 240,
-   "height": 60,
+   "height": 88,
    "color": "2"
   },
   {
@@ -2004,9 +2004,9 @@
    "type": "text",
    "text": "Accept (optionally\nassign to a user)",
    "x": 2770.0,
-   "y": 13123.5,
+   "y": 14078.5,
    "width": 280,
-   "height": 60,
+   "height": 88,
    "color": "5"
   },
   {
@@ -2014,9 +2014,9 @@
    "type": "text",
    "text": "Discard item",
    "x": 3250.0,
-   "y": 13123.5,
+   "y": 14078.5,
    "width": 280,
-   "height": 50,
+   "height": 62,
    "color": "1"
   },
   {
@@ -2024,36 +2024,36 @@
    "type": "text",
    "text": "Regenerate whole\nsuggestion set",
    "x": 3730.0,
-   "y": 13123.5,
+   "y": 14078.5,
    "width": 280,
-   "height": 55
+   "height": 88
   },
   {
    "id": "n406",
    "type": "text",
    "text": "**PM (own projects)/\nAdmin:** Manage external\nstakeholder registry",
    "x": 3940.0,
-   "y": 12538.5,
+   "y": 13493.5,
    "width": 300,
-   "height": 75
+   "height": 114
   },
   {
    "id": "n407",
    "type": "text",
    "text": "Create / update / delete\nstakeholder record",
    "x": 3940.0,
-   "y": 12733.5,
+   "y": 13688.5,
    "width": 300,
-   "height": 60
+   "height": 88
   },
   {
    "id": "n408",
    "type": "text",
    "text": "Emails/phones visible\nonly to PM/Admin",
    "x": 3940.0,
-   "y": 12928.5,
+   "y": 13883.5,
    "width": 300,
-   "height": 55,
+   "height": 88,
    "color": "5"
   },
   {
@@ -2061,27 +2061,27 @@
    "type": "text",
    "text": "**Architect:** Submit\ndraft document revision\n+ attach files",
    "x": 4480.0,
-   "y": 12538.5,
+   "y": 13493.5,
    "width": 300,
-   "height": 75
+   "height": 114
   },
   {
    "id": "n412",
    "type": "text",
    "text": "**Consultant/PM/Admin:**\nDecide status\n(patch /:id/status)",
    "x": 4480.0,
-   "y": 12733.5,
+   "y": 13688.5,
    "width": 300,
-   "height": 70
+   "height": 114
   },
   {
    "id": "n413",
    "type": "text",
    "text": "Summary, compare,\nhistory by item,\ndownload",
    "x": 4480.0,
-   "y": 12928.5,
+   "y": 13883.5,
    "width": 300,
-   "height": 70,
+   "height": 114,
    "color": "5"
   },
   {
@@ -2089,9 +2089,9 @@
    "type": "text",
    "text": "**All roles:** Calendar \u2014\nread-only, role-scoped,\n60s cache, aggregates events\nfrom other modules",
    "x": 3250.0,
-   "y": 13348.5,
+   "y": 14303.5,
    "width": 320,
-   "height": 90,
+   "height": 140,
    "color": "5"
   },
   {
@@ -2099,9 +2099,9 @@
    "type": "text",
    "text": "**Project dashboard:**\nsummary, cycle-times\n(Owner/Admin/IT Designer),\nworkforce board",
    "x": 3820.0,
-   "y": 13348.5,
+   "y": 14303.5,
    "width": 320,
-   "height": 90,
+   "height": 140,
    "color": "5"
   },
   {
@@ -2109,9 +2109,9 @@
    "type": "text",
    "text": "**Owner/Admin/IT\nDesigner:** Company-wide\nworkforce overview",
    "x": 4390.0,
-   "y": 13348.5,
+   "y": 14303.5,
    "width": 320,
-   "height": 75,
+   "height": 114,
    "color": "5"
   },
   {
@@ -2119,9 +2119,9 @@
    "type": "text",
    "text": "**Step 11 \u00b7 Account & support**",
    "x": 5470.0,
-   "y": 12283.5,
+   "y": 13238.5,
    "width": 240,
-   "height": 55,
+   "height": 62,
    "color": "6"
   },
   {
@@ -2129,7 +2129,7 @@
    "type": "group",
    "label": "Account, Support & Notifications (new)",
    "x": 5260.0,
-   "y": 12478.5,
+   "y": 13433.5,
    "width": 1260,
    "height": 300,
    "color": "6"
@@ -2139,45 +2139,45 @@
    "type": "text",
    "text": "**Any role except\nIT Designer:** File account\nsupport request\n(password reset, email\nchange, role access,\ncannot sign in, other)",
    "x": 5320.0,
-   "y": 12538.5,
+   "y": 13493.5,
    "width": 320,
-   "height": 120
+   "height": 192
   },
   {
    "id": "n424",
    "type": "text",
    "text": "Requester sees\nonly own requests",
    "x": 5320.0,
-   "y": 12823.5,
+   "y": 13778.5,
    "width": 320,
-   "height": 55
+   "height": 88
   },
   {
    "id": "n425",
    "type": "text",
    "text": "**IT Designer:** Sees\nfull inbox, resolves\nor declines (resolution\nnote required to close)",
    "x": 5890.0,
-   "y": 12538.5,
+   "y": 13493.5,
    "width": 320,
-   "height": 105
+   "height": 140
   },
   {
    "id": "n428",
    "type": "text",
    "text": "**Any user:** Toggle\nemailOverdueReminders\n(user-settings, default on)\n\u2192 feeds daily overdue job",
    "x": 6460.0,
-   "y": 12538.5,
+   "y": 13493.5,
    "width": 320,
-   "height": 100
+   "height": 140
   },
   {
    "id": "n429",
    "type": "text",
    "text": "**Any role:** Live\nnotification feed\n(get/stream/live SSE)",
    "x": 5890.0,
-   "y": 12823.5,
+   "y": 13778.5,
    "width": 320,
-   "height": 80,
+   "height": 114,
    "color": "5"
   },
   {
@@ -2185,18 +2185,18 @@
    "type": "text",
    "text": "Mark notification read.\nCreated by server events\nonly \u2014 no public POST\n(no cross-role spoofing)",
    "x": 6460.0,
-   "y": 12823.5,
+   "y": 13778.5,
    "width": 320,
-   "height": 90
+   "height": 140
   },
   {
    "id": "n432",
    "type": "text",
    "text": "**Step 12 \u00b7 Finance reporting**",
    "x": 210.0,
-   "y": 14633.5,
+   "y": 15595.5,
    "width": 240,
-   "height": 55,
+   "height": 62,
    "color": "6"
   },
   {
@@ -2204,7 +2204,7 @@
    "type": "group",
    "label": "Finance Reporting & Reference Data (new)",
    "x": 0.0,
-   "y": 14828.5,
+   "y": 15790.5,
    "width": 1560,
    "height": 300,
    "color": "3"
@@ -2214,9 +2214,9 @@
    "type": "text",
    "text": "**Finance roles:** Cash-flow\nview (read-only)",
    "x": 60.0,
-   "y": 14888.5,
+   "y": 15850.5,
    "width": 280,
-   "height": 60,
+   "height": 88,
    "color": "5"
   },
   {
@@ -2224,9 +2224,9 @@
    "type": "text",
    "text": "**Finance roles:** Project\nprofitability view",
    "x": 570.0,
-   "y": 14888.5,
+   "y": 15850.5,
    "width": 280,
-   "height": 60,
+   "height": 88,
    "color": "5"
   },
   {
@@ -2234,9 +2234,9 @@
    "type": "text",
    "text": "**Finance roles:** Company\nfinancial summary",
    "x": 1080.0,
-   "y": 14888.5,
+   "y": 15850.5,
    "width": 280,
-   "height": 60,
+   "height": 88,
    "color": "5"
   },
   {
@@ -2244,9 +2244,9 @@
    "type": "text",
    "text": "**Admin/IT Designer/\nOwner:** Reconciliation\nview (read-only)",
    "x": 1590.0,
-   "y": 14888.5,
+   "y": 15850.5,
    "width": 280,
-   "height": 65,
+   "height": 114,
    "color": "5"
   },
   {
@@ -2254,36 +2254,36 @@
    "type": "text",
    "text": "**Finance Manager:**\nManage expense categories\n(create/update/retire/restore)",
    "x": 60.0,
-   "y": 15083.5,
+   "y": 16045.5,
    "width": 320,
-   "height": 75
+   "height": 114
   },
   {
    "id": "n439",
    "type": "text",
    "text": "Most roles: read\ncategory dropdown\n(finance/categories)",
    "x": 630.0,
-   "y": 15083.5,
+   "y": 16045.5,
    "width": 300,
-   "height": 60
+   "height": 114
   },
   {
    "id": "n440",
    "type": "text",
    "text": "Material price reference\ndata (backs PR/BCR\npricing)",
    "x": 1200.0,
-   "y": 15083.5,
+   "y": 16045.5,
    "width": 300,
-   "height": 60
+   "height": 114
   },
   {
    "id": "n441",
    "type": "text",
    "text": "**IT Designer:** View AI\nvalidation config;\n**Admin:** refresh reference\ncost catalog (manual)",
    "x": 1770.0,
-   "y": 15083.5,
+   "y": 16045.5,
    "width": 300,
-   "height": 90,
+   "height": 140,
    "color": "4"
   },
   {
@@ -2291,9 +2291,9 @@
    "type": "text",
    "text": "**Step 13 \u00b7 Admin & platform**",
    "x": 2700.0,
-   "y": 14633.5,
+   "y": 15595.5,
    "width": 240,
-   "height": 55,
+   "height": 62,
    "color": "6"
   },
   {
@@ -2301,7 +2301,7 @@
    "type": "group",
    "label": "IT Designer",
    "x": 2550.0,
-   "y": 14888.5,
+   "y": 15850.5,
    "width": 300,
    "height": 300,
    "color": "5"
@@ -2311,16 +2311,16 @@
    "type": "text",
    "text": "\u2022 Manage user accounts\n(create, update, delete)\n\u2022 Manage roles & permissions\n\u2022 Resolve/decline support\nrequests (own inbox hidden)\n\u2022 View audit logs & security\n\u2022 Manage document types\n\u2022 View reconciliation data\n\u2022 View AI validation config",
    "x": 2580.0,
-   "y": 14933.5,
+   "y": 15895.5,
    "width": 260,
-   "height": 250
+   "height": 270
   },
   {
    "id": "n448",
    "type": "group",
    "label": "Admin Manager",
    "x": 3120.0,
-   "y": 14888.5,
+   "y": 15850.5,
    "width": 300,
    "height": 300,
    "color": "2"
@@ -2330,7 +2330,7 @@
    "type": "text",
    "text": "\u2022 All PM overrides\n\u2022 Archive projects (Admin only)\n\u2022 Manage workflow templates\n\u2022 Override PM approvals\n(needs 10+ char reason)\n\u2022 Approve orders above limit\n\u2022 Trigger design-request sweep\n\u2022 Refresh AI reference catalog",
    "x": 3150.0,
-   "y": 14933.5,
+   "y": 15895.5,
    "width": 260,
    "height": 250
   },
@@ -2339,7 +2339,7 @@
    "type": "group",
    "label": "Owner",
    "x": 3690.0,
-   "y": 14888.5,
+   "y": 15850.5,
    "width": 300,
    "height": 300,
    "color": "6"
@@ -2349,16 +2349,16 @@
    "type": "text",
    "text": "\u2022 View all dashboards\n(read-only)\n\u2022 Approve purge & legal hold\n\u2022 Owner portfolio view\n\u2022 Owner approval of proposals\n\u2022 Account recovery for\nIT Designer\n\u2022 Design-request attention\ndashboard",
    "x": 3720.0,
-   "y": 14933.5,
+   "y": 15895.5,
    "width": 260,
-   "height": 250
+   "height": 270
   },
   {
    "id": "n452",
    "type": "group",
    "label": "Automated Jobs",
    "x": 4260.0,
-   "y": 14888.5,
+   "y": 15850.5,
    "width": 300,
    "height": 300,
    "color": "3"
@@ -2368,18 +2368,18 @@
    "type": "text",
    "text": "\u2022 8 advisory signal rules\n(see next section)\n\u2022 Attendance exception\ndetection\n\u2022 Overdue task notifications\n(email, if user opts in)\n\u2022 Design request sweep\n\u2022 Notification delivery\n(server-only, SSE)",
    "x": 4290.0,
-   "y": 14933.5,
+   "y": 15895.5,
    "width": 260,
-   "height": 250
+   "height": 270
   },
   {
    "id": "n454",
    "type": "text",
    "text": "**Step 14 \u00b7 Advisory signals**",
    "x": 5190.0,
-   "y": 14633.5,
+   "y": 15595.5,
    "width": 240,
-   "height": 55,
+   "height": 62,
    "color": "6"
   },
   {
@@ -2387,9 +2387,9 @@
    "type": "text",
    "text": "**8 Advisory Decision-Support Signals**\n\n1. Cost variance \u2014 actual vs planned budget\n2. Cumulative change impact \u2014 total COs as % of contract\n3. Burn vs progress \u2014 money spent vs % complete\n4. Issue recurrence \u2014 same issue category repeating\n5. Stalled stage \u2014 workflow stuck past threshold\n6. Projected finish \u2014 estimate vs deadline\n7. Overdue tasks \u2014 past due date\n8. Milestone slip \u2014 behind estimated date",
    "x": 5040.0,
-   "y": 14888.5,
+   "y": 15850.5,
    "width": 640,
-   "height": 280,
+   "height": 296,
    "color": "3"
   },
   {
@@ -2397,9 +2397,9 @@
    "type": "text",
    "text": "**Step 15 \u00b7 Role summary**",
    "x": 150.0,
-   "y": 15668.5,
+   "y": 16665.5,
    "width": 240,
-   "height": 55,
+   "height": 62,
    "color": "6"
   },
   {
@@ -2407,7 +2407,7 @@
    "type": "group",
    "label": "Role Action Summary (10 real roles \u2014 no DCO)",
    "x": 0.0,
-   "y": 15923.5,
+   "y": 16920.5,
    "width": 660,
    "height": 500,
    "color": "5"
@@ -2417,9 +2417,9 @@
    "type": "text",
    "text": "**Owner** \u2014 read-only all; approves purge/legal hold; design-\nrequest attention dashboard\n\n**Admin** \u2014 overrides, archive, templates, order limit approval,\nsweep job, support inbox fallback\n\n**IT Designer** \u2014 users, roles, audit logs, support requests,\nAI validation config, document types\n\n**Project Manager** \u2014 projects, milestones, phase advance,\ndesign-request send/raise, stakeholders, transmittals\n\n**HR** \u2014 payroll, employee records, attendance, payroll reports\n\n**Finance Manager** \u2014 budgets, purchase requests, orders,\npayments, payroll approval, categories, cash-flow\n\n**Architect** \u2014 proposals, designs, blueprints, design-request\nacknowledge/respond, revisions, architect documents\n\n**Engineer** \u2014 requirements, purchase requests, tasks, issues,\ninspections, design requests (draft), transmittals\n\n**Consultant** \u2014 design/proposal review, design-request\nacknowledge/respond, revision decisions\n\n**Site Personnel** \u2014 task status, attendance, daily reports,\norder delivery (if not PR creator)",
    "x": 30.0,
-   "y": 15968.5,
+   "y": 16965.5,
    "width": 620,
-   "height": 460
+   "height": 764
   }
  ],
  "edges": [
@@ -2527,15 +2527,15 @@
    "fromNode": "n31",
    "fromSide": "left",
    "toNode": "n33",
-   "toSide": "top",
+   "toSide": "left",
    "label": "Revision\nRequested"
   },
   {
    "id": "n36",
    "fromNode": "n31",
-   "fromSide": "right",
+   "fromSide": "left",
    "toNode": "n34",
-   "toSide": "top",
+   "toSide": "left",
    "label": "Rejected"
   },
   {

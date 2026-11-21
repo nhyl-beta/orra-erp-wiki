@@ -24,6 +24,7 @@ tags: [orra-erp, moc, home]
 - [[12 Repo and Working Rules]]
 - [[13 Google Drive Integration]]
 - [[14 System Flowchart]]
+- [[12 Glossary]]
 - [[15 Deploy Wiki to GitHub Pages]]
 
 ## Status at a glance (21 Nov 2026)

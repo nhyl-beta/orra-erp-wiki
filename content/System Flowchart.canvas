@@ -91,7 +91,7 @@
    "id": "n17",
    "type": "text",
    "text": "**Step 2 \u00b7 Project lifecycle**",
-   "x": 150.0,
+   "x": 630.0,
    "y": 1075.0,
    "width": 240,
    "height": 55,
@@ -101,7 +101,7 @@
    "id": "n18",
    "type": "text",
    "text": "**PM:** Create new project",
-   "x": 0.0,
+   "x": 480.0,
    "y": 1330.0,
    "width": 260,
    "height": 70,
@@ -111,7 +111,7 @@
    "id": "n19",
    "type": "text",
    "text": "Wizard: set name, client,\ntype, delivery type",
-   "x": 0.0,
+   "x": 480.0,
    "y": 1525.0,
    "width": 260,
    "height": 70,
@@ -121,7 +121,7 @@
    "id": "n20",
    "type": "text",
    "text": "Project created\n(Proposal phase)",
-   "x": 0.0,
+   "x": 480.0,
    "y": 1720.0,
    "width": 260,
    "height": 70,
@@ -131,7 +131,7 @@
    "id": "n21",
    "type": "text",
    "text": "**PM:** Staff Architect\n*(gate P1)*",
-   "x": 0.0,
+   "x": 480.0,
    "y": 1915.0,
    "width": 260,
    "height": 70,
@@ -141,7 +141,7 @@
    "id": "n22",
    "type": "text",
    "text": "**PM:** Staff Consultant\n*(gate P2)*",
-   "x": 0.0,
+   "x": 480.0,
    "y": 2110.0,
    "width": 260,
    "height": 70,
@@ -151,7 +151,7 @@
    "id": "n23",
    "type": "text",
    "text": "**Architect:** Create proposal\nwith files",
-   "x": 0.0,
+   "x": 480.0,
    "y": 2305.0,
    "width": 260,
    "height": 70,
@@ -161,48 +161,48 @@
    "id": "n24",
    "type": "text",
    "text": "**Architect:** Submit via\nworkflow *(gate P3)*",
-   "x": 0.0,
+   "x": 480.0,
    "y": 2500.0,
    "width": 260,
    "height": 70,
    "color": "4"
   },
   {
-   "id": "n25",
+   "id": "n31",
    "type": "text",
-   "text": "**Consultant:** Review\nproposal",
-   "x": 0.0,
+   "text": "****Consultant:** Review\nproposal \u2014 decision?**",
+   "x": 480.0,
    "y": 2695.0,
-   "width": 260,
+   "width": 240,
    "height": 70,
-   "color": "4"
+   "color": "2"
   },
   {
-   "id": "n26",
+   "id": "n33",
+   "type": "text",
+   "text": "**Revision Requested**\n\u2192 Architect revises\nand resubmits",
+   "x": 0.0,
+   "y": 2782.75,
+   "width": 260,
+   "height": 75,
+   "color": "2"
+  },
+  {
+   "id": "n34",
+   "type": "text",
+   "text": "**Rejected**\nProposal stage blocked \u2014\nneeds a new proposal or\nre-staffing",
+   "x": 960.0,
+   "y": 2782.75,
+   "width": 260,
+   "height": 80,
+   "color": "1"
+  },
+  {
+   "id": "n38",
    "type": "text",
    "text": "**PM:** Approve proposal\n*(gate P4)*",
-   "x": 0.0,
+   "x": 480.0,
    "y": 2890.0,
-   "width": 260,
-   "height": 70,
-   "color": "4"
-  },
-  {
-   "id": "n27",
-   "type": "text",
-   "text": "**PM/Admin:** Upload NOA\n+ Contract",
-   "x": 0.0,
-   "y": 3085.0,
-   "width": 260,
-   "height": 70,
-   "color": "4"
-  },
-  {
-   "id": "n28",
-   "type": "text",
-   "text": "**PM:** Set contract value\n*(gate P5)*",
-   "x": 0.0,
-   "y": 3280.0,
    "width": 260,
    "height": 70,
    "color": "4"
@@ -210,59 +210,59 @@
   {
    "id": "n39",
    "type": "text",
+   "text": "**PM/Admin:** Upload NOA\n+ Contract",
+   "x": 480.0,
+   "y": 3085.0,
+   "width": 260,
+   "height": 70,
+   "color": "4"
+  },
+  {
+   "id": "n40",
+   "type": "text",
+   "text": "**PM:** Set contract value\n*(gate P5)*",
+   "x": 480.0,
+   "y": 3280.0,
+   "width": 260,
+   "height": 70,
+   "color": "4"
+  },
+  {
+   "id": "n44",
+   "type": "text",
    "text": "**All gates P1\u2013P5 pass?**",
-   "x": 0.0,
+   "x": 480.0,
    "y": 3475.0,
    "width": 240,
    "height": 60,
    "color": "2"
   },
   {
-   "id": "n41",
+   "id": "n46",
    "type": "text",
    "text": "**Advance to Design**",
-   "x": 0.0,
+   "x": 480.0,
    "y": 3670.0,
    "width": 260,
    "height": 55,
    "color": "5"
   },
   {
-   "id": "n44",
+   "id": "n49",
    "type": "text",
    "text": "**Architect:** Create design",
-   "x": 525.0,
+   "x": 1005.0,
    "y": 1330.0,
    "width": 260,
    "height": 70,
    "color": "4"
   },
   {
-   "id": "n45",
+   "id": "n50",
    "type": "text",
    "text": "Upload files, assign staffed\nengineer *(gate D1)*",
-   "x": 525.0,
+   "x": 1005.0,
    "y": 1525.0,
-   "width": 260,
-   "height": 70,
-   "color": "4"
-  },
-  {
-   "id": "n46",
-   "type": "text",
-   "text": "**Architect:** Create design\nrevision + attach files",
-   "x": 525.0,
-   "y": 1720.0,
-   "width": 260,
-   "height": 70,
-   "color": "4"
-  },
-  {
-   "id": "n47",
-   "type": "text",
-   "text": "**Consultant:** Create\ndesign review",
-   "x": 525.0,
-   "y": 1915.0,
    "width": 260,
    "height": 70,
    "color": "4"
@@ -270,109 +270,79 @@
   {
    "id": "n51",
    "type": "text",
-   "text": "**Review decision?**",
-   "x": 525.0,
-   "y": 2110.0,
-   "width": 240,
-   "height": 60,
-   "color": "2"
-  },
-  {
-   "id": "n53",
-   "type": "text",
-   "text": "All designs approved,\nno pending review *(gate D2)*",
-   "x": 525.0,
-   "y": 2305.0,
-   "width": 260,
-   "height": 70,
-   "color": "4"
-  },
-  {
-   "id": "n54",
-   "type": "text",
-   "text": "**Architect:** Upload blueprint,\nset Current+Approved *(gate D3)*",
-   "x": 525.0,
-   "y": 2500.0,
-   "width": 260,
-   "height": 70,
-   "color": "4"
-  },
-  {
-   "id": "n58",
-   "type": "text",
-   "text": "**All gates D1\u2013D3 pass?**",
-   "x": 525.0,
-   "y": 2695.0,
-   "width": 240,
-   "height": 60,
-   "color": "2"
-  },
-  {
-   "id": "n60",
-   "type": "text",
-   "text": "**Advance to\nPre-Construction**",
-   "x": 525.0,
-   "y": 2890.0,
-   "width": 260,
-   "height": 55,
-   "color": "5"
-  },
-  {
-   "id": "n64",
-   "type": "text",
-   "text": "**Engineer:** Create\nrequirements (Materials/Specs)",
-   "x": 1050.0,
-   "y": 1330.0,
-   "width": 260,
-   "height": 70,
-   "color": "4"
-  },
-  {
-   "id": "n65",
-   "type": "text",
-   "text": "**PM:** Approve requirements\n*(gate C1)*",
-   "x": 1050.0,
-   "y": 1525.0,
-   "width": 260,
-   "height": 70,
-   "color": "4"
-  },
-  {
-   "id": "n66",
-   "type": "text",
-   "text": "**Finance:** Create + approve\nbudget lines *(gate C2)*",
-   "x": 1050.0,
+   "text": "**Architect:** Create design\nrevision + attach files",
+   "x": 1005.0,
    "y": 1720.0,
    "width": 260,
    "height": 70,
    "color": "4"
   },
   {
-   "id": "n67",
+   "id": "n52",
    "type": "text",
-   "text": "**PM:** Create milestones\nw/ dates, set Active *(gate C3)*",
-   "x": 1050.0,
+   "text": "**Consultant:** Create\ndesign review",
+   "x": 1005.0,
    "y": 1915.0,
    "width": 260,
    "height": 70,
    "color": "4"
   },
   {
-   "id": "n68",
+   "id": "n56",
    "type": "text",
-   "text": "**PM:** Staff site personnel",
-   "x": 1050.0,
+   "text": "**Review decision?**",
+   "x": 1005.0,
    "y": 2110.0,
+   "width": 240,
+   "height": 60,
+   "color": "2"
+  },
+  {
+   "id": "n58",
+   "type": "text",
+   "text": "All designs approved,\nno pending review *(gate D2)*",
+   "x": 1005.0,
+   "y": 2305.0,
    "width": 260,
    "height": 70,
    "color": "4"
   },
   {
+   "id": "n59",
+   "type": "text",
+   "text": "**Architect:** Upload blueprint,\nset Current+Approved *(gate D3)*",
+   "x": 1005.0,
+   "y": 2500.0,
+   "width": 260,
+   "height": 70,
+   "color": "4"
+  },
+  {
+   "id": "n63",
+   "type": "text",
+   "text": "**All gates D1\u2013D3 pass?**",
+   "x": 1005.0,
+   "y": 2695.0,
+   "width": 240,
+   "height": 60,
+   "color": "2"
+  },
+  {
+   "id": "n65",
+   "type": "text",
+   "text": "**Advance to\nPre-Construction**",
+   "x": 1005.0,
+   "y": 2890.0,
+   "width": 260,
+   "height": 55,
+   "color": "5"
+  },
+  {
    "id": "n69",
    "type": "text",
-   "text": "**HR/IT:** Link to employee\nrecords",
-   "x": 1050.0,
-   "y": 2305.0,
+   "text": "**Engineer:** Create\nrequirements (Materials/Specs)",
+   "x": 1530.0,
+   "y": 1330.0,
    "width": 260,
    "height": 70,
    "color": "4"
@@ -380,9 +350,9 @@
   {
    "id": "n70",
    "type": "text",
-   "text": "**PM/Engineer:** Create tasks,\nassign staffed workers *(gate C4)*",
-   "x": 1050.0,
-   "y": 2500.0,
+   "text": "**PM:** Approve requirements\n*(gate C1)*",
+   "x": 1530.0,
+   "y": 1525.0,
    "width": 260,
    "height": 70,
    "color": "4"
@@ -390,9 +360,9 @@
   {
    "id": "n71",
    "type": "text",
-   "text": "**PM:** Upload NTP, set site\nlat/long *(gate C5)*",
-   "x": 1050.0,
-   "y": 2695.0,
+   "text": "**Finance:** Create + approve\nbudget lines *(gate C2)*",
+   "x": 1530.0,
+   "y": 1720.0,
    "width": 260,
    "height": 70,
    "color": "4"
@@ -400,89 +370,89 @@
   {
    "id": "n72",
    "type": "text",
-   "text": "**Engineer:** Create purchase\nrequests *(gate C6)*",
-   "x": 1050.0,
-   "y": 2890.0,
-   "width": 260,
-   "height": 70,
-   "color": "4"
-  },
-  {
-   "id": "n81",
-   "type": "text",
-   "text": "**All gates C1\u2013C6 pass?**",
-   "x": 1050.0,
-   "y": 3085.0,
-   "width": 240,
-   "height": 60,
-   "color": "2"
-  },
-  {
-   "id": "n83",
-   "type": "text",
-   "text": "**Advance to\nConstruction**",
-   "x": 1050.0,
-   "y": 3280.0,
-   "width": 260,
-   "height": 55,
-   "color": "5"
-  },
-  {
-   "id": "n87",
-   "type": "text",
-   "text": "**Site Personnel:** Work on\ntasks, update status",
-   "x": 1575.0,
-   "y": 1330.0,
-   "width": 260,
-   "height": 70,
-   "color": "4"
-  },
-  {
-   "id": "n88",
-   "type": "text",
-   "text": "Progress = completed/\ntotal tasks",
-   "x": 1575.0,
-   "y": 1525.0,
-   "width": 260,
-   "height": 70,
-   "color": "5"
-  },
-  {
-   "id": "n89",
-   "type": "text",
-   "text": "**Site Personnel:** Submit\ndaily site report (DSR)",
-   "x": 1575.0,
-   "y": 1720.0,
-   "width": 260,
-   "height": 70,
-   "color": "4"
-  },
-  {
-   "id": "n90",
-   "type": "text",
-   "text": "**Engineer:** Submit\nengineering reports",
-   "x": 1575.0,
+   "text": "**PM:** Create milestones\nw/ dates, set Active *(gate C3)*",
+   "x": 1530.0,
    "y": 1915.0,
    "width": 260,
    "height": 70,
    "color": "4"
   },
   {
-   "id": "n91",
+   "id": "n73",
    "type": "text",
-   "text": "**Site Personnel:** Report\nissues",
-   "x": 1575.0,
+   "text": "**PM:** Staff site personnel",
+   "x": 1530.0,
    "y": 2110.0,
    "width": 260,
    "height": 70,
    "color": "4"
   },
   {
+   "id": "n74",
+   "type": "text",
+   "text": "**HR/IT:** Link to employee\nrecords",
+   "x": 1530.0,
+   "y": 2305.0,
+   "width": 260,
+   "height": 70,
+   "color": "4"
+  },
+  {
+   "id": "n75",
+   "type": "text",
+   "text": "**PM/Engineer:** Create tasks,\nassign staffed workers *(gate C4)*",
+   "x": 1530.0,
+   "y": 2500.0,
+   "width": 260,
+   "height": 70,
+   "color": "4"
+  },
+  {
+   "id": "n76",
+   "type": "text",
+   "text": "**PM:** Upload NTP, set site\nlat/long *(gate C5)*",
+   "x": 1530.0,
+   "y": 2695.0,
+   "width": 260,
+   "height": 70,
+   "color": "4"
+  },
+  {
+   "id": "n77",
+   "type": "text",
+   "text": "**Engineer:** Create purchase\nrequests *(gate C6)*",
+   "x": 1530.0,
+   "y": 2890.0,
+   "width": 260,
+   "height": 70,
+   "color": "4"
+  },
+  {
+   "id": "n86",
+   "type": "text",
+   "text": "**All gates C1\u2013C6 pass?**",
+   "x": 1530.0,
+   "y": 3085.0,
+   "width": 240,
+   "height": 60,
+   "color": "2"
+  },
+  {
+   "id": "n88",
+   "type": "text",
+   "text": "**Advance to\nConstruction**",
+   "x": 1530.0,
+   "y": 3280.0,
+   "width": 260,
+   "height": 55,
+   "color": "5"
+  },
+  {
    "id": "n92",
    "type": "text",
-   "text": "**Engineer:** Resolve issues\n\u2192 **PM:** Close *(gate K3)*",
-   "x": 1575.0,
-   "y": 2305.0,
+   "text": "**Site Personnel:** Work on\ntasks, update status",
+   "x": 2055.0,
+   "y": 1330.0,
    "width": 260,
    "height": 70,
    "color": "4"
@@ -490,19 +460,19 @@
   {
    "id": "n93",
    "type": "text",
-   "text": "**PM:** Manage active\nworkflows *(gate K4)*",
-   "x": 1575.0,
-   "y": 2500.0,
+   "text": "Progress = completed/\ntotal tasks",
+   "x": 2055.0,
+   "y": 1525.0,
    "width": 260,
    "height": 70,
-   "color": "4"
+   "color": "5"
   },
   {
    "id": "n94",
    "type": "text",
-   "text": "All tasks completed\n*(gate K1)*",
-   "x": 1575.0,
-   "y": 2695.0,
+   "text": "**Site Personnel:** Submit\ndaily site report (DSR)",
+   "x": 2055.0,
+   "y": 1720.0,
    "width": 260,
    "height": 70,
    "color": "4"
@@ -510,89 +480,89 @@
   {
    "id": "n95",
    "type": "text",
-   "text": "**PM:** Close milestones\n*(gate K2)*",
-   "x": 1575.0,
-   "y": 2890.0,
-   "width": 260,
-   "height": 70,
-   "color": "4"
-  },
-  {
-   "id": "n104",
-   "type": "text",
-   "text": "**All gates K1\u2013K4 pass?**",
-   "x": 1575.0,
-   "y": 3085.0,
-   "width": 240,
-   "height": 60,
-   "color": "2"
-  },
-  {
-   "id": "n106",
-   "type": "text",
-   "text": "**Advance to Closeout**",
-   "x": 1575.0,
-   "y": 3280.0,
-   "width": 260,
-   "height": 55,
-   "color": "5"
-  },
-  {
-   "id": "n110",
-   "type": "text",
-   "text": "**Engineer:** Submit Final\nInspection, Approved *(gate X1)*",
-   "x": 2100.0,
-   "y": 1330.0,
-   "width": 260,
-   "height": 70,
-   "color": "4"
-  },
-  {
-   "id": "n111",
-   "type": "text",
-   "text": "**PM/Admin:** Upload COC\n*(gate X2)*",
-   "x": 2100.0,
-   "y": 1525.0,
-   "width": 260,
-   "height": 70,
-   "color": "4"
-  },
-  {
-   "id": "n112",
-   "type": "text",
-   "text": "**HR:** Generate closeout\npayroll batch",
-   "x": 2100.0,
-   "y": 1720.0,
-   "width": 260,
-   "height": 70,
-   "color": "4"
-  },
-  {
-   "id": "n113",
-   "type": "text",
-   "text": "**Finance:** Approve payroll\n*(gate X3)*",
-   "x": 2100.0,
+   "text": "**Engineer:** Submit\nengineering reports",
+   "x": 2055.0,
    "y": 1915.0,
    "width": 260,
    "height": 70,
    "color": "4"
   },
   {
-   "id": "n114",
+   "id": "n96",
    "type": "text",
-   "text": "**PM:** Start Project Closeout\nworkflow *(gate X4)*",
-   "x": 2100.0,
+   "text": "**Site Personnel:** Report\nissues",
+   "x": 2055.0,
    "y": 2110.0,
    "width": 260,
    "height": 70,
    "color": "4"
   },
   {
+   "id": "n97",
+   "type": "text",
+   "text": "**Engineer:** Resolve issues\n\u2192 **PM:** Close *(gate K3)*",
+   "x": 2055.0,
+   "y": 2305.0,
+   "width": 260,
+   "height": 70,
+   "color": "4"
+  },
+  {
+   "id": "n98",
+   "type": "text",
+   "text": "**PM:** Manage active\nworkflows *(gate K4)*",
+   "x": 2055.0,
+   "y": 2500.0,
+   "width": 260,
+   "height": 70,
+   "color": "4"
+  },
+  {
+   "id": "n99",
+   "type": "text",
+   "text": "All tasks completed\n*(gate K1)*",
+   "x": 2055.0,
+   "y": 2695.0,
+   "width": 260,
+   "height": 70,
+   "color": "4"
+  },
+  {
+   "id": "n100",
+   "type": "text",
+   "text": "**PM:** Close milestones\n*(gate K2)*",
+   "x": 2055.0,
+   "y": 2890.0,
+   "width": 260,
+   "height": 70,
+   "color": "4"
+  },
+  {
+   "id": "n109",
+   "type": "text",
+   "text": "**All gates K1\u2013K4 pass?**",
+   "x": 2055.0,
+   "y": 3085.0,
+   "width": 240,
+   "height": 60,
+   "color": "2"
+  },
+  {
+   "id": "n111",
+   "type": "text",
+   "text": "**Advance to Closeout**",
+   "x": 2055.0,
+   "y": 3280.0,
+   "width": 260,
+   "height": 55,
+   "color": "5"
+  },
+  {
    "id": "n115",
    "type": "text",
-   "text": "**PM:** Close all open\ndesign requests *(gate X5)*",
-   "x": 2100.0,
-   "y": 2305.0,
+   "text": "**Engineer:** Submit Final\nInspection, Approved *(gate X1)*",
+   "x": 2580.0,
+   "y": 1330.0,
    "width": 260,
    "height": 70,
    "color": "4"
@@ -600,122 +570,172 @@
   {
    "id": "n116",
    "type": "text",
+   "text": "**PM/Admin:** Upload COC\n*(gate X2)*",
+   "x": 2580.0,
+   "y": 1525.0,
+   "width": 260,
+   "height": 70,
+   "color": "4"
+  },
+  {
+   "id": "n117",
+   "type": "text",
+   "text": "**HR:** Generate closeout\npayroll batch",
+   "x": 2580.0,
+   "y": 1720.0,
+   "width": 260,
+   "height": 70,
+   "color": "4"
+  },
+  {
+   "id": "n118",
+   "type": "text",
+   "text": "**Finance:** Approve payroll\n*(gate X3)*",
+   "x": 2580.0,
+   "y": 1915.0,
+   "width": 260,
+   "height": 70,
+   "color": "4"
+  },
+  {
+   "id": "n119",
+   "type": "text",
+   "text": "**PM:** Start Project Closeout\nworkflow *(gate X4)*",
+   "x": 2580.0,
+   "y": 2110.0,
+   "width": 260,
+   "height": 70,
+   "color": "4"
+  },
+  {
+   "id": "n120",
+   "type": "text",
+   "text": "**PM:** Close all open\ndesign requests *(gate X5)*",
+   "x": 2580.0,
+   "y": 2305.0,
+   "width": 260,
+   "height": 70,
+   "color": "4"
+  },
+  {
+   "id": "n121",
+   "type": "text",
    "text": "**Finance/PM:** Settle all\nPR/orders *(gate X6)*",
-   "x": 2100.0,
+   "x": 2580.0,
    "y": 2500.0,
    "width": 260,
    "height": 70,
    "color": "4"
   },
   {
-   "id": "n123",
+   "id": "n128",
    "type": "text",
    "text": "**All gates X1\u2013X6 pass?**",
-   "x": 2100.0,
+   "x": 2580.0,
    "y": 2695.0,
    "width": 240,
    "height": 60,
    "color": "2"
   },
   {
-   "id": "n125",
+   "id": "n130",
    "type": "text",
    "text": "**Advance to Completed**\n(100%)",
-   "x": 2100.0,
+   "x": 2580.0,
    "y": 2890.0,
    "width": 260,
    "height": 60,
    "color": "5"
   },
   {
-   "id": "n129",
+   "id": "n134",
    "type": "text",
    "text": "**Completed**\n100%",
-   "x": 2625.0,
+   "x": 3105.0,
    "y": 2695.0,
    "width": 260,
    "height": 60,
    "color": "5"
   },
   {
-   "id": "n130",
+   "id": "n135",
    "type": "text",
    "text": "**Archived**\nAdmin-only advance.\nTerminal state.",
-   "x": 2625.0,
+   "x": 3105.0,
    "y": 2890.0,
    "width": 260,
    "height": 75,
    "color": "6"
   },
   {
-   "id": "n133",
+   "id": "n138",
    "type": "text",
    "text": "**On Hold**\nWrites locked. From\nDesign/Pre-Con/Construction",
-   "x": 0.0,
+   "x": 480.0,
    "y": 1000.0,
    "width": 240,
    "height": 75,
    "color": "2"
   },
   {
-   "id": "n134",
+   "id": "n139",
    "type": "text",
    "text": "**Cancelled**\nWrites locked.\nNeeds written reason",
-   "x": 480.0,
+   "x": 960.0,
    "y": 1000.0,
    "width": 240,
    "height": 70,
    "color": "1"
   },
   {
-   "id": "n138",
+   "id": "n143",
    "type": "group",
    "label": "Design Delivery track (Design-type projects only)",
-   "x": 0.0,
+   "x": 480.0,
    "y": 3865.0,
    "width": 1020,
    "height": 280,
    "color": "6"
   },
   {
-   "id": "n139",
+   "id": "n144",
    "type": "text",
    "text": "Proposal phase:\nsame gates P1\u2013P5",
-   "x": 30.0,
+   "x": 510.0,
    "y": 3940.0,
    "width": 240,
    "height": 55
   },
   {
-   "id": "n140",
+   "id": "n145",
    "type": "text",
    "text": "Design phase gates:\nDP1 lead, DP2 files,\nD2 approved, D3 blueprint,\nD4 no open design requests",
-   "x": 510.0,
+   "x": 990.0,
    "y": 3940.0,
    "width": 260,
    "height": 95
   },
   {
-   "id": "n141",
+   "id": "n146",
    "type": "text",
    "text": "Turnover phase gates:\nT1 doc on file, T2 client\naccept, T3 workflow done,\nT4 no open requests, T5 settled",
-   "x": 1050.0,
+   "x": 1530.0,
    "y": 3940.0,
    "width": 260,
    "height": 95
   },
   {
-   "id": "n142",
+   "id": "n147",
    "type": "text",
    "text": "**Completed \u2192 Archived**",
-   "x": 510.0,
+   "x": 990.0,
    "y": 4120.0,
    "width": 240,
    "height": 55,
    "color": "5"
   },
   {
-   "id": "n146",
+   "id": "n151",
    "type": "text",
    "text": "**Step 3 \u00b7 Design requests**",
    "x": 1050.0,
@@ -725,7 +745,7 @@
    "color": "6"
   },
   {
-   "id": "n147",
+   "id": "n152",
    "type": "text",
    "text": "**Note:** real module is\n`design/design-requests`.\nNo \"DCO\" role exists in the\nactual 10 ROLE_IDS \u2014 raisers are\nPM / Engineer / Admin, responders\nare Architect / Consultant / Admin.\n(DCO is an Orra-ERP proposal only.)",
    "x": 0.0,
@@ -735,7 +755,7 @@
    "color": "1"
   },
   {
-   "id": "n148",
+   "id": "n153",
    "type": "text",
    "text": "**Need design info\nor approval**",
    "x": 900.0,
@@ -745,1599 +765,1659 @@
    "color": "3"
   },
   {
-   "id": "n149",
+   "id": "n154",
    "type": "text",
-   "text": "**PM/Engineer (Admin\nbreak-glass):** Create request\n\u2192 state: draft",
+   "text": "**Raise as RFI\n(Request for Information)\nor RFA\n(Request for Approval)?**",
    "x": 900.0,
-   "y": 5105.0,
-   "width": 260,
-   "height": 80
-  },
-  {
-   "id": "n150",
-   "type": "text",
-   "text": "**Raiser = Engineer?**",
-   "x": 900.0,
-   "y": 5330.0,
+   "y": 5027.0,
    "width": 240,
    "height": 60,
    "color": "2"
-  },
-  {
-   "id": "n151",
-   "type": "text",
-   "text": "**PM/Admin:** Send request\n\u2192 state: sent",
-   "x": 420.0,
-   "y": 5525.0,
-   "width": 260,
-   "height": 70
-  },
-  {
-   "id": "n152",
-   "type": "text",
-   "text": "PM/Admin raised it\n\u2192 already sendable",
-   "x": 1380.0,
-   "y": 5525.0,
-   "width": 260,
-   "height": 65
-  },
-  {
-   "id": "n153",
-   "type": "text",
-   "text": "Request **sent**\nto Architect/Consultant",
-   "x": 900.0,
-   "y": 5750.0,
-   "width": 260,
-   "height": 60,
-   "color": "5"
-  },
-  {
-   "id": "n154",
-   "type": "text",
-   "text": "**Architect/Consultant\n(Admin break-glass):**\nAcknowledge",
-   "x": 900.0,
-   "y": 5945.0,
-   "width": 260,
-   "height": 75
   },
   {
    "id": "n155",
    "type": "text",
-   "text": "**Internal responder,\nor external client\nby email?**",
+   "text": "**PM/Engineer (Admin\nbreak-glass):** Create request\n\u2192 state: draft",
    "x": 900.0,
-   "y": 6170.0,
+   "y": 5280.5,
+   "width": 260,
+   "height": 80
+  },
+  {
+   "id": "n156",
+   "type": "text",
+   "text": "**Raiser = Engineer?**",
+   "x": 900.0,
+   "y": 5475.5,
    "width": 240,
    "height": 60,
    "color": "2"
   },
   {
-   "id": "n156",
-   "type": "text",
-   "text": "**Architect/Consultant/\nAdmin:** Respond",
-   "x": 420.0,
-   "y": 6365.0,
-   "width": 260,
-   "height": 70
-  },
-  {
    "id": "n157",
    "type": "text",
-   "text": "Client replies by email\n(no login needed)",
-   "x": 1380.0,
-   "y": 6365.0,
+   "text": "**PM/Admin:** Send request\n\u2192 state: open",
+   "x": 420.0,
+   "y": 5670.5,
    "width": 260,
-   "height": 65
+   "height": 70
   },
   {
    "id": "n158",
    "type": "text",
-   "text": "**Raiser (PM/Engineer):**\nRecord via client-replied\n(service refuses raiser\nresponding to internal req.)",
+   "text": "PM/Admin raised it\n\u2192 already open",
    "x": 1380.0,
-   "y": 6575.0,
+   "y": 5670.5,
    "width": 260,
-   "height": 100
+   "height": 65
   },
   {
    "id": "n159",
    "type": "text",
-   "text": "**Raiser:** No answer yet\n\u2192 follow-up",
+   "text": "Request **open**,\nsent to Architect/Consultant",
    "x": 900.0,
-   "y": 6845.0,
-   "width": 260,
-   "height": 70
-  },
-  {
-   "id": "n160",
-   "type": "text",
-   "text": "**Raiser:** Mark\n**returned** (blocked)",
-   "x": 1410.0,
-   "y": 6845.0,
-   "width": 260,
-   "height": 65,
-   "color": "1"
-  },
-  {
-   "id": "n161",
-   "type": "text",
-   "text": "**Raiser:** Close request",
-   "x": 900.0,
-   "y": 7070.0,
+   "y": 5885.0,
    "width": 260,
    "height": 60,
    "color": "5"
   },
   {
+   "id": "n160",
+   "type": "text",
+   "text": "**Architect/Consultant\n(Admin break-glass):**\nAcknowledge \u2192 in_review",
+   "x": 900.0,
+   "y": 6080.0,
+   "width": 260,
+   "height": 80
+  },
+  {
+   "id": "n161",
+   "type": "text",
+   "text": "**Internal responder,\nor external client\nby email?**",
+   "x": 900.0,
+   "y": 6294.5,
+   "width": 240,
+   "height": 60,
+   "color": "2"
+  },
+  {
    "id": "n162",
    "type": "text",
-   "text": "**Raiser:** Resend\nemail notification",
-   "x": 390.0,
-   "y": 6845.0,
+   "text": "**RFI \u2014 Architect/\nConsultant/Admin:**\nRespond with answer\n\u2192 status: **answered**",
+   "x": 150.0,
+   "y": 6509.0,
+   "width": 260,
+   "height": 85,
+   "color": "5"
+  },
+  {
+   "id": "n163",
+   "type": "text",
+   "text": "****RFA \u2014 Architect/\nConsultant/Admin:**\nRespond \u2014 choose outcome**",
+   "x": 660.0,
+   "y": 6509.0,
+   "width": 260,
+   "height": 85,
+   "color": "2"
+  },
+  {
+   "id": "n164",
+   "type": "text",
+   "text": "Outcome: **approved**",
+   "x": 270.0,
+   "y": 6762.5,
+   "width": 220,
+   "height": 55,
+   "color": "5"
+  },
+  {
+   "id": "n165",
+   "type": "text",
+   "text": "Outcome: **approved\nas noted**",
+   "x": 660.0,
+   "y": 6762.5,
+   "width": 220,
+   "height": 60,
+   "color": "5"
+  },
+  {
+   "id": "n166",
+   "type": "text",
+   "text": "Outcome: **rejected**",
+   "x": 1050.0,
+   "y": 6762.5,
+   "width": 220,
+   "height": 55,
+   "color": "1"
+  },
+  {
+   "id": "n167",
+   "type": "text",
+   "text": "Client replies by email\n(no login needed)",
+   "x": 1530.0,
+   "y": 6509.0,
    "width": 260,
    "height": 65
   },
   {
-   "id": "n180",
+   "id": "n168",
+   "type": "text",
+   "text": "**Raiser (PM/Engineer):**\nRecord via client-replied\n(service refuses raiser\nresponding to internal req.)",
+   "x": 1530.0,
+   "y": 6723.5,
+   "width": 260,
+   "height": 100
+  },
+  {
+   "id": "n169",
+   "type": "text",
+   "text": "**Raiser:** No answer yet\n\u2192 follow-up",
+   "x": 150.0,
+   "y": 6996.5,
+   "width": 260,
+   "height": 70
+  },
+  {
+   "id": "n170",
+   "type": "text",
+   "text": "**Raiser:** Resend\nemail notification",
+   "x": 150.0,
+   "y": 7230.5,
+   "width": 260,
+   "height": 65
+  },
+  {
+   "id": "n171",
+   "type": "text",
+   "text": "RFA **decided**\n(approved / noted / rejected)",
+   "x": 660.0,
+   "y": 6996.5,
+   "width": 260,
+   "height": 65,
+   "color": "5"
+  },
+  {
+   "id": "n172",
+   "type": "text",
+   "text": "**PM/Engineer:** Record\n**returned document**\n(RFA only, after decision \u2014\nname/position/date the\ncontractor's copy came back)",
+   "x": 660.0,
+   "y": 7230.5,
+   "width": 260,
+   "height": 110
+  },
+  {
+   "id": "n173",
+   "type": "text",
+   "text": "**Raiser:** Close request\n(after answered or decided)",
+   "x": 1140.0,
+   "y": 7503.5,
+   "width": 260,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "n200",
    "type": "text",
    "text": "**Admin/Owner/IT\nDesigner:** Attention\ndashboard \u2014 overdue,\nnever-sent drafts,\nstalled stages",
-   "x": 1980.0,
+   "x": 2070.0,
    "y": 5300.0,
    "width": 280,
    "height": 110,
    "color": "6"
   },
   {
-   "id": "n181",
+   "id": "n201",
    "type": "text",
    "text": "**Admin:** Trigger\nautomated sweep job",
-   "x": 1980.0,
-   "y": 5555.0,
+   "x": 2070.0,
+   "y": 5534.0,
    "width": 280,
    "height": 65
   },
   {
-   "id": "n182",
+   "id": "n202",
    "type": "text",
    "text": "**Any role:** View\nimpact-forecast\n(read-only cost/schedule\npreview before approving)",
-   "x": 1980.0,
-   "y": 5750.0,
+   "x": 2070.0,
+   "y": 5768.0,
    "width": 280,
    "height": 90
   },
   {
-   "id": "n186",
+   "id": "n206",
    "type": "text",
    "text": "**Step 4 \u00b7 Transmittals**",
-   "x": 2950.0,
+   "x": 3040.0,
    "y": 4655.0,
    "width": 240,
    "height": 55,
    "color": "6"
   },
   {
-   "id": "n187",
+   "id": "n207",
    "type": "group",
    "label": "Transmittals (design/transmittals)",
-   "x": 2740.0,
+   "x": 2830.0,
    "y": 4850.0,
    "width": 1180,
    "height": 280,
    "color": "5"
   },
   {
-   "id": "n188",
+   "id": "n208",
    "type": "text",
    "text": "**PM/Engineer/Architect/\nAdmin:** Create transmittal",
-   "x": 2800.0,
+   "x": 2890.0,
    "y": 4910.0,
    "width": 280,
    "height": 70
   },
   {
-   "id": "n189",
+   "id": "n209",
    "type": "text",
    "text": "Update transmittal\n(while draft)",
-   "x": 3310.0,
+   "x": 3400.0,
    "y": 4910.0,
    "width": 280,
    "height": 60
   },
   {
-   "id": "n190",
+   "id": "n210",
    "type": "text",
    "text": "**Issue** \u2192 send to\nrecipients by email",
-   "x": 3820.0,
+   "x": 3910.0,
    "y": 4910.0,
    "width": 280,
    "height": 65,
    "color": "5"
   },
   {
-   "id": "n191",
+   "id": "n211",
    "type": "text",
    "text": "Resend email\nnotification",
-   "x": 3310.0,
+   "x": 3400.0,
    "y": 5105.0,
    "width": 280,
    "height": 60
   },
   {
-   "id": "n192",
+   "id": "n212",
    "type": "text",
    "text": "Recipients record\nacknowledgements",
-   "x": 3820.0,
+   "x": 3910.0,
    "y": 5105.0,
    "width": 280,
    "height": 65,
    "color": "4"
   },
   {
-   "id": "n197",
+   "id": "n217",
    "type": "text",
    "text": "**Step 5 \u00b7 Purchase requests**",
-   "x": 5240.0,
+   "x": 5330.0,
    "y": 4655.0,
    "width": 240,
    "height": 55,
    "color": "6"
   },
   {
-   "id": "n198",
+   "id": "n218",
    "type": "group",
    "label": "Purchase Requests (finance/purchase-requests)",
-   "x": 5030.0,
+   "x": 5120.0,
    "y": 4850.0,
    "width": 960,
    "height": 340,
    "color": "3"
   },
   {
-   "id": "n199",
+   "id": "n219",
    "type": "text",
    "text": "**Material or service\nneeded**",
-   "x": 5090.0,
+   "x": 5180.0,
    "y": 4910.0,
    "width": 260,
    "height": 60,
    "color": "3"
   },
   {
-   "id": "n200",
+   "id": "n220",
    "type": "text",
    "text": "**Engineer/PM:**\nCreate PR",
-   "x": 5090.0,
+   "x": 5180.0,
    "y": 5105.0,
    "width": 260,
    "height": 60
   },
   {
-   "id": "n201",
+   "id": "n221",
    "type": "text",
    "text": "****PM:** Endorse\nor reject PR?**",
-   "x": 5090.0,
+   "x": 5180.0,
    "y": 5300.0,
    "width": 240,
    "height": 60,
    "color": "2"
   },
   {
-   "id": "n202",
+   "id": "n222",
    "type": "text",
    "text": "**PM:** Reject PR\n(ends here)",
-   "x": 4580.0,
+   "x": 4670.0,
    "y": 5495.0,
    "width": 260,
    "height": 60,
    "color": "1"
   },
   {
-   "id": "n203",
+   "id": "n223",
    "type": "text",
    "text": "PR **endorsed**",
-   "x": 5090.0,
+   "x": 5180.0,
    "y": 5495.0,
    "width": 260,
    "height": 55,
    "color": "5"
   },
   {
-   "id": "n204",
+   "id": "n224",
    "type": "text",
    "text": "****Finance:** Approve\nor reject PR?**",
-   "x": 5090.0,
+   "x": 5180.0,
    "y": 5690.0,
    "width": 240,
    "height": 60,
    "color": "2"
   },
   {
-   "id": "n205",
+   "id": "n225",
    "type": "text",
    "text": "**Finance:** Reject PR\n(ends here)",
-   "x": 4580.0,
+   "x": 4670.0,
    "y": 5885.0,
    "width": 260,
    "height": 60,
    "color": "1"
   },
   {
-   "id": "n206",
+   "id": "n226",
    "type": "text",
    "text": "PR **approved**\n\u2192 ready for Procurement",
-   "x": 5090.0,
+   "x": 5180.0,
    "y": 5885.0,
    "width": 260,
    "height": 65,
    "color": "5"
   },
   {
-   "id": "n207",
+   "id": "n227",
    "type": "text",
    "text": "**Engineer/PM/Finance/\nAdmin:** Cancel PR\n(at any point before order)",
-   "x": 5600.0,
+   "x": 5690.0,
    "y": 5397.5,
    "width": 300,
    "height": 80,
    "color": "1"
   },
   {
-   "id": "n216",
+   "id": "n236",
    "type": "text",
    "text": "**Step 6 \u00b7 Procurement orders**",
    "x": 660.0,
-   "y": 7610.0,
+   "y": 8053.5,
    "width": 240,
    "height": 55,
    "color": "6"
   },
   {
-   "id": "n217",
+   "id": "n237",
    "type": "group",
    "label": "Procurement Orders (finance/procurement)",
    "x": 450.0,
-   "y": 7805.0,
+   "y": 8248.5,
    "width": 1220,
    "height": 340,
    "color": "3"
   },
   {
-   "id": "n218",
+   "id": "n238",
    "type": "text",
    "text": "**Finance:** Create order\n(after PR approved)",
    "x": 510.0,
-   "y": 7865.0,
+   "y": 8308.5,
    "width": 260,
    "height": 65
   },
   {
-   "id": "n219",
+   "id": "n239",
    "type": "text",
    "text": "**Admin:** Approve order\nabove limit",
    "x": 0.0,
-   "y": 7865.0,
+   "y": 8308.5,
    "width": 280,
    "height": 60
   },
   {
-   "id": "n220",
+   "id": "n240",
    "type": "text",
    "text": "**Finance:** Ship order",
    "x": 510.0,
-   "y": 8060.0,
+   "y": 8503.5,
    "width": 260,
    "height": 55
   },
   {
-   "id": "n221",
+   "id": "n241",
    "type": "text",
    "text": "**Receiver (Engineer/\nSite Personnel/PM/Admin \u2014\nnever the PR creator):**\nDeliver order",
    "x": 510.0,
-   "y": 8255.0,
+   "y": 8698.5,
    "width": 260,
    "height": 95
   },
   {
-   "id": "n222",
+   "id": "n242",
    "type": "text",
    "text": "**Finance:** Pay order",
    "x": 510.0,
-   "y": 8480.0,
+   "y": 8923.5,
    "width": 260,
    "height": 60,
    "color": "5"
   },
   {
-   "id": "n223",
+   "id": "n243",
    "type": "text",
    "text": "**Finance:** Cancel\norder",
    "x": 1080.0,
-   "y": 8060.0,
+   "y": 8503.5,
    "width": 280,
    "height": 55,
    "color": "1"
   },
   {
-   "id": "n224",
+   "id": "n244",
    "type": "text",
    "text": "**Finance:** Resume\ncancelled order",
    "x": 1080.0,
-   "y": 8255.0,
+   "y": 8698.5,
    "width": 280,
    "height": 55
   },
   {
-   "id": "n225",
+   "id": "n245",
    "type": "text",
    "text": "**Finance:** Void order\n(terminal)",
    "x": 1080.0,
-   "y": 8450.0,
+   "y": 8893.5,
    "width": 280,
    "height": 55,
    "color": "1"
   },
   {
-   "id": "n226",
+   "id": "n246",
    "type": "text",
    "text": "**All PRs/orders\nsettled?**",
    "x": 510.0,
-   "y": 8720.0,
+   "y": 9163.5,
    "width": 240,
    "height": 60,
    "color": "2"
   },
   {
-   "id": "n227",
+   "id": "n247",
    "type": "text",
    "text": "Unsettled blocks\nproject closeout\n*(gate X6)*",
    "x": 510.0,
-   "y": 8915.0,
+   "y": 9358.5,
    "width": 260,
    "height": 70,
    "color": "1"
   },
   {
-   "id": "n238",
+   "id": "n258",
    "type": "text",
    "text": "**Step 7 \u00b7 Attendance & payroll**",
    "x": 2810.0,
-   "y": 7610.0,
+   "y": 8053.5,
    "width": 240,
    "height": 55,
    "color": "6"
   },
   {
-   "id": "n239",
+   "id": "n259",
    "type": "text",
    "text": "**HR:** Manage employee\nrecords (create/update/\ndelete)",
    "x": 2150.0,
-   "y": 7865.0,
+   "y": 8308.5,
    "width": 280,
    "height": 75
   },
   {
-   "id": "n240",
+   "id": "n260",
    "type": "text",
    "text": "**Staff arrives**",
    "x": 2660.0,
-   "y": 7865.0,
+   "y": 8308.5,
    "width": 260,
    "height": 55,
    "color": "3"
   },
   {
-   "id": "n241",
+   "id": "n261",
    "type": "text",
    "text": "**Location?**",
    "x": 2660.0,
-   "y": 8060.0,
+   "y": 8503.5,
    "width": 240,
    "height": 60,
    "color": "2"
   },
   {
-   "id": "n242",
+   "id": "n262",
    "type": "text",
    "text": "**Office:** One-button\nclock-in",
    "x": 2180.0,
-   "y": 8255.0,
+   "y": 8698.5,
    "width": 260,
    "height": 60
   },
   {
-   "id": "n243",
+   "id": "n263",
    "type": "text",
    "text": "**Site:** Phone clock-in\nwith geolocation",
    "x": 3140.0,
-   "y": 8255.0,
+   "y": 8698.5,
    "width": 260,
    "height": 65
   },
   {
-   "id": "n244",
+   "id": "n264",
    "type": "text",
    "text": "**Inside geofence?**",
    "x": 3140.0,
-   "y": 8450.0,
+   "y": 8893.5,
    "width": 240,
    "height": 60,
    "color": "2"
   },
   {
-   "id": "n245",
+   "id": "n265",
    "type": "text",
    "text": "Flagged, not blocked",
    "x": 3620.0,
-   "y": 8450.0,
+   "y": 8893.5,
    "width": 240,
    "height": 55
   },
   {
-   "id": "n246",
+   "id": "n266",
    "type": "text",
    "text": "Attendance record\ncreated",
    "x": 2660.0,
-   "y": 8645.0,
+   "y": 9088.5,
    "width": 260,
    "height": 60,
    "color": "5"
   },
   {
-   "id": "n247",
+   "id": "n267",
    "type": "text",
    "text": "**HR:** Verify attendance\n(list + summary)",
    "x": 2660.0,
-   "y": 8840.0,
+   "y": 9283.5,
    "width": 260,
    "height": 60
   },
   {
-   "id": "n248",
+   "id": "n268",
    "type": "text",
    "text": "**HR:** Generate payroll\n(tracksheet)",
    "x": 2660.0,
-   "y": 9035.0,
+   "y": 9478.5,
    "width": 260,
    "height": 60
   },
   {
-   "id": "n249",
+   "id": "n269",
    "type": "text",
    "text": "**HR:** Compute gross\nlabor / gross tracking",
    "x": 2660.0,
-   "y": 9230.0,
+   "y": 9673.5,
    "width": 260,
    "height": 60
   },
   {
-   "id": "n250",
+   "id": "n270",
    "type": "text",
    "text": "**HR:** Submit payroll\nbatch",
    "x": 2660.0,
-   "y": 9425.0,
+   "y": 9868.5,
    "width": 260,
    "height": 60
   },
   {
-   "id": "n251",
+   "id": "n271",
    "type": "text",
    "text": "**Finance:** Review\npayroll batch",
    "x": 2660.0,
-   "y": 9620.0,
+   "y": 10063.5,
    "width": 260,
    "height": 60
   },
   {
-   "id": "n252",
+   "id": "n272",
    "type": "text",
    "text": "**Validation OK?**",
    "x": 2660.0,
-   "y": 9815.0,
+   "y": 10258.5,
    "width": 240,
    "height": 60,
    "color": "2"
   },
   {
-   "id": "n253",
+   "id": "n273",
    "type": "text",
    "text": "**HR:** Fix payroll\nentries",
    "x": 2180.0,
-   "y": 9620.0,
+   "y": 10063.5,
    "width": 260,
    "height": 60
   },
   {
-   "id": "n254",
+   "id": "n274",
    "type": "text",
    "text": "**Finance:** Approve\npayroll \u2192 Paid",
    "x": 2660.0,
-   "y": 10010.0,
+   "y": 10453.5,
    "width": 260,
    "height": 60,
    "color": "5"
   },
   {
-   "id": "n255",
+   "id": "n275",
    "type": "text",
    "text": "Workforce report\n(reports/workforce)",
    "x": 3170.0,
-   "y": 9815.0,
+   "y": 10258.5,
    "width": 240,
    "height": 55,
    "color": "5"
   },
   {
-   "id": "n256",
+   "id": "n276",
    "type": "text",
    "text": "**HR/Admin/Owner:**\nFairness report\n(workforce-reports)",
    "x": 3170.0,
-   "y": 10010.0,
+   "y": 10453.5,
    "width": 260,
    "height": 60,
    "color": "5"
   },
   {
-   "id": "n257",
+   "id": "n277",
    "type": "text",
    "text": "Payroll summary report",
    "x": 3170.0,
-   "y": 10205.0,
+   "y": 10648.5,
    "width": 240,
    "height": 50,
    "color": "5"
   },
   {
-   "id": "n279",
+   "id": "n299",
    "type": "text",
    "text": "**Step 8 \u00b7 Document vault**",
    "x": 4970.0,
-   "y": 7610.0,
+   "y": 8053.5,
    "width": 240,
    "height": 55,
    "color": "6"
   },
   {
-   "id": "n280",
+   "id": "n300",
    "type": "group",
    "label": "Secure Document Vault",
    "x": 4760.0,
-   "y": 7805.0,
+   "y": 8248.5,
    "width": 1600,
    "height": 1160,
    "color": "3"
   },
   {
-   "id": "n281",
+   "id": "n301",
    "type": "text",
    "text": "**User uploads a file**",
    "x": 4820.0,
-   "y": 7865.0,
+   "y": 8308.5,
    "width": 260,
    "height": 55,
    "color": "3"
   },
   {
-   "id": "n282",
+   "id": "n302",
    "type": "text",
    "text": "**Confidentiality\nlevel?**",
    "x": 4820.0,
-   "y": 8060.0,
+   "y": 8503.5,
    "width": 240,
    "height": 60,
    "color": "2"
-  },
-  {
-   "id": "n283",
-   "type": "text",
-   "text": "Internal/Confidential \u2192\nupload to Drive",
-   "x": 4340.0,
-   "y": 8255.0,
-   "width": 260,
-   "height": 65
-  },
-  {
-   "id": "n284",
-   "type": "text",
-   "text": "Restricted \u2192 API\nencrypts (AES-GCM)",
-   "x": 5300.0,
-   "y": 8255.0,
-   "width": 260,
-   "height": 65
-  },
-  {
-   "id": "n285",
-   "type": "text",
-   "text": "Upload ciphertext\nto Drive",
-   "x": 5300.0,
-   "y": 8450.0,
-   "width": 260,
-   "height": 55
-  },
-  {
-   "id": "n286",
-   "type": "text",
-   "text": "SHA-256 hash computed\n+ stored",
-   "x": 4820.0,
-   "y": 8645.0,
-   "width": 260,
-   "height": 60
-  },
-  {
-   "id": "n287",
-   "type": "text",
-   "text": "Record in stored_files\ntable",
-   "x": 4820.0,
-   "y": 8840.0,
-   "width": 260,
-   "height": 60
-  },
-  {
-   "id": "n288",
-   "type": "text",
-   "text": "Log upload in\naudit trail",
-   "x": 4820.0,
-   "y": 9035.0,
-   "width": 260,
-   "height": 55,
-   "color": "5"
-  },
-  {
-   "id": "n297",
-   "type": "text",
-   "text": "**User requests file**",
-   "x": 5870.0,
-   "y": 7865.0,
-   "width": 260,
-   "height": 55
-  },
-  {
-   "id": "n298",
-   "type": "text",
-   "text": "**Has access\ngrant?**",
-   "x": 5870.0,
-   "y": 8060.0,
-   "width": 240,
-   "height": 60,
-   "color": "2"
-  },
-  {
-   "id": "n299",
-   "type": "text",
-   "text": "Submit document access\nrequest (DAR)",
-   "x": 6380.0,
-   "y": 8255.0,
-   "width": 260,
-   "height": 60
-  },
-  {
-   "id": "n300",
-   "type": "text",
-   "text": "**Admin:** Grant\nor deny access",
-   "x": 6380.0,
-   "y": 8450.0,
-   "width": 260,
-   "height": 60
-  },
-  {
-   "id": "n301",
-   "type": "text",
-   "text": "**Download file**",
-   "x": 5870.0,
-   "y": 8255.0,
-   "width": 260,
-   "height": 55,
-   "color": "5"
-  },
-  {
-   "id": "n302",
-   "type": "text",
-   "text": "Restricted \u2192 API\ndecrypts before serving",
-   "x": 5870.0,
-   "y": 8450.0,
-   "width": 260,
-   "height": 60
   },
   {
    "id": "n303",
    "type": "text",
-   "text": "Verify SHA-256\non download",
-   "x": 5870.0,
-   "y": 8645.0,
+   "text": "Internal/Confidential \u2192\nupload to Drive",
+   "x": 4340.0,
+   "y": 8698.5,
    "width": 260,
-   "height": 55
+   "height": 65
   },
   {
    "id": "n304",
    "type": "text",
-   "text": "Log download in\naudit trail",
-   "x": 5870.0,
-   "y": 8840.0,
+   "text": "Restricted \u2192 API\nencrypts (AES-GCM)",
+   "x": 5300.0,
+   "y": 8698.5,
+   "width": 260,
+   "height": 65
+  },
+  {
+   "id": "n305",
+   "type": "text",
+   "text": "Upload ciphertext\nto Drive",
+   "x": 5300.0,
+   "y": 8893.5,
+   "width": 260,
+   "height": 55
+  },
+  {
+   "id": "n306",
+   "type": "text",
+   "text": "SHA-256 hash computed\n+ stored",
+   "x": 4820.0,
+   "y": 9088.5,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "n307",
+   "type": "text",
+   "text": "Record in stored_files\ntable",
+   "x": 4820.0,
+   "y": 9283.5,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "n308",
+   "type": "text",
+   "text": "Log upload in\naudit trail",
+   "x": 4820.0,
+   "y": 9478.5,
    "width": 260,
    "height": 55,
    "color": "5"
   },
   {
-   "id": "n312",
-   "type": "text",
-   "text": "**New version uploaded**",
-   "x": 4820.0,
-   "y": 9155.0,
-   "width": 260,
-   "height": 55
-  },
-  {
-   "id": "n313",
-   "type": "text",
-   "text": "Link to same document,\nincrement version",
-   "x": 4820.0,
-   "y": 9350.0,
-   "width": 260,
-   "height": 60,
-   "color": "5"
-  },
-  {
-   "id": "n316",
-   "type": "text",
-   "text": "**User requests\ndeletion**",
-   "x": 4820.0,
-   "y": 9605.0,
-   "width": 260,
-   "height": 60
-  },
-  {
    "id": "n317",
    "type": "text",
-   "text": "1st approver: Admin",
-   "x": 4820.0,
-   "y": 9800.0,
+   "text": "**User requests file**",
+   "x": 5870.0,
+   "y": 8308.5,
    "width": 260,
    "height": 55
   },
   {
    "id": "n318",
    "type": "text",
-   "text": "2nd approver: Owner",
-   "x": 4820.0,
-   "y": 9995.0,
-   "width": 260,
-   "height": 55
+   "text": "**Has access\ngrant?**",
+   "x": 5870.0,
+   "y": 8503.5,
+   "width": 240,
+   "height": 60,
+   "color": "2"
   },
   {
    "id": "n319",
    "type": "text",
-   "text": "Permanent delete from\nDrive + database",
-   "x": 4820.0,
-   "y": 10190.0,
+   "text": "Submit document access\nrequest (DAR)",
+   "x": 6380.0,
+   "y": 8698.5,
    "width": 260,
-   "height": 60,
-   "color": "1"
+   "height": 60
   },
   {
    "id": "n320",
    "type": "text",
-   "text": "**Admin sets\nlegal hold**",
-   "x": 5330.0,
-   "y": 9605.0,
-   "width": 280,
+   "text": "**Admin:** Grant\nor deny access",
+   "x": 6380.0,
+   "y": 8893.5,
+   "width": 260,
    "height": 60
   },
   {
    "id": "n321",
    "type": "text",
+   "text": "**Download file**",
+   "x": 5870.0,
+   "y": 8698.5,
+   "width": 260,
+   "height": 55,
+   "color": "5"
+  },
+  {
+   "id": "n322",
+   "type": "text",
+   "text": "Restricted \u2192 API\ndecrypts before serving",
+   "x": 5870.0,
+   "y": 8893.5,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "n323",
+   "type": "text",
+   "text": "Verify SHA-256\non download",
+   "x": 5870.0,
+   "y": 9088.5,
+   "width": 260,
+   "height": 55
+  },
+  {
+   "id": "n324",
+   "type": "text",
+   "text": "Log download in\naudit trail",
+   "x": 5870.0,
+   "y": 9283.5,
+   "width": 260,
+   "height": 55,
+   "color": "5"
+  },
+  {
+   "id": "n332",
+   "type": "text",
+   "text": "**New version uploaded**",
+   "x": 4820.0,
+   "y": 9598.5,
+   "width": 260,
+   "height": 55
+  },
+  {
+   "id": "n333",
+   "type": "text",
+   "text": "Link to same document,\nincrement version",
+   "x": 4820.0,
+   "y": 9793.5,
+   "width": 260,
+   "height": 60,
+   "color": "5"
+  },
+  {
+   "id": "n336",
+   "type": "text",
+   "text": "**User requests\ndeletion**",
+   "x": 4820.0,
+   "y": 10048.5,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "n337",
+   "type": "text",
+   "text": "1st approver: Admin",
+   "x": 4820.0,
+   "y": 10243.5,
+   "width": 260,
+   "height": 55
+  },
+  {
+   "id": "n338",
+   "type": "text",
+   "text": "2nd approver: Owner",
+   "x": 4820.0,
+   "y": 10438.5,
+   "width": 260,
+   "height": 55
+  },
+  {
+   "id": "n339",
+   "type": "text",
+   "text": "Permanent delete from\nDrive + database",
+   "x": 4820.0,
+   "y": 10633.5,
+   "width": 260,
+   "height": 60,
+   "color": "1"
+  },
+  {
+   "id": "n340",
+   "type": "text",
+   "text": "**Admin sets\nlegal hold**",
+   "x": 5330.0,
+   "y": 10048.5,
+   "width": 280,
+   "height": 60
+  },
+  {
+   "id": "n341",
+   "type": "text",
    "text": "All deletion blocked\non this document",
    "x": 5330.0,
-   "y": 9800.0,
+   "y": 10243.5,
    "width": 280,
    "height": 60,
    "color": "1"
   },
   {
-   "id": "n326",
+   "id": "n346",
    "type": "text",
    "text": "**Staff opens\nGoogle Picker**",
    "x": 4820.0,
-   "y": 10445.0,
+   "y": 10888.5,
    "width": 260,
    "height": 60
-  },
-  {
-   "id": "n327",
-   "type": "text",
-   "text": "Select existing\nDrive files",
-   "x": 4820.0,
-   "y": 10640.0,
-   "width": 260,
-   "height": 55
-  },
-  {
-   "id": "n328",
-   "type": "text",
-   "text": "App indexes:\nfile id + SHA-256",
-   "x": 4820.0,
-   "y": 10835.0,
-   "width": 260,
-   "height": 60
-  },
-  {
-   "id": "n329",
-   "type": "text",
-   "text": "Optionally copy into\nmanaged folder tree",
-   "x": 4820.0,
-   "y": 11030.0,
-   "width": 260,
-   "height": 60,
-   "color": "5"
-  },
-  {
-   "id": "n333",
-   "type": "text",
-   "text": "**Architect:** CRUD\narchitect-specific documents\n(design/architect-documents)",
-   "x": 4820.0,
-   "y": 11285.0,
-   "width": 340,
-   "height": 75
-  },
-  {
-   "id": "n334",
-   "type": "text",
-   "text": "**Admin:** Manage document\ntype taxonomy\n(via platform/reference)",
-   "x": 5450.0,
-   "y": 11285.0,
-   "width": 340,
-   "height": 75
-  },
-  {
-   "id": "n335",
-   "type": "text",
-   "text": "**Step 9 \u00b7 Workflow engine**",
-   "x": 630.0,
-   "y": 11840.0,
-   "width": 240,
-   "height": 55,
-   "color": "6"
-  },
-  {
-   "id": "n336",
-   "type": "text",
-   "text": "**Authorized role\nstarts a workflow**",
-   "x": 480.0,
-   "y": 12095.0,
-   "width": 260,
-   "height": 65,
-   "color": "3"
-  },
-  {
-   "id": "n337",
-   "type": "text",
-   "text": "Select from 8\nseeded templates",
-   "x": 480.0,
-   "y": 12290.0,
-   "width": 260,
-   "height": 60
-  },
-  {
-   "id": "n338",
-   "type": "text",
-   "text": "Create workflow instance\nfor the project",
-   "x": 480.0,
-   "y": 12485.0,
-   "width": 260,
-   "height": 60
-  },
-  {
-   "id": "n339",
-   "type": "text",
-   "text": "Stage 1: assigned\nrole acts",
-   "x": 480.0,
-   "y": 12680.0,
-   "width": 260,
-   "height": 60
-  },
-  {
-   "id": "n340",
-   "type": "text",
-   "text": "**Decide?**",
-   "x": 480.0,
-   "y": 12875.0,
-   "width": 240,
-   "height": 60,
-   "color": "2"
-  },
-  {
-   "id": "n341",
-   "type": "text",
-   "text": "Approve \u2192 next stage",
-   "x": 0.0,
-   "y": 13070.0,
-   "width": 260,
-   "height": 55
-  },
-  {
-   "id": "n342",
-   "type": "text",
-   "text": "Reject \u2192 notify\ninitiator",
-   "x": 480.0,
-   "y": 13070.0,
-   "width": 260,
-   "height": 60,
-   "color": "1"
-  },
-  {
-   "id": "n343",
-   "type": "text",
-   "text": "Revise \u2192 initiator\nresubmits",
-   "x": 960.0,
-   "y": 13070.0,
-   "width": 260,
-   "height": 60
-  },
-  {
-   "id": "n344",
-   "type": "text",
-   "text": "**More stages?**",
-   "x": 0.0,
-   "y": 13265.0,
-   "width": 240,
-   "height": 60,
-   "color": "2"
-  },
-  {
-   "id": "n345",
-   "type": "text",
-   "text": "Stage N: next\nrole acts",
-   "x": 0.0,
-   "y": 13460.0,
-   "width": 260,
-   "height": 60
-  },
-  {
-   "id": "n346",
-   "type": "text",
-   "text": "**Workflow completed**",
-   "x": 0.0,
-   "y": 13655.0,
-   "width": 260,
-   "height": 55,
-   "color": "5"
   },
   {
    "id": "n347",
    "type": "text",
-   "text": "Attach files to\nworkflow",
-   "x": 1440.0,
-   "y": 12485.0,
+   "text": "Select existing\nDrive files",
+   "x": 4820.0,
+   "y": 11083.5,
    "width": 260,
    "height": 55
   },
   {
    "id": "n348",
    "type": "text",
-   "text": "View impact forecast",
-   "x": 1440.0,
-   "y": 12680.0,
+   "text": "App indexes:\nfile id + SHA-256",
+   "x": 4820.0,
+   "y": 11278.5,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "n349",
+   "type": "text",
+   "text": "Optionally copy into\nmanaged folder tree",
+   "x": 4820.0,
+   "y": 11473.5,
+   "width": 260,
+   "height": 60,
+   "color": "5"
+  },
+  {
+   "id": "n353",
+   "type": "text",
+   "text": "**Architect:** CRUD\narchitect-specific documents\n(design/architect-documents)",
+   "x": 4820.0,
+   "y": 11728.5,
+   "width": 340,
+   "height": 75
+  },
+  {
+   "id": "n354",
+   "type": "text",
+   "text": "**Admin:** Manage document\ntype taxonomy\n(via platform/reference)",
+   "x": 5450.0,
+   "y": 11728.5,
+   "width": 340,
+   "height": 75
+  },
+  {
+   "id": "n355",
+   "type": "text",
+   "text": "**Step 9 \u00b7 Workflow engine**",
+   "x": 630.0,
+   "y": 12283.5,
+   "width": 240,
+   "height": 55,
+   "color": "6"
+  },
+  {
+   "id": "n356",
+   "type": "text",
+   "text": "**Authorized role\nstarts a workflow**",
+   "x": 480.0,
+   "y": 12538.5,
+   "width": 260,
+   "height": 65,
+   "color": "3"
+  },
+  {
+   "id": "n357",
+   "type": "text",
+   "text": "Select from 8\nseeded templates",
+   "x": 480.0,
+   "y": 12733.5,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "n358",
+   "type": "text",
+   "text": "Create workflow instance\nfor the project",
+   "x": 480.0,
+   "y": 12928.5,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "n359",
+   "type": "text",
+   "text": "Stage 1: assigned\nrole acts",
+   "x": 480.0,
+   "y": 13123.5,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "n360",
+   "type": "text",
+   "text": "**Decide?**",
+   "x": 480.0,
+   "y": 13318.5,
+   "width": 240,
+   "height": 60,
+   "color": "2"
+  },
+  {
+   "id": "n361",
+   "type": "text",
+   "text": "Approve \u2192 next stage",
+   "x": 0.0,
+   "y": 13513.5,
    "width": 260,
    "height": 55
   },
   {
+   "id": "n362",
+   "type": "text",
+   "text": "Reject \u2192 notify\ninitiator",
+   "x": 480.0,
+   "y": 13513.5,
+   "width": 260,
+   "height": 60,
+   "color": "1"
+  },
+  {
    "id": "n363",
    "type": "text",
-   "text": "**Admin:** Create\nworkflow template",
-   "x": 1440.0,
-   "y": 13070.0,
+   "text": "Revise \u2192 initiator\nresubmits",
+   "x": 960.0,
+   "y": 13513.5,
    "width": 260,
    "height": 60
   },
   {
    "id": "n364",
    "type": "text",
-   "text": "Define stages,\nroles, order",
-   "x": 1440.0,
-   "y": 13265.0,
-   "width": 260,
-   "height": 55
+   "text": "**More stages?**",
+   "x": 0.0,
+   "y": 13708.5,
+   "width": 240,
+   "height": 60,
+   "color": "2"
   },
   {
    "id": "n365",
    "type": "text",
-   "text": "**Admin:** Delete\ntemplate",
+   "text": "Stage N: next\nrole acts",
+   "x": 0.0,
+   "y": 13903.5,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "n366",
+   "type": "text",
+   "text": "**Workflow completed**",
+   "x": 0.0,
+   "y": 14098.5,
+   "width": 260,
+   "height": 55,
+   "color": "5"
+  },
+  {
+   "id": "n367",
+   "type": "text",
+   "text": "Attach files to\nworkflow",
    "x": 1440.0,
-   "y": 13460.0,
+   "y": 12928.5,
    "width": 260,
    "height": 55
   },
   {
    "id": "n368",
    "type": "text",
+   "text": "View impact forecast",
+   "x": 1440.0,
+   "y": 13123.5,
+   "width": 260,
+   "height": 55
+  },
+  {
+   "id": "n383",
+   "type": "text",
+   "text": "**Admin:** Create\nworkflow template",
+   "x": 1440.0,
+   "y": 13513.5,
+   "width": 260,
+   "height": 60
+  },
+  {
+   "id": "n384",
+   "type": "text",
+   "text": "Define stages,\nroles, order",
+   "x": 1440.0,
+   "y": 13708.5,
+   "width": 260,
+   "height": 55
+  },
+  {
+   "id": "n385",
+   "type": "text",
+   "text": "**Admin:** Delete\ntemplate",
+   "x": 1440.0,
+   "y": 13903.5,
+   "width": 260,
+   "height": 55
+  },
+  {
+   "id": "n388",
+   "type": "text",
    "text": "**Engineer:** Starts\nbudget change workflow",
    "x": 2010.0,
-   "y": 12485.0,
+   "y": 12928.5,
    "width": 280,
    "height": 60
   },
   {
-   "id": "n369",
+   "id": "n389",
    "type": "text",
    "text": "**Finance:** Review\nbudget impact",
    "x": 2010.0,
-   "y": 12680.0,
+   "y": 13123.5,
    "width": 280,
    "height": 60
   },
   {
-   "id": "n370",
+   "id": "n390",
    "type": "text",
    "text": "**PM:** Approve\nor reject",
    "x": 2010.0,
-   "y": 12875.0,
+   "y": 13318.5,
    "width": 280,
    "height": 60
   },
   {
-   "id": "n373",
+   "id": "n393",
    "type": "text",
    "text": "**Step 10 \u00b7 Governance & planning**",
    "x": 3400.0,
-   "y": 11840.0,
+   "y": 12283.5,
    "width": 240,
    "height": 55,
    "color": "6"
   },
   {
-   "id": "n374",
+   "id": "n394",
    "type": "group",
    "label": "Project Governance & Planning (new)",
    "x": 3190.0,
-   "y": 12035.0,
+   "y": 12478.5,
    "width": 1560,
    "height": 460,
    "color": "4"
   },
   {
-   "id": "n375",
+   "id": "n395",
    "type": "text",
    "text": "AI generates plan\nsuggestion items\nper project",
    "x": 3250.0,
-   "y": 12095.0,
+   "y": 12538.5,
    "width": 280,
    "height": 65,
    "color": "3"
   },
   {
-   "id": "n376",
+   "id": "n396",
    "type": "text",
    "text": "**Architect/Consultant/\nOwner:** Read-only view",
    "x": 3250.0,
-   "y": 12290.0,
+   "y": 12733.5,
    "width": 280,
    "height": 60
   },
   {
-   "id": "n377",
+   "id": "n397",
    "type": "text",
    "text": "****PM/Admin:** Accept,\ndiscard, or regenerate?**",
    "x": 3250.0,
-   "y": 12485.0,
+   "y": 12928.5,
    "width": 240,
    "height": 60,
    "color": "2"
   },
   {
-   "id": "n378",
+   "id": "n398",
    "type": "text",
    "text": "Accept (optionally\nassign to a user)",
    "x": 2770.0,
-   "y": 12680.0,
+   "y": 13123.5,
    "width": 280,
    "height": 60,
    "color": "5"
   },
   {
-   "id": "n379",
+   "id": "n399",
    "type": "text",
    "text": "Discard item",
    "x": 3250.0,
-   "y": 12680.0,
+   "y": 13123.5,
    "width": 280,
    "height": 50,
    "color": "1"
   },
   {
-   "id": "n380",
+   "id": "n400",
    "type": "text",
    "text": "Regenerate whole\nsuggestion set",
    "x": 3730.0,
-   "y": 12680.0,
+   "y": 13123.5,
    "width": 280,
    "height": 55
   },
   {
-   "id": "n386",
+   "id": "n406",
    "type": "text",
    "text": "**PM (own projects)/\nAdmin:** Manage external\nstakeholder registry",
    "x": 3940.0,
-   "y": 12095.0,
+   "y": 12538.5,
    "width": 300,
    "height": 75
   },
   {
-   "id": "n387",
+   "id": "n407",
    "type": "text",
    "text": "Create / update / delete\nstakeholder record",
    "x": 3940.0,
-   "y": 12290.0,
+   "y": 12733.5,
    "width": 300,
    "height": 60
   },
   {
-   "id": "n388",
+   "id": "n408",
    "type": "text",
    "text": "Emails/phones visible\nonly to PM/Admin",
    "x": 3940.0,
-   "y": 12485.0,
+   "y": 12928.5,
    "width": 300,
    "height": 55,
    "color": "5"
   },
   {
-   "id": "n391",
+   "id": "n411",
    "type": "text",
    "text": "**Architect:** Submit\ndraft document revision\n+ attach files",
    "x": 4480.0,
-   "y": 12095.0,
+   "y": 12538.5,
    "width": 300,
    "height": 75
   },
   {
-   "id": "n392",
+   "id": "n412",
    "type": "text",
    "text": "**Consultant/PM/Admin:**\nDecide status\n(patch /:id/status)",
    "x": 4480.0,
-   "y": 12290.0,
+   "y": 12733.5,
    "width": 300,
    "height": 70
   },
   {
-   "id": "n393",
+   "id": "n413",
    "type": "text",
    "text": "Summary, compare,\nhistory by item,\ndownload",
    "x": 4480.0,
-   "y": 12485.0,
+   "y": 12928.5,
    "width": 300,
    "height": 70,
    "color": "5"
   },
   {
-   "id": "n396",
+   "id": "n416",
    "type": "text",
    "text": "**All roles:** Calendar \u2014\nread-only, role-scoped,\n60s cache, aggregates events\nfrom other modules",
    "x": 3250.0,
-   "y": 12905.0,
+   "y": 13348.5,
    "width": 320,
    "height": 90,
-   "color": "5"
-  },
-  {
-   "id": "n397",
-   "type": "text",
-   "text": "**Project dashboard:**\nsummary, cycle-times\n(Owner/Admin/IT Designer),\nworkforce board",
-   "x": 3820.0,
-   "y": 12905.0,
-   "width": 320,
-   "height": 90,
-   "color": "5"
-  },
-  {
-   "id": "n398",
-   "type": "text",
-   "text": "**Owner/Admin/IT\nDesigner:** Company-wide\nworkforce overview",
-   "x": 4390.0,
-   "y": 12905.0,
-   "width": 320,
-   "height": 75,
-   "color": "5"
-  },
-  {
-   "id": "n401",
-   "type": "text",
-   "text": "**Step 11 \u00b7 Account & support**",
-   "x": 5470.0,
-   "y": 11840.0,
-   "width": 240,
-   "height": 55,
-   "color": "6"
-  },
-  {
-   "id": "n402",
-   "type": "group",
-   "label": "Account, Support & Notifications (new)",
-   "x": 5260.0,
-   "y": 12035.0,
-   "width": 1260,
-   "height": 300,
-   "color": "6"
-  },
-  {
-   "id": "n403",
-   "type": "text",
-   "text": "**Any role except\nIT Designer:** File account\nsupport request\n(password reset, email\nchange, role access,\ncannot sign in, other)",
-   "x": 5320.0,
-   "y": 12095.0,
-   "width": 320,
-   "height": 120
-  },
-  {
-   "id": "n404",
-   "type": "text",
-   "text": "Requester sees\nonly own requests",
-   "x": 5320.0,
-   "y": 12380.0,
-   "width": 320,
-   "height": 55
-  },
-  {
-   "id": "n405",
-   "type": "text",
-   "text": "**IT Designer:** Sees\nfull inbox, resolves\nor declines (resolution\nnote required to close)",
-   "x": 5890.0,
-   "y": 12095.0,
-   "width": 320,
-   "height": 105
-  },
-  {
-   "id": "n408",
-   "type": "text",
-   "text": "**Any user:** Toggle\nemailOverdueReminders\n(user-settings, default on)\n\u2192 feeds daily overdue job",
-   "x": 6460.0,
-   "y": 12095.0,
-   "width": 320,
-   "height": 100
-  },
-  {
-   "id": "n409",
-   "type": "text",
-   "text": "**Any role:** Live\nnotification feed\n(get/stream/live SSE)",
-   "x": 5890.0,
-   "y": 12380.0,
-   "width": 320,
-   "height": 80,
-   "color": "5"
-  },
-  {
-   "id": "n410",
-   "type": "text",
-   "text": "Mark notification read.\nCreated by server events\nonly \u2014 no public POST\n(no cross-role spoofing)",
-   "x": 6460.0,
-   "y": 12380.0,
-   "width": 320,
-   "height": 90
-  },
-  {
-   "id": "n412",
-   "type": "text",
-   "text": "**Step 12 \u00b7 Finance reporting**",
-   "x": 210.0,
-   "y": 14190.0,
-   "width": 240,
-   "height": 55,
-   "color": "6"
-  },
-  {
-   "id": "n413",
-   "type": "group",
-   "label": "Finance Reporting & Reference Data (new)",
-   "x": 0.0,
-   "y": 14385.0,
-   "width": 1560,
-   "height": 300,
-   "color": "3"
-  },
-  {
-   "id": "n414",
-   "type": "text",
-   "text": "**Finance roles:** Cash-flow\nview (read-only)",
-   "x": 60.0,
-   "y": 14445.0,
-   "width": 280,
-   "height": 60,
-   "color": "5"
-  },
-  {
-   "id": "n415",
-   "type": "text",
-   "text": "**Finance roles:** Project\nprofitability view",
-   "x": 570.0,
-   "y": 14445.0,
-   "width": 280,
-   "height": 60,
-   "color": "5"
-  },
-  {
-   "id": "n416",
-   "type": "text",
-   "text": "**Finance roles:** Company\nfinancial summary",
-   "x": 1080.0,
-   "y": 14445.0,
-   "width": 280,
-   "height": 60,
    "color": "5"
   },
   {
    "id": "n417",
    "type": "text",
-   "text": "**Admin/IT Designer/\nOwner:** Reconciliation\nview (read-only)",
-   "x": 1590.0,
-   "y": 14445.0,
-   "width": 280,
-   "height": 65,
+   "text": "**Project dashboard:**\nsummary, cycle-times\n(Owner/Admin/IT Designer),\nworkforce board",
+   "x": 3820.0,
+   "y": 13348.5,
+   "width": 320,
+   "height": 90,
    "color": "5"
   },
   {
    "id": "n418",
    "type": "text",
-   "text": "**Finance Manager:**\nManage expense categories\n(create/update/retire/restore)",
-   "x": 60.0,
-   "y": 14640.0,
+   "text": "**Owner/Admin/IT\nDesigner:** Company-wide\nworkforce overview",
+   "x": 4390.0,
+   "y": 13348.5,
    "width": 320,
-   "height": 75
-  },
-  {
-   "id": "n419",
-   "type": "text",
-   "text": "Most roles: read\ncategory dropdown\n(finance/categories)",
-   "x": 630.0,
-   "y": 14640.0,
-   "width": 300,
-   "height": 60
-  },
-  {
-   "id": "n420",
-   "type": "text",
-   "text": "Material price reference\ndata (backs PR/BCR\npricing)",
-   "x": 1200.0,
-   "y": 14640.0,
-   "width": 300,
-   "height": 60
+   "height": 75,
+   "color": "5"
   },
   {
    "id": "n421",
    "type": "text",
-   "text": "**IT Designer:** View AI\nvalidation config;\n**Admin:** refresh reference\ncost catalog (manual)",
-   "x": 1770.0,
-   "y": 14640.0,
-   "width": 300,
-   "height": 90,
-   "color": "4"
+   "text": "**Step 11 \u00b7 Account & support**",
+   "x": 5470.0,
+   "y": 12283.5,
+   "width": 240,
+   "height": 55,
+   "color": "6"
+  },
+  {
+   "id": "n422",
+   "type": "group",
+   "label": "Account, Support & Notifications (new)",
+   "x": 5260.0,
+   "y": 12478.5,
+   "width": 1260,
+   "height": 300,
+   "color": "6"
+  },
+  {
+   "id": "n423",
+   "type": "text",
+   "text": "**Any role except\nIT Designer:** File account\nsupport request\n(password reset, email\nchange, role access,\ncannot sign in, other)",
+   "x": 5320.0,
+   "y": 12538.5,
+   "width": 320,
+   "height": 120
+  },
+  {
+   "id": "n424",
+   "type": "text",
+   "text": "Requester sees\nonly own requests",
+   "x": 5320.0,
+   "y": 12823.5,
+   "width": 320,
+   "height": 55
   },
   {
    "id": "n425",
    "type": "text",
-   "text": "**Step 13 \u00b7 Admin & platform**",
-   "x": 2700.0,
-   "y": 14190.0,
-   "width": 240,
-   "height": 55,
-   "color": "6"
-  },
-  {
-   "id": "n426",
-   "type": "group",
-   "label": "IT Designer",
-   "x": 2550.0,
-   "y": 14445.0,
-   "width": 300,
-   "height": 300,
-   "color": "5"
-  },
-  {
-   "id": "n427",
-   "type": "text",
-   "text": "\u2022 Manage user accounts\n(create, update, delete)\n\u2022 Manage roles & permissions\n\u2022 Resolve/decline support\nrequests (own inbox hidden)\n\u2022 View audit logs & security\n\u2022 Manage document types\n\u2022 View reconciliation data\n\u2022 View AI validation config",
-   "x": 2580.0,
-   "y": 14490.0,
-   "width": 260,
-   "height": 250
+   "text": "**IT Designer:** Sees\nfull inbox, resolves\nor declines (resolution\nnote required to close)",
+   "x": 5890.0,
+   "y": 12538.5,
+   "width": 320,
+   "height": 105
   },
   {
    "id": "n428",
-   "type": "group",
-   "label": "Admin Manager",
-   "x": 3120.0,
-   "y": 14445.0,
-   "width": 300,
-   "height": 300,
-   "color": "2"
+   "type": "text",
+   "text": "**Any user:** Toggle\nemailOverdueReminders\n(user-settings, default on)\n\u2192 feeds daily overdue job",
+   "x": 6460.0,
+   "y": 12538.5,
+   "width": 320,
+   "height": 100
   },
   {
    "id": "n429",
    "type": "text",
-   "text": "\u2022 All PM overrides\n\u2022 Archive projects (Admin only)\n\u2022 Manage workflow templates\n\u2022 Override PM approvals\n(needs 10+ char reason)\n\u2022 Approve orders above limit\n\u2022 Trigger design-request sweep\n\u2022 Refresh AI reference catalog",
-   "x": 3150.0,
-   "y": 14490.0,
-   "width": 260,
-   "height": 250
+   "text": "**Any role:** Live\nnotification feed\n(get/stream/live SSE)",
+   "x": 5890.0,
+   "y": 12823.5,
+   "width": 320,
+   "height": 80,
+   "color": "5"
   },
   {
    "id": "n430",
-   "type": "group",
-   "label": "Owner",
-   "x": 3690.0,
-   "y": 14445.0,
-   "width": 300,
-   "height": 300,
-   "color": "6"
-  },
-  {
-   "id": "n431",
    "type": "text",
-   "text": "\u2022 View all dashboards\n(read-only)\n\u2022 Approve purge & legal hold\n\u2022 Owner portfolio view\n\u2022 Owner approval of proposals\n\u2022 Account recovery for\nIT Designer\n\u2022 Design-request attention\ndashboard",
-   "x": 3720.0,
-   "y": 14490.0,
-   "width": 260,
-   "height": 250
+   "text": "Mark notification read.\nCreated by server events\nonly \u2014 no public POST\n(no cross-role spoofing)",
+   "x": 6460.0,
+   "y": 12823.5,
+   "width": 320,
+   "height": 90
   },
   {
    "id": "n432",
-   "type": "group",
-   "label": "Automated Jobs",
-   "x": 4260.0,
-   "y": 14445.0,
-   "width": 300,
-   "height": 300,
-   "color": "3"
+   "type": "text",
+   "text": "**Step 12 \u00b7 Finance reporting**",
+   "x": 210.0,
+   "y": 14633.5,
+   "width": 240,
+   "height": 55,
+   "color": "6"
   },
   {
    "id": "n433",
-   "type": "text",
-   "text": "\u2022 8 advisory signal rules\n(see next section)\n\u2022 Attendance exception\ndetection\n\u2022 Overdue task notifications\n(email, if user opts in)\n\u2022 Design request sweep\n\u2022 Notification delivery\n(server-only, SSE)",
-   "x": 4290.0,
-   "y": 14490.0,
-   "width": 260,
-   "height": 250
+   "type": "group",
+   "label": "Finance Reporting & Reference Data (new)",
+   "x": 0.0,
+   "y": 14828.5,
+   "width": 1560,
+   "height": 300,
+   "color": "3"
   },
   {
    "id": "n434",
    "type": "text",
-   "text": "**Step 14 \u00b7 Advisory signals**",
-   "x": 5190.0,
-   "y": 14190.0,
-   "width": 240,
-   "height": 55,
-   "color": "6"
+   "text": "**Finance roles:** Cash-flow\nview (read-only)",
+   "x": 60.0,
+   "y": 14888.5,
+   "width": 280,
+   "height": 60,
+   "color": "5"
   },
   {
    "id": "n435",
    "type": "text",
-   "text": "**8 Advisory Decision-Support Signals**\n\n1. Cost variance \u2014 actual vs planned budget\n2. Cumulative change impact \u2014 total COs as % of contract\n3. Burn vs progress \u2014 money spent vs % complete\n4. Issue recurrence \u2014 same issue category repeating\n5. Stalled stage \u2014 workflow stuck past threshold\n6. Projected finish \u2014 estimate vs deadline\n7. Overdue tasks \u2014 past due date\n8. Milestone slip \u2014 behind estimated date",
-   "x": 5040.0,
-   "y": 14445.0,
-   "width": 640,
-   "height": 280,
-   "color": "3"
+   "text": "**Finance roles:** Project\nprofitability view",
+   "x": 570.0,
+   "y": 14888.5,
+   "width": 280,
+   "height": 60,
+   "color": "5"
   },
   {
    "id": "n436",
    "type": "text",
-   "text": "**Step 15 \u00b7 Role summary**",
-   "x": 150.0,
-   "y": 15225.0,
-   "width": 240,
-   "height": 55,
-   "color": "6"
+   "text": "**Finance roles:** Company\nfinancial summary",
+   "x": 1080.0,
+   "y": 14888.5,
+   "width": 280,
+   "height": 60,
+   "color": "5"
   },
   {
    "id": "n437",
-   "type": "group",
-   "label": "Role Action Summary (10 real roles \u2014 no DCO)",
-   "x": 0.0,
-   "y": 15480.0,
-   "width": 660,
-   "height": 500,
+   "type": "text",
+   "text": "**Admin/IT Designer/\nOwner:** Reconciliation\nview (read-only)",
+   "x": 1590.0,
+   "y": 14888.5,
+   "width": 280,
+   "height": 65,
    "color": "5"
   },
   {
    "id": "n438",
    "type": "text",
+   "text": "**Finance Manager:**\nManage expense categories\n(create/update/retire/restore)",
+   "x": 60.0,
+   "y": 15083.5,
+   "width": 320,
+   "height": 75
+  },
+  {
+   "id": "n439",
+   "type": "text",
+   "text": "Most roles: read\ncategory dropdown\n(finance/categories)",
+   "x": 630.0,
+   "y": 15083.5,
+   "width": 300,
+   "height": 60
+  },
+  {
+   "id": "n440",
+   "type": "text",
+   "text": "Material price reference\ndata (backs PR/BCR\npricing)",
+   "x": 1200.0,
+   "y": 15083.5,
+   "width": 300,
+   "height": 60
+  },
+  {
+   "id": "n441",
+   "type": "text",
+   "text": "**IT Designer:** View AI\nvalidation config;\n**Admin:** refresh reference\ncost catalog (manual)",
+   "x": 1770.0,
+   "y": 15083.5,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "n445",
+   "type": "text",
+   "text": "**Step 13 \u00b7 Admin & platform**",
+   "x": 2700.0,
+   "y": 14633.5,
+   "width": 240,
+   "height": 55,
+   "color": "6"
+  },
+  {
+   "id": "n446",
+   "type": "group",
+   "label": "IT Designer",
+   "x": 2550.0,
+   "y": 14888.5,
+   "width": 300,
+   "height": 300,
+   "color": "5"
+  },
+  {
+   "id": "n447",
+   "type": "text",
+   "text": "\u2022 Manage user accounts\n(create, update, delete)\n\u2022 Manage roles & permissions\n\u2022 Resolve/decline support\nrequests (own inbox hidden)\n\u2022 View audit logs & security\n\u2022 Manage document types\n\u2022 View reconciliation data\n\u2022 View AI validation config",
+   "x": 2580.0,
+   "y": 14933.5,
+   "width": 260,
+   "height": 250
+  },
+  {
+   "id": "n448",
+   "type": "group",
+   "label": "Admin Manager",
+   "x": 3120.0,
+   "y": 14888.5,
+   "width": 300,
+   "height": 300,
+   "color": "2"
+  },
+  {
+   "id": "n449",
+   "type": "text",
+   "text": "\u2022 All PM overrides\n\u2022 Archive projects (Admin only)\n\u2022 Manage workflow templates\n\u2022 Override PM approvals\n(needs 10+ char reason)\n\u2022 Approve orders above limit\n\u2022 Trigger design-request sweep\n\u2022 Refresh AI reference catalog",
+   "x": 3150.0,
+   "y": 14933.5,
+   "width": 260,
+   "height": 250
+  },
+  {
+   "id": "n450",
+   "type": "group",
+   "label": "Owner",
+   "x": 3690.0,
+   "y": 14888.5,
+   "width": 300,
+   "height": 300,
+   "color": "6"
+  },
+  {
+   "id": "n451",
+   "type": "text",
+   "text": "\u2022 View all dashboards\n(read-only)\n\u2022 Approve purge & legal hold\n\u2022 Owner portfolio view\n\u2022 Owner approval of proposals\n\u2022 Account recovery for\nIT Designer\n\u2022 Design-request attention\ndashboard",
+   "x": 3720.0,
+   "y": 14933.5,
+   "width": 260,
+   "height": 250
+  },
+  {
+   "id": "n452",
+   "type": "group",
+   "label": "Automated Jobs",
+   "x": 4260.0,
+   "y": 14888.5,
+   "width": 300,
+   "height": 300,
+   "color": "3"
+  },
+  {
+   "id": "n453",
+   "type": "text",
+   "text": "\u2022 8 advisory signal rules\n(see next section)\n\u2022 Attendance exception\ndetection\n\u2022 Overdue task notifications\n(email, if user opts in)\n\u2022 Design request sweep\n\u2022 Notification delivery\n(server-only, SSE)",
+   "x": 4290.0,
+   "y": 14933.5,
+   "width": 260,
+   "height": 250
+  },
+  {
+   "id": "n454",
+   "type": "text",
+   "text": "**Step 14 \u00b7 Advisory signals**",
+   "x": 5190.0,
+   "y": 14633.5,
+   "width": 240,
+   "height": 55,
+   "color": "6"
+  },
+  {
+   "id": "n455",
+   "type": "text",
+   "text": "**8 Advisory Decision-Support Signals**\n\n1. Cost variance \u2014 actual vs planned budget\n2. Cumulative change impact \u2014 total COs as % of contract\n3. Burn vs progress \u2014 money spent vs % complete\n4. Issue recurrence \u2014 same issue category repeating\n5. Stalled stage \u2014 workflow stuck past threshold\n6. Projected finish \u2014 estimate vs deadline\n7. Overdue tasks \u2014 past due date\n8. Milestone slip \u2014 behind estimated date",
+   "x": 5040.0,
+   "y": 14888.5,
+   "width": 640,
+   "height": 280,
+   "color": "3"
+  },
+  {
+   "id": "n456",
+   "type": "text",
+   "text": "**Step 15 \u00b7 Role summary**",
+   "x": 150.0,
+   "y": 15668.5,
+   "width": 240,
+   "height": 55,
+   "color": "6"
+  },
+  {
+   "id": "n457",
+   "type": "group",
+   "label": "Role Action Summary (10 real roles \u2014 no DCO)",
+   "x": 0.0,
+   "y": 15923.5,
+   "width": 660,
+   "height": 500,
+   "color": "5"
+  },
+  {
+   "id": "n458",
+   "type": "text",
    "text": "**Owner** \u2014 read-only all; approves purge/legal hold; design-\nrequest attention dashboard\n\n**Admin** \u2014 overrides, archive, templates, order limit approval,\nsweep job, support inbox fallback\n\n**IT Designer** \u2014 users, roles, audit logs, support requests,\nAI validation config, document types\n\n**Project Manager** \u2014 projects, milestones, phase advance,\ndesign-request send/raise, stakeholders, transmittals\n\n**HR** \u2014 payroll, employee records, attendance, payroll reports\n\n**Finance Manager** \u2014 budgets, purchase requests, orders,\npayments, payroll approval, categories, cash-flow\n\n**Architect** \u2014 proposals, designs, blueprints, design-request\nacknowledge/respond, revisions, architect documents\n\n**Engineer** \u2014 requirements, purchase requests, tasks, issues,\ninspections, design requests (draft), transmittals\n\n**Consultant** \u2014 design/proposal review, design-request\nacknowledge/respond, revision decisions\n\n**Site Personnel** \u2014 task status, attendance, daily reports,\norder delivery (if not PR creator)",
    "x": 30.0,
-   "y": 15525.0,
+   "y": 15968.5,
    "width": 620,
    "height": 460
   }
@@ -2394,78 +2474,81 @@
    "toSide": "left"
   },
   {
-   "id": "n29",
+   "id": "n25",
    "fromNode": "n18",
    "fromSide": "bottom",
    "toNode": "n19",
    "toSide": "top"
   },
   {
-   "id": "n30",
+   "id": "n26",
    "fromNode": "n19",
    "fromSide": "bottom",
    "toNode": "n20",
    "toSide": "top"
   },
   {
-   "id": "n31",
+   "id": "n27",
    "fromNode": "n20",
    "fromSide": "bottom",
    "toNode": "n21",
    "toSide": "top"
   },
   {
-   "id": "n32",
+   "id": "n28",
    "fromNode": "n21",
    "fromSide": "bottom",
    "toNode": "n22",
    "toSide": "top"
   },
   {
-   "id": "n33",
+   "id": "n29",
    "fromNode": "n22",
    "fromSide": "bottom",
    "toNode": "n23",
    "toSide": "top"
   },
   {
-   "id": "n34",
+   "id": "n30",
    "fromNode": "n23",
    "fromSide": "bottom",
    "toNode": "n24",
    "toSide": "top"
   },
   {
-   "id": "n35",
+   "id": "n32",
    "fromNode": "n24",
    "fromSide": "bottom",
-   "toNode": "n25",
+   "toNode": "n31",
    "toSide": "top"
+  },
+  {
+   "id": "n35",
+   "fromNode": "n31",
+   "fromSide": "left",
+   "toNode": "n33",
+   "toSide": "top",
+   "label": "Revision\nRequested"
   },
   {
    "id": "n36",
-   "fromNode": "n25",
-   "fromSide": "bottom",
-   "toNode": "n26",
-   "toSide": "top"
+   "fromNode": "n31",
+   "fromSide": "right",
+   "toNode": "n34",
+   "toSide": "top",
+   "label": "Rejected"
   },
   {
    "id": "n37",
-   "fromNode": "n26",
-   "fromSide": "bottom",
-   "toNode": "n27",
-   "toSide": "top"
+   "fromNode": "n33",
+   "fromSide": "top",
+   "toNode": "n23",
+   "toSide": "left",
+   "label": "resubmit"
   },
   {
-   "id": "n38",
-   "fromNode": "n27",
-   "fromSide": "bottom",
-   "toNode": "n28",
-   "toSide": "top"
-  },
-  {
-   "id": "n40",
-   "fromNode": "n28",
+   "id": "n41",
+   "fromNode": "n38",
    "fromSide": "bottom",
    "toNode": "n39",
    "toSide": "top"
@@ -2474,132 +2557,119 @@
    "id": "n42",
    "fromNode": "n39",
    "fromSide": "bottom",
-   "toNode": "n41",
+   "toNode": "n40",
+   "toSide": "top"
+  },
+  {
+   "id": "n43",
+   "fromNode": "n31",
+   "fromSide": "bottom",
+   "toNode": "n38",
+   "toSide": "top",
+   "label": "Approved"
+  },
+  {
+   "id": "n45",
+   "fromNode": "n40",
+   "fromSide": "bottom",
+   "toNode": "n44",
+   "toSide": "top"
+  },
+  {
+   "id": "n47",
+   "fromNode": "n44",
+   "fromSide": "bottom",
+   "toNode": "n46",
    "toSide": "top",
    "label": "yes"
   },
   {
-   "id": "n43",
-   "fromNode": "n39",
+   "id": "n48",
+   "fromNode": "n44",
    "fromSide": "left",
-   "toNode": "n21",
+   "toNode": "n38",
    "toSide": "left",
    "label": "no \u2014 fix"
   },
   {
-   "id": "n48",
-   "fromNode": "n44",
+   "id": "n53",
+   "fromNode": "n49",
    "fromSide": "bottom",
-   "toNode": "n45",
+   "toNode": "n50",
    "toSide": "top"
   },
   {
-   "id": "n49",
-   "fromNode": "n45",
-   "fromSide": "bottom",
-   "toNode": "n46",
-   "toSide": "top"
-  },
-  {
-   "id": "n50",
-   "fromNode": "n46",
-   "fromSide": "bottom",
-   "toNode": "n47",
-   "toSide": "top"
-  },
-  {
-   "id": "n52",
-   "fromNode": "n47",
+   "id": "n54",
+   "fromNode": "n50",
    "fromSide": "bottom",
    "toNode": "n51",
    "toSide": "top"
   },
   {
    "id": "n55",
-   "fromNode": "n53",
+   "fromNode": "n51",
    "fromSide": "bottom",
-   "toNode": "n54",
+   "toNode": "n52",
    "toSide": "top"
   },
   {
-   "id": "n56",
-   "fromNode": "n51",
-   "fromSide": "bottom",
-   "toNode": "n53",
-   "toSide": "top",
-   "label": "approved"
-  },
-  {
    "id": "n57",
-   "fromNode": "n51",
-   "fromSide": "left",
-   "toNode": "n46",
-   "toSide": "left",
-   "label": "changes needed"
+   "fromNode": "n52",
+   "fromSide": "bottom",
+   "toNode": "n56",
+   "toSide": "top"
   },
   {
-   "id": "n59",
-   "fromNode": "n54",
+   "id": "n60",
+   "fromNode": "n58",
    "fromSide": "bottom",
-   "toNode": "n58",
+   "toNode": "n59",
    "toSide": "top"
   },
   {
    "id": "n61",
-   "fromNode": "n58",
+   "fromNode": "n56",
    "fromSide": "bottom",
-   "toNode": "n60",
+   "toNode": "n58",
+   "toSide": "top",
+   "label": "approved"
+  },
+  {
+   "id": "n62",
+   "fromNode": "n56",
+   "fromSide": "left",
+   "toNode": "n51",
+   "toSide": "left",
+   "label": "changes needed"
+  },
+  {
+   "id": "n64",
+   "fromNode": "n59",
+   "fromSide": "bottom",
+   "toNode": "n63",
+   "toSide": "top"
+  },
+  {
+   "id": "n66",
+   "fromNode": "n63",
+   "fromSide": "bottom",
+   "toNode": "n65",
    "toSide": "top",
    "label": "yes"
   },
   {
-   "id": "n62",
-   "fromNode": "n58",
+   "id": "n67",
+   "fromNode": "n63",
    "fromSide": "left",
-   "toNode": "n44",
+   "toNode": "n49",
    "toSide": "left",
    "label": "no \u2014 fix"
   },
   {
-   "id": "n63",
-   "fromNode": "n41",
+   "id": "n68",
+   "fromNode": "n46",
    "fromSide": "right",
-   "toNode": "n44",
-   "toSide": "top"
-  },
-  {
-   "id": "n73",
-   "fromNode": "n64",
-   "fromSide": "bottom",
-   "toNode": "n65",
-   "toSide": "top"
-  },
-  {
-   "id": "n74",
-   "fromNode": "n65",
-   "fromSide": "bottom",
-   "toNode": "n66",
-   "toSide": "top"
-  },
-  {
-   "id": "n75",
-   "fromNode": "n66",
-   "fromSide": "bottom",
-   "toNode": "n67",
-   "toSide": "top"
-  },
-  {
-   "id": "n76",
-   "fromNode": "n67",
-   "fromSide": "bottom",
-   "toNode": "n68",
-   "toSide": "top"
-  },
-  {
-   "id": "n77",
-   "fromNode": "n68",
-   "fromSide": "bottom",
-   "toNode": "n69",
+   "toNode": "n49",
    "toSide": "top"
   },
   {
@@ -2624,68 +2694,68 @@
    "toSide": "top"
   },
   {
-   "id": "n82",
+   "id": "n81",
    "fromNode": "n72",
    "fromSide": "bottom",
-   "toNode": "n81",
+   "toNode": "n73",
+   "toSide": "top"
+  },
+  {
+   "id": "n82",
+   "fromNode": "n73",
+   "fromSide": "bottom",
+   "toNode": "n74",
+   "toSide": "top"
+  },
+  {
+   "id": "n83",
+   "fromNode": "n74",
+   "fromSide": "bottom",
+   "toNode": "n75",
    "toSide": "top"
   },
   {
    "id": "n84",
-   "fromNode": "n81",
+   "fromNode": "n75",
    "fromSide": "bottom",
-   "toNode": "n83",
+   "toNode": "n76",
+   "toSide": "top"
+  },
+  {
+   "id": "n85",
+   "fromNode": "n76",
+   "fromSide": "bottom",
+   "toNode": "n77",
+   "toSide": "top"
+  },
+  {
+   "id": "n87",
+   "fromNode": "n77",
+   "fromSide": "bottom",
+   "toNode": "n86",
+   "toSide": "top"
+  },
+  {
+   "id": "n89",
+   "fromNode": "n86",
+   "fromSide": "bottom",
+   "toNode": "n88",
    "toSide": "top",
    "label": "yes"
   },
   {
-   "id": "n85",
-   "fromNode": "n81",
+   "id": "n90",
+   "fromNode": "n86",
    "fromSide": "left",
-   "toNode": "n64",
+   "toNode": "n69",
    "toSide": "left",
    "label": "no \u2014 fix"
   },
   {
-   "id": "n86",
-   "fromNode": "n60",
+   "id": "n91",
+   "fromNode": "n65",
    "fromSide": "right",
-   "toNode": "n64",
-   "toSide": "top"
-  },
-  {
-   "id": "n96",
-   "fromNode": "n87",
-   "fromSide": "bottom",
-   "toNode": "n88",
-   "toSide": "top"
-  },
-  {
-   "id": "n97",
-   "fromNode": "n88",
-   "fromSide": "bottom",
-   "toNode": "n89",
-   "toSide": "top"
-  },
-  {
-   "id": "n98",
-   "fromNode": "n89",
-   "fromSide": "bottom",
-   "toNode": "n90",
-   "toSide": "top"
-  },
-  {
-   "id": "n99",
-   "fromNode": "n90",
-   "fromSide": "bottom",
-   "toNode": "n91",
-   "toSide": "top"
-  },
-  {
-   "id": "n100",
-   "fromNode": "n91",
-   "fromSide": "bottom",
-   "toNode": "n92",
+   "toNode": "n69",
    "toSide": "top"
   },
   {
@@ -2710,68 +2780,68 @@
    "toSide": "top"
   },
   {
-   "id": "n105",
+   "id": "n104",
    "fromNode": "n95",
    "fromSide": "bottom",
-   "toNode": "n104",
+   "toNode": "n96",
+   "toSide": "top"
+  },
+  {
+   "id": "n105",
+   "fromNode": "n96",
+   "fromSide": "bottom",
+   "toNode": "n97",
+   "toSide": "top"
+  },
+  {
+   "id": "n106",
+   "fromNode": "n97",
+   "fromSide": "bottom",
+   "toNode": "n98",
    "toSide": "top"
   },
   {
    "id": "n107",
-   "fromNode": "n104",
+   "fromNode": "n98",
    "fromSide": "bottom",
-   "toNode": "n106",
+   "toNode": "n99",
+   "toSide": "top"
+  },
+  {
+   "id": "n108",
+   "fromNode": "n99",
+   "fromSide": "bottom",
+   "toNode": "n100",
+   "toSide": "top"
+  },
+  {
+   "id": "n110",
+   "fromNode": "n100",
+   "fromSide": "bottom",
+   "toNode": "n109",
+   "toSide": "top"
+  },
+  {
+   "id": "n112",
+   "fromNode": "n109",
+   "fromSide": "bottom",
+   "toNode": "n111",
    "toSide": "top",
    "label": "yes"
   },
   {
-   "id": "n108",
-   "fromNode": "n104",
+   "id": "n113",
+   "fromNode": "n109",
    "fromSide": "left",
-   "toNode": "n87",
+   "toNode": "n92",
    "toSide": "left",
    "label": "no \u2014 continue work"
   },
   {
-   "id": "n109",
-   "fromNode": "n83",
+   "id": "n114",
+   "fromNode": "n88",
    "fromSide": "right",
-   "toNode": "n87",
-   "toSide": "top"
-  },
-  {
-   "id": "n117",
-   "fromNode": "n110",
-   "fromSide": "bottom",
-   "toNode": "n111",
-   "toSide": "top"
-  },
-  {
-   "id": "n118",
-   "fromNode": "n111",
-   "fromSide": "bottom",
-   "toNode": "n112",
-   "toSide": "top"
-  },
-  {
-   "id": "n119",
-   "fromNode": "n112",
-   "fromSide": "bottom",
-   "toNode": "n113",
-   "toSide": "top"
-  },
-  {
-   "id": "n120",
-   "fromNode": "n113",
-   "fromSide": "bottom",
-   "toNode": "n114",
-   "toSide": "top"
-  },
-  {
-   "id": "n121",
-   "fromNode": "n114",
-   "fromSide": "bottom",
-   "toNode": "n115",
+   "toNode": "n92",
    "toSide": "top"
   },
   {
@@ -2782,646 +2852,663 @@
    "toSide": "top"
   },
   {
-   "id": "n124",
+   "id": "n123",
    "fromNode": "n116",
    "fromSide": "bottom",
-   "toNode": "n123",
+   "toNode": "n117",
+   "toSide": "top"
+  },
+  {
+   "id": "n124",
+   "fromNode": "n117",
+   "fromSide": "bottom",
+   "toNode": "n118",
+   "toSide": "top"
+  },
+  {
+   "id": "n125",
+   "fromNode": "n118",
+   "fromSide": "bottom",
+   "toNode": "n119",
    "toSide": "top"
   },
   {
    "id": "n126",
-   "fromNode": "n123",
+   "fromNode": "n119",
    "fromSide": "bottom",
-   "toNode": "n125",
-   "toSide": "top",
-   "label": "yes"
+   "toNode": "n120",
+   "toSide": "top"
   },
   {
    "id": "n127",
-   "fromNode": "n123",
-   "fromSide": "left",
-   "toNode": "n110",
-   "toSide": "left",
-   "label": "no \u2014 fix"
+   "fromNode": "n120",
+   "fromSide": "bottom",
+   "toNode": "n121",
+   "toSide": "top"
   },
   {
-   "id": "n128",
-   "fromNode": "n106",
-   "fromSide": "right",
-   "toNode": "n110",
+   "id": "n129",
+   "fromNode": "n121",
+   "fromSide": "bottom",
+   "toNode": "n128",
    "toSide": "top"
   },
   {
    "id": "n131",
-   "fromNode": "n129",
+   "fromNode": "n128",
    "fromSide": "bottom",
    "toNode": "n130",
-   "toSide": "top"
+   "toSide": "top",
+   "label": "yes"
   },
   {
    "id": "n132",
-   "fromNode": "n125",
+   "fromNode": "n128",
+   "fromSide": "left",
+   "toNode": "n115",
+   "toSide": "left",
+   "label": "no \u2014 fix"
+  },
+  {
+   "id": "n133",
+   "fromNode": "n111",
    "fromSide": "right",
-   "toNode": "n129",
+   "toNode": "n115",
+   "toSide": "top"
+  },
+  {
+   "id": "n136",
+   "fromNode": "n134",
+   "fromSide": "bottom",
+   "toNode": "n135",
+   "toSide": "top"
+  },
+  {
+   "id": "n137",
+   "fromNode": "n130",
+   "fromSide": "right",
+   "toNode": "n134",
    "toSide": "left"
   },
   {
-   "id": "n135",
-   "fromNode": "n44",
+   "id": "n140",
+   "fromNode": "n49",
    "fromSide": "top",
-   "toNode": "n133",
+   "toNode": "n138",
    "toSide": "bottom",
    "label": "hold"
   },
   {
-   "id": "n136",
-   "fromNode": "n133",
+   "id": "n141",
+   "fromNode": "n138",
    "fromSide": "bottom",
-   "toNode": "n44",
+   "toNode": "n49",
    "toSide": "top",
    "label": "resume"
   },
   {
-   "id": "n137",
-   "fromNode": "n64",
+   "id": "n142",
+   "fromNode": "n69",
    "fromSide": "top",
-   "toNode": "n134",
+   "toNode": "n139",
    "toSide": "bottom",
    "label": "cancel"
   },
   {
-   "id": "n143",
-   "fromNode": "n139",
+   "id": "n148",
+   "fromNode": "n144",
    "fromSide": "right",
-   "toNode": "n140",
+   "toNode": "n145",
    "toSide": "left"
   },
   {
-   "id": "n144",
-   "fromNode": "n140",
+   "id": "n149",
+   "fromNode": "n145",
    "fromSide": "right",
-   "toNode": "n141",
+   "toNode": "n146",
    "toSide": "left"
   },
   {
-   "id": "n145",
-   "fromNode": "n140",
+   "id": "n150",
+   "fromNode": "n145",
    "fromSide": "bottom",
-   "toNode": "n142",
+   "toNode": "n147",
    "toSide": "top"
   },
   {
-   "id": "n163",
-   "fromNode": "n148",
-   "fromSide": "bottom",
-   "toNode": "n149",
-   "toSide": "top"
-  },
-  {
-   "id": "n164",
-   "fromNode": "n149",
-   "fromSide": "bottom",
-   "toNode": "n150",
-   "toSide": "top"
-  },
-  {
-   "id": "n165",
-   "fromNode": "n150",
-   "fromSide": "left",
-   "toNode": "n151",
-   "toSide": "top",
-   "label": "yes \u2014 stays\ndraft until sent"
-  },
-  {
-   "id": "n166",
-   "fromNode": "n150",
-   "fromSide": "right",
-   "toNode": "n152",
-   "toSide": "top",
-   "label": "no (PM/Admin)"
-  },
-  {
-   "id": "n167",
-   "fromNode": "n151",
-   "fromSide": "bottom",
-   "toNode": "n153",
-   "toSide": "left"
-  },
-  {
-   "id": "n168",
-   "fromNode": "n152",
-   "fromSide": "bottom",
-   "toNode": "n153",
-   "toSide": "right"
-  },
-  {
-   "id": "n169",
+   "id": "n174",
    "fromNode": "n153",
    "fromSide": "bottom",
    "toNode": "n154",
    "toSide": "top"
   },
   {
-   "id": "n170",
+   "id": "n175",
    "fromNode": "n154",
    "fromSide": "bottom",
    "toNode": "n155",
-   "toSide": "top"
-  },
-  {
-   "id": "n171",
-   "fromNode": "n155",
-   "fromSide": "left",
-   "toNode": "n156",
    "toSide": "top",
-   "label": "internal"
-  },
-  {
-   "id": "n172",
-   "fromNode": "n155",
-   "fromSide": "right",
-   "toNode": "n157",
-   "toSide": "top",
-   "label": "external/\nclient"
-  },
-  {
-   "id": "n173",
-   "fromNode": "n157",
-   "fromSide": "bottom",
-   "toNode": "n158",
-   "toSide": "top"
-  },
-  {
-   "id": "n174",
-   "fromNode": "n156",
-   "fromSide": "bottom",
-   "toNode": "n159",
-   "toSide": "left",
-   "label": "no answer"
-  },
-  {
-   "id": "n175",
-   "fromNode": "n158",
-   "fromSide": "left",
-   "toNode": "n159",
-   "toSide": "right",
-   "label": "no answer"
+   "label": "either kind"
   },
   {
    "id": "n176",
-   "fromNode": "n156",
-   "fromSide": "right",
-   "toNode": "n160",
-   "toSide": "top",
-   "label": "blocked"
+   "fromNode": "n155",
+   "fromSide": "bottom",
+   "toNode": "n156",
+   "toSide": "top"
   },
   {
    "id": "n177",
    "fromNode": "n156",
-   "fromSide": "bottom",
-   "toNode": "n161",
+   "fromSide": "left",
+   "toNode": "n157",
    "toSide": "top",
-   "label": "answered"
+   "label": "yes \u2014 stays\ndraft until sent"
   },
   {
    "id": "n178",
-   "fromNode": "n159",
-   "fromSide": "left",
-   "toNode": "n162",
-   "toSide": "top"
+   "fromNode": "n156",
+   "fromSide": "right",
+   "toNode": "n158",
+   "toSide": "top",
+   "label": "no (PM/Admin)"
   },
   {
    "id": "n179",
+   "fromNode": "n157",
+   "fromSide": "bottom",
+   "toNode": "n159",
+   "toSide": "left"
+  },
+  {
+   "id": "n180",
+   "fromNode": "n158",
+   "fromSide": "bottom",
+   "toNode": "n159",
+   "toSide": "right"
+  },
+  {
+   "id": "n181",
    "fromNode": "n159",
+   "fromSide": "bottom",
+   "toNode": "n160",
+   "toSide": "top"
+  },
+  {
+   "id": "n182",
+   "fromNode": "n160",
    "fromSide": "bottom",
    "toNode": "n161",
    "toSide": "top"
   },
   {
    "id": "n183",
-   "fromNode": "n153",
-   "fromSide": "right",
-   "toNode": "n180",
-   "toSide": "left",
-   "color": "4"
+   "fromNode": "n161",
+   "fromSide": "left",
+   "toNode": "n162",
+   "toSide": "top",
+   "label": "internal, RFI"
   },
   {
    "id": "n184",
-   "fromNode": "n180",
-   "fromSide": "bottom",
-   "toNode": "n181",
-   "toSide": "top"
+   "fromNode": "n161",
+   "fromSide": "left",
+   "toNode": "n163",
+   "toSide": "top",
+   "label": "internal, RFA"
   },
   {
    "id": "n185",
-   "fromNode": "n153",
+   "fromNode": "n161",
    "fromSide": "right",
-   "toNode": "n182",
+   "toNode": "n167",
+   "toSide": "top",
+   "label": "external/\nclient"
+  },
+  {
+   "id": "n186",
+   "fromNode": "n167",
+   "fromSide": "bottom",
+   "toNode": "n168",
+   "toSide": "top"
+  },
+  {
+   "id": "n187",
+   "fromNode": "n163",
+   "fromSide": "left",
+   "toNode": "n164",
+   "toSide": "top",
+   "label": "approved"
+  },
+  {
+   "id": "n188",
+   "fromNode": "n163",
+   "fromSide": "bottom",
+   "toNode": "n165",
+   "toSide": "top",
+   "label": "approved\nas noted"
+  },
+  {
+   "id": "n189",
+   "fromNode": "n163",
+   "fromSide": "right",
+   "toNode": "n166",
+   "toSide": "top",
+   "label": "rejected"
+  },
+  {
+   "id": "n190",
+   "fromNode": "n164",
+   "fromSide": "bottom",
+   "toNode": "n171",
+   "toSide": "left"
+  },
+  {
+   "id": "n191",
+   "fromNode": "n165",
+   "fromSide": "bottom",
+   "toNode": "n171",
+   "toSide": "top"
+  },
+  {
+   "id": "n192",
+   "fromNode": "n166",
+   "fromSide": "bottom",
+   "toNode": "n171",
+   "toSide": "right"
+  },
+  {
+   "id": "n193",
+   "fromNode": "n171",
+   "fromSide": "bottom",
+   "toNode": "n172",
+   "toSide": "top"
+  },
+  {
+   "id": "n194",
+   "fromNode": "n172",
+   "fromSide": "right",
+   "toNode": "n173",
    "toSide": "left",
    "color": "4"
   },
   {
-   "id": "n193",
-   "fromNode": "n188",
-   "fromSide": "right",
-   "toNode": "n189",
-   "toSide": "left"
-  },
-  {
-   "id": "n194",
-   "fromNode": "n189",
-   "fromSide": "right",
-   "toNode": "n190",
-   "toSide": "left"
-  },
-  {
    "id": "n195",
-   "fromNode": "n190",
-   "fromSide": "bottom",
-   "toNode": "n192",
-   "toSide": "top"
+   "fromNode": "n162",
+   "fromSide": "right",
+   "toNode": "n173",
+   "toSide": "top",
+   "label": "answered",
+   "color": "4"
   },
   {
    "id": "n196",
-   "fromNode": "n190",
-   "fromSide": "left",
-   "toNode": "n191",
-   "toSide": "top"
-  },
-  {
-   "id": "n208",
-   "fromNode": "n199",
+   "fromNode": "n162",
    "fromSide": "bottom",
-   "toNode": "n200",
+   "toNode": "n169",
+   "toSide": "top",
+   "label": "no answer"
+  },
+  {
+   "id": "n197",
+   "fromNode": "n168",
+   "fromSide": "left",
+   "toNode": "n169",
+   "toSide": "right",
+   "label": "no answer"
+  },
+  {
+   "id": "n198",
+   "fromNode": "n169",
+   "fromSide": "bottom",
+   "toNode": "n170",
    "toSide": "top"
   },
   {
-   "id": "n209",
+   "id": "n199",
+   "fromNode": "n169",
+   "fromSide": "right",
+   "toNode": "n173",
+   "toSide": "left",
+   "label": "later answered"
+  },
+  {
+   "id": "n203",
+   "fromNode": "n159",
+   "fromSide": "right",
+   "toNode": "n200",
+   "toSide": "left",
+   "color": "4"
+  },
+  {
+   "id": "n204",
    "fromNode": "n200",
    "fromSide": "bottom",
    "toNode": "n201",
    "toSide": "top"
   },
   {
-   "id": "n210",
-   "fromNode": "n201",
-   "fromSide": "left",
-   "toNode": "n202",
-   "toSide": "top",
-   "label": "reject"
-  },
-  {
-   "id": "n211",
-   "fromNode": "n201",
-   "fromSide": "bottom",
-   "toNode": "n203",
-   "toSide": "top",
-   "label": "endorse"
-  },
-  {
-   "id": "n212",
-   "fromNode": "n203",
-   "fromSide": "bottom",
-   "toNode": "n204",
-   "toSide": "top"
-  },
-  {
-   "id": "n213",
-   "fromNode": "n204",
-   "fromSide": "left",
-   "toNode": "n205",
-   "toSide": "top",
-   "label": "reject"
-  },
-  {
-   "id": "n214",
-   "fromNode": "n204",
-   "fromSide": "bottom",
-   "toNode": "n206",
-   "toSide": "top",
-   "label": "approve"
-  },
-  {
-   "id": "n215",
-   "fromNode": "n200",
+   "id": "n205",
+   "fromNode": "n159",
    "fromSide": "right",
-   "toNode": "n207",
+   "toNode": "n202",
    "toSide": "left",
-   "color": "1"
-  },
-  {
-   "id": "n228",
-   "fromNode": "n206",
-   "fromSide": "bottom",
-   "toNode": "n218",
-   "toSide": "top",
    "color": "4"
   },
   {
-   "id": "n229",
-   "fromNode": "n219",
+   "id": "n213",
+   "fromNode": "n208",
    "fromSide": "right",
-   "toNode": "n218",
+   "toNode": "n209",
    "toSide": "left"
   },
   {
-   "id": "n230",
-   "fromNode": "n218",
+   "id": "n214",
+   "fromNode": "n209",
+   "fromSide": "right",
+   "toNode": "n210",
+   "toSide": "left"
+  },
+  {
+   "id": "n215",
+   "fromNode": "n210",
+   "fromSide": "bottom",
+   "toNode": "n212",
+   "toSide": "top"
+  },
+  {
+   "id": "n216",
+   "fromNode": "n210",
+   "fromSide": "left",
+   "toNode": "n211",
+   "toSide": "top"
+  },
+  {
+   "id": "n228",
+   "fromNode": "n219",
    "fromSide": "bottom",
    "toNode": "n220",
    "toSide": "top"
   },
   {
-   "id": "n231",
+   "id": "n229",
    "fromNode": "n220",
    "fromSide": "bottom",
    "toNode": "n221",
    "toSide": "top"
   },
   {
-   "id": "n232",
+   "id": "n230",
+   "fromNode": "n221",
+   "fromSide": "left",
+   "toNode": "n222",
+   "toSide": "top",
+   "label": "reject"
+  },
+  {
+   "id": "n231",
    "fromNode": "n221",
    "fromSide": "bottom",
-   "toNode": "n222",
-   "toSide": "top"
-  },
-  {
-   "id": "n233",
-   "fromNode": "n222",
-   "fromSide": "bottom",
-   "toNode": "n226",
-   "toSide": "top"
-  },
-  {
-   "id": "n234",
-   "fromNode": "n220",
-   "fromSide": "right",
    "toNode": "n223",
-   "toSide": "left"
+   "toSide": "top",
+   "label": "endorse"
   },
   {
-   "id": "n235",
+   "id": "n232",
    "fromNode": "n223",
    "fromSide": "bottom",
    "toNode": "n224",
    "toSide": "top"
   },
   {
-   "id": "n236",
-   "fromNode": "n223",
-   "fromSide": "bottom",
+   "id": "n233",
+   "fromNode": "n224",
+   "fromSide": "left",
    "toNode": "n225",
+   "toSide": "top",
+   "label": "reject"
+  },
+  {
+   "id": "n234",
+   "fromNode": "n224",
+   "fromSide": "bottom",
+   "toNode": "n226",
+   "toSide": "top",
+   "label": "approve"
+  },
+  {
+   "id": "n235",
+   "fromNode": "n220",
+   "fromSide": "right",
+   "toNode": "n227",
+   "toSide": "left",
+   "color": "1"
+  },
+  {
+   "id": "n248",
+   "fromNode": "n226",
+   "fromSide": "bottom",
+   "toNode": "n238",
+   "toSide": "top",
+   "color": "4"
+  },
+  {
+   "id": "n249",
+   "fromNode": "n239",
+   "fromSide": "right",
+   "toNode": "n238",
+   "toSide": "left"
+  },
+  {
+   "id": "n250",
+   "fromNode": "n238",
+   "fromSide": "bottom",
+   "toNode": "n240",
    "toSide": "top"
   },
   {
-   "id": "n237",
-   "fromNode": "n226",
-   "fromSide": "bottom",
-   "toNode": "n227",
-   "toSide": "top",
-   "label": "unsettled"
-  },
-  {
-   "id": "n258",
+   "id": "n251",
    "fromNode": "n240",
    "fromSide": "bottom",
    "toNode": "n241",
    "toSide": "top"
   },
   {
-   "id": "n259",
+   "id": "n252",
    "fromNode": "n241",
-   "fromSide": "left",
+   "fromSide": "bottom",
    "toNode": "n242",
-   "toSide": "top",
-   "label": "office"
+   "toSide": "top"
   },
   {
-   "id": "n260",
-   "fromNode": "n241",
-   "fromSide": "right",
-   "toNode": "n243",
-   "toSide": "top",
-   "label": "site"
-  },
-  {
-   "id": "n261",
+   "id": "n253",
    "fromNode": "n242",
    "fromSide": "bottom",
    "toNode": "n246",
+   "toSide": "top"
+  },
+  {
+   "id": "n254",
+   "fromNode": "n240",
+   "fromSide": "right",
+   "toNode": "n243",
    "toSide": "left"
   },
   {
-   "id": "n262",
+   "id": "n255",
    "fromNode": "n243",
    "fromSide": "bottom",
    "toNode": "n244",
    "toSide": "top"
   },
   {
-   "id": "n263",
-   "fromNode": "n244",
+   "id": "n256",
+   "fromNode": "n243",
+   "fromSide": "bottom",
+   "toNode": "n245",
+   "toSide": "top"
+  },
+  {
+   "id": "n257",
+   "fromNode": "n246",
+   "fromSide": "bottom",
+   "toNode": "n247",
+   "toSide": "top",
+   "label": "unsettled"
+  },
+  {
+   "id": "n278",
+   "fromNode": "n260",
+   "fromSide": "bottom",
+   "toNode": "n261",
+   "toSide": "top"
+  },
+  {
+   "id": "n279",
+   "fromNode": "n261",
    "fromSide": "left",
-   "toNode": "n246",
+   "toNode": "n262",
+   "toSide": "top",
+   "label": "office"
+  },
+  {
+   "id": "n280",
+   "fromNode": "n261",
+   "fromSide": "right",
+   "toNode": "n263",
+   "toSide": "top",
+   "label": "site"
+  },
+  {
+   "id": "n281",
+   "fromNode": "n262",
+   "fromSide": "bottom",
+   "toNode": "n266",
+   "toSide": "left"
+  },
+  {
+   "id": "n282",
+   "fromNode": "n263",
+   "fromSide": "bottom",
+   "toNode": "n264",
+   "toSide": "top"
+  },
+  {
+   "id": "n283",
+   "fromNode": "n264",
+   "fromSide": "left",
+   "toNode": "n266",
    "toSide": "right",
    "label": "yes"
   },
   {
-   "id": "n264",
-   "fromNode": "n244",
+   "id": "n284",
+   "fromNode": "n264",
    "fromSide": "right",
-   "toNode": "n245",
+   "toNode": "n265",
    "toSide": "left",
    "label": "no"
   },
   {
-   "id": "n265",
-   "fromNode": "n245",
+   "id": "n285",
+   "fromNode": "n265",
    "fromSide": "bottom",
-   "toNode": "n246",
+   "toNode": "n266",
    "toSide": "right"
   },
   {
-   "id": "n266",
-   "fromNode": "n239",
+   "id": "n286",
+   "fromNode": "n259",
    "fromSide": "right",
-   "toNode": "n246",
+   "toNode": "n266",
    "toSide": "left",
    "color": "4"
   },
   {
-   "id": "n267",
-   "fromNode": "n246",
+   "id": "n287",
+   "fromNode": "n266",
    "fromSide": "bottom",
-   "toNode": "n247",
+   "toNode": "n267",
    "toSide": "top"
   },
   {
-   "id": "n268",
-   "fromNode": "n247",
+   "id": "n288",
+   "fromNode": "n267",
    "fromSide": "bottom",
-   "toNode": "n248",
+   "toNode": "n268",
    "toSide": "top"
-  },
-  {
-   "id": "n269",
-   "fromNode": "n248",
-   "fromSide": "bottom",
-   "toNode": "n249",
-   "toSide": "top"
-  },
-  {
-   "id": "n270",
-   "fromNode": "n249",
-   "fromSide": "bottom",
-   "toNode": "n250",
-   "toSide": "top"
-  },
-  {
-   "id": "n271",
-   "fromNode": "n250",
-   "fromSide": "bottom",
-   "toNode": "n251",
-   "toSide": "top"
-  },
-  {
-   "id": "n272",
-   "fromNode": "n251",
-   "fromSide": "bottom",
-   "toNode": "n252",
-   "toSide": "top"
-  },
-  {
-   "id": "n273",
-   "fromNode": "n252",
-   "fromSide": "bottom",
-   "toNode": "n254",
-   "toSide": "top",
-   "label": "yes"
-  },
-  {
-   "id": "n274",
-   "fromNode": "n252",
-   "fromSide": "left",
-   "toNode": "n253",
-   "toSide": "right",
-   "label": "issues"
-  },
-  {
-   "id": "n275",
-   "fromNode": "n253",
-   "fromSide": "top",
-   "toNode": "n250",
-   "toSide": "left"
-  },
-  {
-   "id": "n276",
-   "fromNode": "n247",
-   "fromSide": "right",
-   "toNode": "n255",
-   "toSide": "left"
-  },
-  {
-   "id": "n277",
-   "fromNode": "n254",
-   "fromSide": "right",
-   "toNode": "n256",
-   "toSide": "left"
-  },
-  {
-   "id": "n278",
-   "fromNode": "n254",
-   "fromSide": "right",
-   "toNode": "n257",
-   "toSide": "bottom"
   },
   {
    "id": "n289",
-   "fromNode": "n281",
+   "fromNode": "n268",
    "fromSide": "bottom",
-   "toNode": "n282",
+   "toNode": "n269",
    "toSide": "top"
   },
   {
    "id": "n290",
-   "fromNode": "n282",
-   "fromSide": "left",
-   "toNode": "n283",
-   "toSide": "top",
-   "label": "Internal/\nConfidential"
+   "fromNode": "n269",
+   "fromSide": "bottom",
+   "toNode": "n270",
+   "toSide": "top"
   },
   {
    "id": "n291",
-   "fromNode": "n282",
-   "fromSide": "right",
-   "toNode": "n284",
-   "toSide": "top",
-   "label": "Restricted"
+   "fromNode": "n270",
+   "fromSide": "bottom",
+   "toNode": "n271",
+   "toSide": "top"
   },
   {
    "id": "n292",
-   "fromNode": "n284",
+   "fromNode": "n271",
    "fromSide": "bottom",
-   "toNode": "n285",
+   "toNode": "n272",
    "toSide": "top"
   },
   {
    "id": "n293",
-   "fromNode": "n283",
+   "fromNode": "n272",
    "fromSide": "bottom",
-   "toNode": "n286",
-   "toSide": "left"
+   "toNode": "n274",
+   "toSide": "top",
+   "label": "yes"
   },
   {
    "id": "n294",
-   "fromNode": "n285",
-   "fromSide": "bottom",
-   "toNode": "n286",
-   "toSide": "right"
+   "fromNode": "n272",
+   "fromSide": "left",
+   "toNode": "n273",
+   "toSide": "right",
+   "label": "issues"
   },
   {
    "id": "n295",
-   "fromNode": "n286",
-   "fromSide": "bottom",
-   "toNode": "n287",
-   "toSide": "top"
+   "fromNode": "n273",
+   "fromSide": "top",
+   "toNode": "n270",
+   "toSide": "left"
   },
   {
    "id": "n296",
-   "fromNode": "n287",
-   "fromSide": "bottom",
-   "toNode": "n288",
-   "toSide": "top"
-  },
-  {
-   "id": "n305",
-   "fromNode": "n297",
-   "fromSide": "bottom",
-   "toNode": "n298",
-   "toSide": "top"
-  },
-  {
-   "id": "n306",
-   "fromNode": "n298",
+   "fromNode": "n267",
    "fromSide": "right",
-   "toNode": "n299",
-   "toSide": "left",
-   "label": "no (Confidential/\nRestricted)"
+   "toNode": "n275",
+   "toSide": "left"
   },
   {
-   "id": "n307",
-   "fromNode": "n299",
-   "fromSide": "bottom",
-   "toNode": "n300",
-   "toSide": "top"
+   "id": "n297",
+   "fromNode": "n274",
+   "fromSide": "right",
+   "toNode": "n276",
+   "toSide": "left"
   },
   {
-   "id": "n308",
-   "fromNode": "n298",
-   "fromSide": "bottom",
-   "toNode": "n301",
-   "toSide": "top",
-   "label": "yes / Internal"
+   "id": "n298",
+   "fromNode": "n274",
+   "fromSide": "right",
+   "toNode": "n277",
+   "toSide": "bottom"
   },
   {
    "id": "n309",
@@ -3433,338 +3520,426 @@
   {
    "id": "n310",
    "fromNode": "n302",
-   "fromSide": "bottom",
+   "fromSide": "left",
    "toNode": "n303",
-   "toSide": "top"
+   "toSide": "top",
+   "label": "Internal/\nConfidential"
   },
   {
    "id": "n311",
+   "fromNode": "n302",
+   "fromSide": "right",
+   "toNode": "n304",
+   "toSide": "top",
+   "label": "Restricted"
+  },
+  {
+   "id": "n312",
+   "fromNode": "n304",
+   "fromSide": "bottom",
+   "toNode": "n305",
+   "toSide": "top"
+  },
+  {
+   "id": "n313",
    "fromNode": "n303",
    "fromSide": "bottom",
-   "toNode": "n304",
-   "toSide": "top"
+   "toNode": "n306",
+   "toSide": "left"
   },
   {
    "id": "n314",
-   "fromNode": "n312",
+   "fromNode": "n305",
    "fromSide": "bottom",
-   "toNode": "n313",
-   "toSide": "top"
+   "toNode": "n306",
+   "toSide": "right"
   },
   {
    "id": "n315",
-   "fromNode": "n286",
-   "fromSide": "left",
-   "toNode": "n312",
-   "toSide": "top",
-   "color": "4"
-  },
-  {
-   "id": "n322",
-   "fromNode": "n316",
+   "fromNode": "n306",
    "fromSide": "bottom",
-   "toNode": "n317",
+   "toNode": "n307",
    "toSide": "top"
   },
   {
-   "id": "n323",
+   "id": "n316",
+   "fromNode": "n307",
+   "fromSide": "bottom",
+   "toNode": "n308",
+   "toSide": "top"
+  },
+  {
+   "id": "n325",
    "fromNode": "n317",
    "fromSide": "bottom",
    "toNode": "n318",
    "toSide": "top"
   },
   {
-   "id": "n324",
+   "id": "n326",
    "fromNode": "n318",
-   "fromSide": "bottom",
+   "fromSide": "right",
    "toNode": "n319",
+   "toSide": "left",
+   "label": "no (Confidential/\nRestricted)"
+  },
+  {
+   "id": "n327",
+   "fromNode": "n319",
+   "fromSide": "bottom",
+   "toNode": "n320",
    "toSide": "top"
   },
   {
-   "id": "n325",
-   "fromNode": "n320",
+   "id": "n328",
+   "fromNode": "n318",
    "fromSide": "bottom",
    "toNode": "n321",
+   "toSide": "top",
+   "label": "yes / Internal"
+  },
+  {
+   "id": "n329",
+   "fromNode": "n321",
+   "fromSide": "bottom",
+   "toNode": "n322",
    "toSide": "top"
   },
   {
    "id": "n330",
-   "fromNode": "n326",
+   "fromNode": "n322",
    "fromSide": "bottom",
-   "toNode": "n327",
+   "toNode": "n323",
    "toSide": "top"
   },
   {
    "id": "n331",
-   "fromNode": "n327",
+   "fromNode": "n323",
    "fromSide": "bottom",
-   "toNode": "n328",
+   "toNode": "n324",
    "toSide": "top"
   },
   {
-   "id": "n332",
-   "fromNode": "n328",
+   "id": "n334",
+   "fromNode": "n332",
    "fromSide": "bottom",
-   "toNode": "n329",
+   "toNode": "n333",
    "toSide": "top"
   },
   {
-   "id": "n349",
+   "id": "n335",
+   "fromNode": "n306",
+   "fromSide": "left",
+   "toNode": "n332",
+   "toSide": "top",
+   "color": "4"
+  },
+  {
+   "id": "n342",
    "fromNode": "n336",
    "fromSide": "bottom",
    "toNode": "n337",
    "toSide": "top"
   },
   {
-   "id": "n350",
+   "id": "n343",
    "fromNode": "n337",
    "fromSide": "bottom",
    "toNode": "n338",
    "toSide": "top"
   },
   {
-   "id": "n351",
+   "id": "n344",
    "fromNode": "n338",
    "fromSide": "bottom",
    "toNode": "n339",
+   "toSide": "top"
+  },
+  {
+   "id": "n345",
+   "fromNode": "n340",
+   "fromSide": "bottom",
+   "toNode": "n341",
+   "toSide": "top"
+  },
+  {
+   "id": "n350",
+   "fromNode": "n346",
+   "fromSide": "bottom",
+   "toNode": "n347",
+   "toSide": "top"
+  },
+  {
+   "id": "n351",
+   "fromNode": "n347",
+   "fromSide": "bottom",
+   "toNode": "n348",
    "toSide": "top"
   },
   {
    "id": "n352",
-   "fromNode": "n339",
+   "fromNode": "n348",
    "fromSide": "bottom",
-   "toNode": "n340",
+   "toNode": "n349",
    "toSide": "top"
   },
   {
-   "id": "n353",
-   "fromNode": "n340",
+   "id": "n369",
+   "fromNode": "n356",
+   "fromSide": "bottom",
+   "toNode": "n357",
+   "toSide": "top"
+  },
+  {
+   "id": "n370",
+   "fromNode": "n357",
+   "fromSide": "bottom",
+   "toNode": "n358",
+   "toSide": "top"
+  },
+  {
+   "id": "n371",
+   "fromNode": "n358",
+   "fromSide": "bottom",
+   "toNode": "n359",
+   "toSide": "top"
+  },
+  {
+   "id": "n372",
+   "fromNode": "n359",
+   "fromSide": "bottom",
+   "toNode": "n360",
+   "toSide": "top"
+  },
+  {
+   "id": "n373",
+   "fromNode": "n360",
    "fromSide": "left",
-   "toNode": "n341",
+   "toNode": "n361",
    "toSide": "top",
    "label": "approve"
   },
   {
-   "id": "n354",
-   "fromNode": "n340",
+   "id": "n374",
+   "fromNode": "n360",
    "fromSide": "bottom",
-   "toNode": "n342",
+   "toNode": "n362",
    "toSide": "top",
    "label": "reject"
   },
   {
-   "id": "n355",
-   "fromNode": "n340",
+   "id": "n375",
+   "fromNode": "n360",
    "fromSide": "right",
-   "toNode": "n343",
+   "toNode": "n363",
    "toSide": "top",
    "label": "revise"
   },
   {
-   "id": "n356",
-   "fromNode": "n343",
-   "fromSide": "top",
-   "toNode": "n339",
-   "toSide": "right"
-  },
-  {
-   "id": "n357",
-   "fromNode": "n341",
-   "fromSide": "bottom",
-   "toNode": "n344",
-   "toSide": "top"
-  },
-  {
-   "id": "n358",
-   "fromNode": "n344",
-   "fromSide": "bottom",
-   "toNode": "n345",
-   "toSide": "top",
-   "label": "yes"
-  },
-  {
-   "id": "n359",
-   "fromNode": "n345",
-   "fromSide": "right",
-   "toNode": "n344",
-   "toSide": "right"
-  },
-  {
-   "id": "n360",
-   "fromNode": "n344",
-   "fromSide": "bottom",
-   "toNode": "n346",
-   "toSide": "top",
-   "label": "no"
-  },
-  {
-   "id": "n361",
-   "fromNode": "n338",
-   "fromSide": "right",
-   "toNode": "n347",
-   "toSide": "left"
-  },
-  {
-   "id": "n362",
-   "fromNode": "n338",
-   "fromSide": "right",
-   "toNode": "n348",
-   "toSide": "left"
-  },
-  {
-   "id": "n366",
+   "id": "n376",
    "fromNode": "n363",
+   "fromSide": "top",
+   "toNode": "n359",
+   "toSide": "right"
+  },
+  {
+   "id": "n377",
+   "fromNode": "n361",
    "fromSide": "bottom",
    "toNode": "n364",
    "toSide": "top"
   },
   {
-   "id": "n367",
+   "id": "n378",
    "fromNode": "n364",
    "fromSide": "bottom",
    "toNode": "n365",
-   "toSide": "top"
+   "toSide": "top",
+   "label": "yes"
   },
   {
-   "id": "n371",
-   "fromNode": "n368",
-   "fromSide": "bottom",
-   "toNode": "n369",
-   "toSide": "top"
+   "id": "n379",
+   "fromNode": "n365",
+   "fromSide": "right",
+   "toNode": "n364",
+   "toSide": "right"
   },
   {
-   "id": "n372",
-   "fromNode": "n369",
+   "id": "n380",
+   "fromNode": "n364",
    "fromSide": "bottom",
-   "toNode": "n370",
-   "toSide": "top"
+   "toNode": "n366",
+   "toSide": "top",
+   "label": "no"
   },
   {
    "id": "n381",
-   "fromNode": "n375",
-   "fromSide": "bottom",
-   "toNode": "n376",
-   "toSide": "top"
+   "fromNode": "n358",
+   "fromSide": "right",
+   "toNode": "n367",
+   "toSide": "left"
   },
   {
    "id": "n382",
-   "fromNode": "n376",
+   "fromNode": "n358",
+   "fromSide": "right",
+   "toNode": "n368",
+   "toSide": "left"
+  },
+  {
+   "id": "n386",
+   "fromNode": "n383",
    "fromSide": "bottom",
-   "toNode": "n377",
+   "toNode": "n384",
    "toSide": "top"
   },
   {
-   "id": "n383",
-   "fromNode": "n377",
+   "id": "n387",
+   "fromNode": "n384",
+   "fromSide": "bottom",
+   "toNode": "n385",
+   "toSide": "top"
+  },
+  {
+   "id": "n391",
+   "fromNode": "n388",
+   "fromSide": "bottom",
+   "toNode": "n389",
+   "toSide": "top"
+  },
+  {
+   "id": "n392",
+   "fromNode": "n389",
+   "fromSide": "bottom",
+   "toNode": "n390",
+   "toSide": "top"
+  },
+  {
+   "id": "n401",
+   "fromNode": "n395",
+   "fromSide": "bottom",
+   "toNode": "n396",
+   "toSide": "top"
+  },
+  {
+   "id": "n402",
+   "fromNode": "n396",
+   "fromSide": "bottom",
+   "toNode": "n397",
+   "toSide": "top"
+  },
+  {
+   "id": "n403",
+   "fromNode": "n397",
    "fromSide": "left",
-   "toNode": "n378",
+   "toNode": "n398",
    "toSide": "top",
    "label": "accept"
   },
   {
-   "id": "n384",
-   "fromNode": "n377",
+   "id": "n404",
+   "fromNode": "n397",
    "fromSide": "bottom",
-   "toNode": "n379",
+   "toNode": "n399",
    "toSide": "top",
    "label": "discard"
   },
   {
-   "id": "n385",
-   "fromNode": "n377",
+   "id": "n405",
+   "fromNode": "n397",
    "fromSide": "right",
-   "toNode": "n380",
+   "toNode": "n400",
    "toSide": "top",
    "label": "regenerate"
   },
   {
-   "id": "n389",
-   "fromNode": "n386",
+   "id": "n409",
+   "fromNode": "n406",
    "fromSide": "bottom",
-   "toNode": "n387",
+   "toNode": "n407",
    "toSide": "top"
   },
   {
-   "id": "n390",
-   "fromNode": "n387",
+   "id": "n410",
+   "fromNode": "n407",
    "fromSide": "bottom",
-   "toNode": "n388",
+   "toNode": "n408",
    "toSide": "top"
   },
   {
-   "id": "n394",
-   "fromNode": "n391",
+   "id": "n414",
+   "fromNode": "n411",
    "fromSide": "bottom",
-   "toNode": "n392",
+   "toNode": "n412",
    "toSide": "top"
   },
   {
-   "id": "n395",
-   "fromNode": "n392",
+   "id": "n415",
+   "fromNode": "n412",
    "fromSide": "bottom",
-   "toNode": "n393",
+   "toNode": "n413",
    "toSide": "top"
   },
   {
-   "id": "n399",
-   "fromNode": "n396",
+   "id": "n419",
+   "fromNode": "n416",
    "fromSide": "right",
-   "toNode": "n397",
+   "toNode": "n417",
    "toSide": "left",
    "color": "4"
   },
   {
-   "id": "n400",
-   "fromNode": "n397",
+   "id": "n420",
+   "fromNode": "n417",
    "fromSide": "right",
-   "toNode": "n398",
+   "toNode": "n418",
    "toSide": "left",
    "color": "4"
   },
   {
-   "id": "n406",
-   "fromNode": "n403",
+   "id": "n426",
+   "fromNode": "n423",
    "fromSide": "bottom",
-   "toNode": "n404",
+   "toNode": "n424",
    "toSide": "top"
   },
   {
-   "id": "n407",
-   "fromNode": "n403",
+   "id": "n427",
+   "fromNode": "n423",
    "fromSide": "right",
-   "toNode": "n405",
+   "toNode": "n425",
    "toSide": "left"
   },
   {
-   "id": "n411",
-   "fromNode": "n409",
+   "id": "n431",
+   "fromNode": "n429",
    "fromSide": "right",
-   "toNode": "n410",
+   "toNode": "n430",
    "toSide": "left"
   },
   {
-   "id": "n422",
-   "fromNode": "n418",
+   "id": "n442",
+   "fromNode": "n438",
    "fromSide": "right",
-   "toNode": "n419",
+   "toNode": "n439",
    "toSide": "left"
   },
   {
-   "id": "n423",
-   "fromNode": "n419",
+   "id": "n443",
+   "fromNode": "n439",
    "fromSide": "right",
-   "toNode": "n420",
+   "toNode": "n440",
    "toSide": "left"
   },
   {
-   "id": "n424",
-   "fromNode": "n420",
+   "id": "n444",
+   "fromNode": "n440",
    "fromSide": "right",
-   "toNode": "n421",
+   "toNode": "n441",
    "toSide": "left"
   },
   {
-   "id": "n439",
+   "id": "n459",
    "fromNode": "n2",
    "fromSide": "right",
    "toNode": "n17",
@@ -3773,118 +3948,118 @@
    "color": "6"
   },
   {
-   "id": "n440",
+   "id": "n460",
    "fromNode": "n17",
    "fromSide": "right",
-   "toNode": "n146",
+   "toNode": "n151",
    "toSide": "left",
    "label": "next",
    "color": "6"
   },
   {
-   "id": "n441",
-   "fromNode": "n146",
+   "id": "n461",
+   "fromNode": "n151",
    "fromSide": "right",
-   "toNode": "n186",
+   "toNode": "n206",
    "toSide": "left",
    "label": "next",
    "color": "6"
   },
   {
-   "id": "n442",
-   "fromNode": "n186",
+   "id": "n462",
+   "fromNode": "n206",
    "fromSide": "right",
-   "toNode": "n197",
+   "toNode": "n217",
    "toSide": "left",
    "label": "next",
    "color": "6"
   },
   {
-   "id": "n443",
-   "fromNode": "n197",
+   "id": "n463",
+   "fromNode": "n217",
    "fromSide": "right",
-   "toNode": "n216",
+   "toNode": "n236",
    "toSide": "left",
    "label": "next",
    "color": "6"
   },
   {
-   "id": "n444",
-   "fromNode": "n216",
+   "id": "n464",
+   "fromNode": "n236",
    "fromSide": "right",
-   "toNode": "n238",
+   "toNode": "n258",
    "toSide": "left",
    "label": "next",
    "color": "6"
   },
   {
-   "id": "n445",
-   "fromNode": "n238",
+   "id": "n465",
+   "fromNode": "n258",
    "fromSide": "right",
-   "toNode": "n279",
+   "toNode": "n299",
    "toSide": "left",
    "label": "next",
    "color": "6"
   },
   {
-   "id": "n446",
-   "fromNode": "n279",
+   "id": "n466",
+   "fromNode": "n299",
    "fromSide": "right",
-   "toNode": "n335",
+   "toNode": "n355",
    "toSide": "left",
    "label": "next",
    "color": "6"
   },
   {
-   "id": "n447",
-   "fromNode": "n335",
+   "id": "n467",
+   "fromNode": "n355",
    "fromSide": "right",
-   "toNode": "n373",
+   "toNode": "n393",
    "toSide": "left",
    "label": "next",
    "color": "6"
   },
   {
-   "id": "n448",
-   "fromNode": "n373",
+   "id": "n468",
+   "fromNode": "n393",
    "fromSide": "right",
-   "toNode": "n401",
+   "toNode": "n421",
    "toSide": "left",
    "label": "next",
    "color": "6"
   },
   {
-   "id": "n449",
-   "fromNode": "n401",
+   "id": "n469",
+   "fromNode": "n421",
    "fromSide": "right",
-   "toNode": "n412",
+   "toNode": "n432",
    "toSide": "left",
    "label": "next",
    "color": "6"
   },
   {
-   "id": "n450",
-   "fromNode": "n412",
+   "id": "n470",
+   "fromNode": "n432",
    "fromSide": "right",
-   "toNode": "n425",
+   "toNode": "n445",
    "toSide": "left",
    "label": "next",
    "color": "6"
   },
   {
-   "id": "n451",
-   "fromNode": "n425",
+   "id": "n471",
+   "fromNode": "n445",
    "fromSide": "right",
-   "toNode": "n434",
+   "toNode": "n454",
    "toSide": "left",
    "label": "next",
    "color": "6"
   },
   {
-   "id": "n452",
-   "fromNode": "n434",
+   "id": "n472",
+   "fromNode": "n454",
    "fromSide": "right",
-   "toNode": "n436",
+   "toNode": "n456",
    "toSide": "left",
    "label": "next",
    "color": "6"

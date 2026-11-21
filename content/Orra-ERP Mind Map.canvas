@@ -1,0 +1,1186 @@
+{
+ "nodes": [
+  {
+   "id": "n1",
+   "type": "file",
+   "file": "00 Start Here.md",
+   "x": -190,
+   "y": -80,
+   "width": 380,
+   "height": 160,
+   "color": "6"
+  },
+  {
+   "id": "n2",
+   "type": "file",
+   "file": "01 Client and Goals.md",
+   "x": 620,
+   "y": -1041.0,
+   "width": 300,
+   "height": 90,
+   "color": "6"
+  },
+  {
+   "id": "n4",
+   "type": "text",
+   "text": "Secure legal-document vault",
+   "x": 1010,
+   "y": -1125.0,
+   "width": 300,
+   "height": 54,
+   "color": "6"
+  },
+  {
+   "id": "n6",
+   "type": "text",
+   "text": "Own-server option + fresh DB",
+   "x": 1010,
+   "y": -1057.0,
+   "width": 300,
+   "height": 54,
+   "color": "6"
+  },
+  {
+   "id": "n8",
+   "type": "text",
+   "text": "Weekly client interviews",
+   "x": 1010,
+   "y": -989.0,
+   "width": 300,
+   "height": 54,
+   "color": "6"
+  },
+  {
+   "id": "n10",
+   "type": "text",
+   "text": "Demo Fri 4 Dec 2026",
+   "x": 1010,
+   "y": -921.0,
+   "width": 300,
+   "height": 54,
+   "color": "6"
+  },
+  {
+   "id": "n12",
+   "type": "file",
+   "file": "02 Thesis vs Client Version.md",
+   "x": 620,
+   "y": -743.0,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "n14",
+   "type": "text",
+   "text": "Separate repo: orra-erp",
+   "x": 1010,
+   "y": -793.0,
+   "width": 300,
+   "height": 54,
+   "color": "5"
+  },
+  {
+   "id": "n16",
+   "type": "text",
+   "text": "Thesis stays for submission",
+   "x": 1010,
+   "y": -725.0,
+   "width": 300,
+   "height": 54,
+   "color": "5"
+  },
+  {
+   "id": "n18",
+   "type": "text",
+   "text": "Thesis-only items held back",
+   "x": 1010,
+   "y": -657.0,
+   "width": 300,
+   "height": 54,
+   "color": "5"
+  },
+  {
+   "id": "n20",
+   "type": "file",
+   "file": "03 Roles and Permissions.md",
+   "x": 620,
+   "y": -411.0,
+   "width": 300,
+   "height": 90,
+   "color": "1"
+  },
+  {
+   "id": "n22",
+   "type": "text",
+   "text": "11 roles x 20 modules",
+   "x": 1010,
+   "y": -529.0,
+   "width": 300,
+   "height": 54,
+   "color": "1"
+  },
+  {
+   "id": "n24",
+   "type": "text",
+   "text": "DCO (new)",
+   "x": 1010,
+   "y": -461.0,
+   "width": 300,
+   "height": 54,
+   "color": "1"
+  },
+  {
+   "id": "n26",
+   "type": "text",
+   "text": "Roles as data (no redeploy)",
+   "x": 1010,
+   "y": -393.0,
+   "width": 300,
+   "height": 54,
+   "color": "1"
+  },
+  {
+   "id": "n28",
+   "type": "text",
+   "text": "Nobody approves own request",
+   "x": 1010,
+   "y": -325.0,
+   "width": 300,
+   "height": 54,
+   "color": "1"
+  },
+  {
+   "id": "n30",
+   "type": "text",
+   "text": "Restricted = 2-step sign-in",
+   "x": 1010,
+   "y": -257.0,
+   "width": 300,
+   "height": 54,
+   "color": "1"
+  },
+  {
+   "id": "n32",
+   "type": "file",
+   "file": "04 Flows, Forms and Screens.md",
+   "x": 620,
+   "y": 23.0,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "n34",
+   "type": "text",
+   "text": "1 Lifecycle",
+   "x": 1010,
+   "y": -129.0,
+   "width": 300,
+   "height": 54,
+   "color": "4"
+  },
+  {
+   "id": "n36",
+   "type": "text",
+   "text": "2 RFI / RFA",
+   "x": 1010,
+   "y": -61.0,
+   "width": 300,
+   "height": 54,
+   "color": "4"
+  },
+  {
+   "id": "n38",
+   "type": "text",
+   "text": "3 Purchasing",
+   "x": 1010,
+   "y": 7.0,
+   "width": 300,
+   "height": 54,
+   "color": "4"
+  },
+  {
+   "id": "n40",
+   "type": "text",
+   "text": "4 Attendance + payroll",
+   "x": 1010,
+   "y": 75.0,
+   "width": 300,
+   "height": 54,
+   "color": "4"
+  },
+  {
+   "id": "n42",
+   "type": "text",
+   "text": "5 Document vault",
+   "x": 1010,
+   "y": 143.0,
+   "width": 300,
+   "height": 54,
+   "color": "4"
+  },
+  {
+   "id": "n44",
+   "type": "text",
+   "text": "14 built \u00b7 3 change \u00b7 4 new",
+   "x": 1010,
+   "y": 211.0,
+   "width": 300,
+   "height": 54,
+   "color": "4"
+  },
+  {
+   "id": "n46",
+   "type": "file",
+   "file": "05 Documents and Confidentiality.md",
+   "x": 620,
+   "y": 389.0,
+   "width": 300,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "n48",
+   "type": "text",
+   "text": "24-type register",
+   "x": 1010,
+   "y": 339.0,
+   "width": 300,
+   "height": 54,
+   "color": "3"
+  },
+  {
+   "id": "n50",
+   "type": "text",
+   "text": "Internal / Confidential / Restricted",
+   "x": 1010,
+   "y": 407.0,
+   "width": 300,
+   "height": 54,
+   "color": "3"
+  },
+  {
+   "id": "n52",
+   "type": "text",
+   "text": "Integrity check \u00b7 versions \u00b7 audit",
+   "x": 1010,
+   "y": 475.0,
+   "width": 300,
+   "height": 54,
+   "color": "3"
+  },
+  {
+   "id": "n54",
+   "type": "file",
+   "file": "06 Client-Driven Changes.md",
+   "x": 620,
+   "y": 653.0,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "n56",
+   "type": "text",
+   "text": "Built: stakeholders, RFI reply link, PM reports",
+   "x": 1010,
+   "y": 603.0,
+   "width": 300,
+   "height": 54,
+   "color": "2"
+  },
+  {
+   "id": "n58",
+   "type": "text",
+   "text": "Removed: reimbursement claims",
+   "x": 1010,
+   "y": 671.0,
+   "width": 300,
+   "height": 54,
+   "color": "2"
+  },
+  {
+   "id": "n60",
+   "type": "text",
+   "text": "Not added: PM project type",
+   "x": 1010,
+   "y": 739.0,
+   "width": 300,
+   "height": 54,
+   "color": "2"
+  },
+  {
+   "id": "n62",
+   "type": "file",
+   "file": "07 Hosting and Infrastructure.md",
+   "x": 620,
+   "y": 951.0,
+   "width": 300,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "n64",
+   "type": "text",
+   "text": "Cloudflare Pages + Render",
+   "x": 1010,
+   "y": 867.0,
+   "width": 300,
+   "height": 54,
+   "color": "5"
+  },
+  {
+   "id": "n66",
+   "type": "text",
+   "text": "Neon DB + Object Storage",
+   "x": 1010,
+   "y": 935.0,
+   "width": 300,
+   "height": 54,
+   "color": "5"
+  },
+  {
+   "id": "n68",
+   "type": "text",
+   "text": "Off Vercel",
+   "x": 1010,
+   "y": 1003.0,
+   "width": 300,
+   "height": 54,
+   "color": "5"
+  },
+  {
+   "id": "n70",
+   "type": "text",
+   "text": "Runs on client server",
+   "x": 1010,
+   "y": 1071.0,
+   "width": 300,
+   "height": 54,
+   "color": "5"
+  },
+  {
+   "id": "n72",
+   "type": "file",
+   "file": "08 Open Questions.md",
+   "x": -920,
+   "y": -909.0,
+   "width": 300,
+   "height": 90,
+   "color": "1"
+  },
+  {
+   "id": "n74",
+   "type": "text",
+   "text": "17 questions",
+   "x": -1310,
+   "y": -959.0,
+   "width": 300,
+   "height": 54,
+   "color": "1"
+  },
+  {
+   "id": "n76",
+   "type": "text",
+   "text": "Q1-6 block flowchart + matrix",
+   "x": -1310,
+   "y": -891.0,
+   "width": 300,
+   "height": 54,
+   "color": "1"
+  },
+  {
+   "id": "n78",
+   "type": "text",
+   "text": "Interview Wed 25 Nov",
+   "x": -1310,
+   "y": -823.0,
+   "width": 300,
+   "height": 54,
+   "color": "1"
+  },
+  {
+   "id": "n80",
+   "type": "file",
+   "file": "09 Plan to December Demo.md",
+   "x": -920,
+   "y": -611.0,
+   "width": 300,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "n82",
+   "type": "text",
+   "text": "Fri 27 Nov deliverables",
+   "x": -1310,
+   "y": -695.0,
+   "width": 300,
+   "height": 54,
+   "color": "4"
+  },
+  {
+   "id": "n84",
+   "type": "text",
+   "text": "Sat 28 Nov review",
+   "x": -1310,
+   "y": -627.0,
+   "width": 300,
+   "height": 54,
+   "color": "4"
+  },
+  {
+   "id": "n86",
+   "type": "text",
+   "text": "Mon 30 Nov-Wed 2 Dec build",
+   "x": -1310,
+   "y": -559.0,
+   "width": 300,
+   "height": 54,
+   "color": "4"
+  },
+  {
+   "id": "n88",
+   "type": "text",
+   "text": "Thu 3 Dec dry-run",
+   "x": -1310,
+   "y": -491.0,
+   "width": 300,
+   "height": 54,
+   "color": "4"
+  },
+  {
+   "id": "n90",
+   "type": "file",
+   "file": "10 Deliverables.md",
+   "x": -920,
+   "y": -279.0,
+   "width": 300,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "n92",
+   "type": "text",
+   "text": "Flowchart (Whiteboard)",
+   "x": -1310,
+   "y": -363.0,
+   "width": 300,
+   "height": 54,
+   "color": "3"
+  },
+  {
+   "id": "n94",
+   "type": "text",
+   "text": "Sample documents (Doc)",
+   "x": -1310,
+   "y": -295.0,
+   "width": 300,
+   "height": 54,
+   "color": "3"
+  },
+  {
+   "id": "n96",
+   "type": "text",
+   "text": "UI/UX (Design)",
+   "x": -1310,
+   "y": -227.0,
+   "width": 300,
+   "height": 54,
+   "color": "3"
+  },
+  {
+   "id": "n98",
+   "type": "text",
+   "text": "Refinement pack (Doc)",
+   "x": -1310,
+   "y": -159.0,
+   "width": 300,
+   "height": 54,
+   "color": "3"
+  },
+  {
+   "id": "n100",
+   "type": "file",
+   "file": "11 Assumptions Awaiting Confirmation.md",
+   "x": -920,
+   "y": 53.0,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "n102",
+   "type": "text",
+   "text": "PM = service on Construction",
+   "x": -1310,
+   "y": -31.0,
+   "width": 300,
+   "height": 54,
+   "color": "2"
+  },
+  {
+   "id": "n104",
+   "type": "text",
+   "text": "DCO exists",
+   "x": -1310,
+   "y": 37.0,
+   "width": 300,
+   "height": 54,
+   "color": "2"
+  },
+  {
+   "id": "n106",
+   "type": "text",
+   "text": "PM-only approvals",
+   "x": -1310,
+   "y": 105.0,
+   "width": 300,
+   "height": 54,
+   "color": "2"
+  },
+  {
+   "id": "n108",
+   "type": "text",
+   "text": "Outside geofence: flag, don't block",
+   "x": -1310,
+   "y": 173.0,
+   "width": 300,
+   "height": 54,
+   "color": "2"
+  },
+  {
+   "id": "n110",
+   "type": "file",
+   "file": "12 Repo and Working Rules.md",
+   "x": -920,
+   "y": 351.0,
+   "width": 300,
+   "height": 90,
+   "color": "6"
+  },
+  {
+   "id": "n112",
+   "type": "text",
+   "text": "nhyl-beta/orra-erp",
+   "x": -1310,
+   "y": 301.0,
+   "width": 300,
+   "height": 54,
+   "color": "6"
+  },
+  {
+   "id": "n114",
+   "type": "text",
+   "text": "Notes stay local, docs tracked",
+   "x": -1310,
+   "y": 369.0,
+   "width": 300,
+   "height": 54,
+   "color": "6"
+  },
+  {
+   "id": "n116",
+   "type": "text",
+   "text": "Half-day pieces",
+   "x": -1310,
+   "y": 437.0,
+   "width": 300,
+   "height": 54,
+   "color": "6"
+  },
+  {
+   "id": "n118",
+   "type": "file",
+   "file": "13 Google Drive Integration.md",
+   "x": -920,
+   "y": 717.0,
+   "width": 300,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "n120",
+   "type": "text",
+   "text": "Assume 1 TB single Google account",
+   "x": -1310,
+   "y": 565.0,
+   "width": 300,
+   "height": 54,
+   "color": "2"
+  },
+  {
+   "id": "n122",
+   "type": "text",
+   "text": "OAuth adapter (gdrive:<fileId>)",
+   "x": -1310,
+   "y": 633.0,
+   "width": 300,
+   "height": 54,
+   "color": "2"
+  },
+  {
+   "id": "n124",
+   "type": "text",
+   "text": "Restricted files encrypted",
+   "x": -1310,
+   "y": 701.0,
+   "width": 300,
+   "height": 54,
+   "color": "2"
+  },
+  {
+   "id": "n126",
+   "type": "text",
+   "text": "Picker import of old archive",
+   "x": -1310,
+   "y": 769.0,
+   "width": 300,
+   "height": 54,
+   "color": "2"
+  },
+  {
+   "id": "n128",
+   "type": "text",
+   "text": "Auto-built folder tree",
+   "x": -1310,
+   "y": 837.0,
+   "width": 300,
+   "height": 54,
+   "color": "2"
+  },
+  {
+   "id": "n130",
+   "type": "text",
+   "text": "Fallbacks: Neon copy / archive",
+   "x": -1310,
+   "y": 905.0,
+   "width": 300,
+   "height": 54,
+   "color": "2"
+  }
+ ],
+ "edges": [
+  {
+   "id": "n3",
+   "fromNode": "n1",
+   "fromSide": "right",
+   "toNode": "n2",
+   "toSide": "left",
+   "color": "6"
+  },
+  {
+   "id": "n5",
+   "fromNode": "n2",
+   "fromSide": "right",
+   "toNode": "n4",
+   "toSide": "left",
+   "color": "6"
+  },
+  {
+   "id": "n7",
+   "fromNode": "n2",
+   "fromSide": "right",
+   "toNode": "n6",
+   "toSide": "left",
+   "color": "6"
+  },
+  {
+   "id": "n9",
+   "fromNode": "n2",
+   "fromSide": "right",
+   "toNode": "n8",
+   "toSide": "left",
+   "color": "6"
+  },
+  {
+   "id": "n11",
+   "fromNode": "n2",
+   "fromSide": "right",
+   "toNode": "n10",
+   "toSide": "left",
+   "color": "6"
+  },
+  {
+   "id": "n13",
+   "fromNode": "n1",
+   "fromSide": "right",
+   "toNode": "n12",
+   "toSide": "left",
+   "color": "5"
+  },
+  {
+   "id": "n15",
+   "fromNode": "n12",
+   "fromSide": "right",
+   "toNode": "n14",
+   "toSide": "left",
+   "color": "5"
+  },
+  {
+   "id": "n17",
+   "fromNode": "n12",
+   "fromSide": "right",
+   "toNode": "n16",
+   "toSide": "left",
+   "color": "5"
+  },
+  {
+   "id": "n19",
+   "fromNode": "n12",
+   "fromSide": "right",
+   "toNode": "n18",
+   "toSide": "left",
+   "color": "5"
+  },
+  {
+   "id": "n21",
+   "fromNode": "n1",
+   "fromSide": "right",
+   "toNode": "n20",
+   "toSide": "left",
+   "color": "1"
+  },
+  {
+   "id": "n23",
+   "fromNode": "n20",
+   "fromSide": "right",
+   "toNode": "n22",
+   "toSide": "left",
+   "color": "1"
+  },
+  {
+   "id": "n25",
+   "fromNode": "n20",
+   "fromSide": "right",
+   "toNode": "n24",
+   "toSide": "left",
+   "color": "1"
+  },
+  {
+   "id": "n27",
+   "fromNode": "n20",
+   "fromSide": "right",
+   "toNode": "n26",
+   "toSide": "left",
+   "color": "1"
+  },
+  {
+   "id": "n29",
+   "fromNode": "n20",
+   "fromSide": "right",
+   "toNode": "n28",
+   "toSide": "left",
+   "color": "1"
+  },
+  {
+   "id": "n31",
+   "fromNode": "n20",
+   "fromSide": "right",
+   "toNode": "n30",
+   "toSide": "left",
+   "color": "1"
+  },
+  {
+   "id": "n33",
+   "fromNode": "n1",
+   "fromSide": "right",
+   "toNode": "n32",
+   "toSide": "left",
+   "color": "4"
+  },
+  {
+   "id": "n35",
+   "fromNode": "n32",
+   "fromSide": "right",
+   "toNode": "n34",
+   "toSide": "left",
+   "color": "4"
+  },
+  {
+   "id": "n37",
+   "fromNode": "n32",
+   "fromSide": "right",
+   "toNode": "n36",
+   "toSide": "left",
+   "color": "4"
+  },
+  {
+   "id": "n39",
+   "fromNode": "n32",
+   "fromSide": "right",
+   "toNode": "n38",
+   "toSide": "left",
+   "color": "4"
+  },
+  {
+   "id": "n41",
+   "fromNode": "n32",
+   "fromSide": "right",
+   "toNode": "n40",
+   "toSide": "left",
+   "color": "4"
+  },
+  {
+   "id": "n43",
+   "fromNode": "n32",
+   "fromSide": "right",
+   "toNode": "n42",
+   "toSide": "left",
+   "color": "4"
+  },
+  {
+   "id": "n45",
+   "fromNode": "n32",
+   "fromSide": "right",
+   "toNode": "n44",
+   "toSide": "left",
+   "color": "4"
+  },
+  {
+   "id": "n47",
+   "fromNode": "n1",
+   "fromSide": "right",
+   "toNode": "n46",
+   "toSide": "left",
+   "color": "3"
+  },
+  {
+   "id": "n49",
+   "fromNode": "n46",
+   "fromSide": "right",
+   "toNode": "n48",
+   "toSide": "left",
+   "color": "3"
+  },
+  {
+   "id": "n51",
+   "fromNode": "n46",
+   "fromSide": "right",
+   "toNode": "n50",
+   "toSide": "left",
+   "color": "3"
+  },
+  {
+   "id": "n53",
+   "fromNode": "n46",
+   "fromSide": "right",
+   "toNode": "n52",
+   "toSide": "left",
+   "color": "3"
+  },
+  {
+   "id": "n55",
+   "fromNode": "n1",
+   "fromSide": "right",
+   "toNode": "n54",
+   "toSide": "left",
+   "color": "2"
+  },
+  {
+   "id": "n57",
+   "fromNode": "n54",
+   "fromSide": "right",
+   "toNode": "n56",
+   "toSide": "left",
+   "color": "2"
+  },
+  {
+   "id": "n59",
+   "fromNode": "n54",
+   "fromSide": "right",
+   "toNode": "n58",
+   "toSide": "left",
+   "color": "2"
+  },
+  {
+   "id": "n61",
+   "fromNode": "n54",
+   "fromSide": "right",
+   "toNode": "n60",
+   "toSide": "left",
+   "color": "2"
+  },
+  {
+   "id": "n63",
+   "fromNode": "n1",
+   "fromSide": "right",
+   "toNode": "n62",
+   "toSide": "left",
+   "color": "5"
+  },
+  {
+   "id": "n65",
+   "fromNode": "n62",
+   "fromSide": "right",
+   "toNode": "n64",
+   "toSide": "left",
+   "color": "5"
+  },
+  {
+   "id": "n67",
+   "fromNode": "n62",
+   "fromSide": "right",
+   "toNode": "n66",
+   "toSide": "left",
+   "color": "5"
+  },
+  {
+   "id": "n69",
+   "fromNode": "n62",
+   "fromSide": "right",
+   "toNode": "n68",
+   "toSide": "left",
+   "color": "5"
+  },
+  {
+   "id": "n71",
+   "fromNode": "n62",
+   "fromSide": "right",
+   "toNode": "n70",
+   "toSide": "left",
+   "color": "5"
+  },
+  {
+   "id": "n73",
+   "fromNode": "n1",
+   "fromSide": "left",
+   "toNode": "n72",
+   "toSide": "right",
+   "color": "1"
+  },
+  {
+   "id": "n75",
+   "fromNode": "n72",
+   "fromSide": "left",
+   "toNode": "n74",
+   "toSide": "right",
+   "color": "1"
+  },
+  {
+   "id": "n77",
+   "fromNode": "n72",
+   "fromSide": "left",
+   "toNode": "n76",
+   "toSide": "right",
+   "color": "1"
+  },
+  {
+   "id": "n79",
+   "fromNode": "n72",
+   "fromSide": "left",
+   "toNode": "n78",
+   "toSide": "right",
+   "color": "1"
+  },
+  {
+   "id": "n81",
+   "fromNode": "n1",
+   "fromSide": "left",
+   "toNode": "n80",
+   "toSide": "right",
+   "color": "4"
+  },
+  {
+   "id": "n83",
+   "fromNode": "n80",
+   "fromSide": "left",
+   "toNode": "n82",
+   "toSide": "right",
+   "color": "4"
+  },
+  {
+   "id": "n85",
+   "fromNode": "n80",
+   "fromSide": "left",
+   "toNode": "n84",
+   "toSide": "right",
+   "color": "4"
+  },
+  {
+   "id": "n87",
+   "fromNode": "n80",
+   "fromSide": "left",
+   "toNode": "n86",
+   "toSide": "right",
+   "color": "4"
+  },
+  {
+   "id": "n89",
+   "fromNode": "n80",
+   "fromSide": "left",
+   "toNode": "n88",
+   "toSide": "right",
+   "color": "4"
+  },
+  {
+   "id": "n91",
+   "fromNode": "n1",
+   "fromSide": "left",
+   "toNode": "n90",
+   "toSide": "right",
+   "color": "3"
+  },
+  {
+   "id": "n93",
+   "fromNode": "n90",
+   "fromSide": "left",
+   "toNode": "n92",
+   "toSide": "right",
+   "color": "3"
+  },
+  {
+   "id": "n95",
+   "fromNode": "n90",
+   "fromSide": "left",
+   "toNode": "n94",
+   "toSide": "right",
+   "color": "3"
+  },
+  {
+   "id": "n97",
+   "fromNode": "n90",
+   "fromSide": "left",
+   "toNode": "n96",
+   "toSide": "right",
+   "color": "3"
+  },
+  {
+   "id": "n99",
+   "fromNode": "n90",
+   "fromSide": "left",
+   "toNode": "n98",
+   "toSide": "right",
+   "color": "3"
+  },
+  {
+   "id": "n101",
+   "fromNode": "n1",
+   "fromSide": "left",
+   "toNode": "n100",
+   "toSide": "right",
+   "color": "2"
+  },
+  {
+   "id": "n103",
+   "fromNode": "n100",
+   "fromSide": "left",
+   "toNode": "n102",
+   "toSide": "right",
+   "color": "2"
+  },
+  {
+   "id": "n105",
+   "fromNode": "n100",
+   "fromSide": "left",
+   "toNode": "n104",
+   "toSide": "right",
+   "color": "2"
+  },
+  {
+   "id": "n107",
+   "fromNode": "n100",
+   "fromSide": "left",
+   "toNode": "n106",
+   "toSide": "right",
+   "color": "2"
+  },
+  {
+   "id": "n109",
+   "fromNode": "n100",
+   "fromSide": "left",
+   "toNode": "n108",
+   "toSide": "right",
+   "color": "2"
+  },
+  {
+   "id": "n111",
+   "fromNode": "n1",
+   "fromSide": "left",
+   "toNode": "n110",
+   "toSide": "right",
+   "color": "6"
+  },
+  {
+   "id": "n113",
+   "fromNode": "n110",
+   "fromSide": "left",
+   "toNode": "n112",
+   "toSide": "right",
+   "color": "6"
+  },
+  {
+   "id": "n115",
+   "fromNode": "n110",
+   "fromSide": "left",
+   "toNode": "n114",
+   "toSide": "right",
+   "color": "6"
+  },
+  {
+   "id": "n117",
+   "fromNode": "n110",
+   "fromSide": "left",
+   "toNode": "n116",
+   "toSide": "right",
+   "color": "6"
+  },
+  {
+   "id": "n119",
+   "fromNode": "n1",
+   "fromSide": "left",
+   "toNode": "n118",
+   "toSide": "right",
+   "color": "2"
+  },
+  {
+   "id": "n121",
+   "fromNode": "n118",
+   "fromSide": "left",
+   "toNode": "n120",
+   "toSide": "right",
+   "color": "2"
+  },
+  {
+   "id": "n123",
+   "fromNode": "n118",
+   "fromSide": "left",
+   "toNode": "n122",
+   "toSide": "right",
+   "color": "2"
+  },
+  {
+   "id": "n125",
+   "fromNode": "n118",
+   "fromSide": "left",
+   "toNode": "n124",
+   "toSide": "right",
+   "color": "2"
+  },
+  {
+   "id": "n127",
+   "fromNode": "n118",
+   "fromSide": "left",
+   "toNode": "n126",
+   "toSide": "right",
+   "color": "2"
+  },
+  {
+   "id": "n129",
+   "fromNode": "n118",
+   "fromSide": "left",
+   "toNode": "n128",
+   "toSide": "right",
+   "color": "2"
+  },
+  {
+   "id": "n131",
+   "fromNode": "n118",
+   "fromSide": "left",
+   "toNode": "n130",
+   "toSide": "right",
+   "color": "2"
+  }
+ ]
+}

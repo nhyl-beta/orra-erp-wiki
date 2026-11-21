@@ -1,0 +1,476 @@
+{
+ "nodes": [
+  {
+   "id": "n1",
+   "type": "text",
+   "text": "**User opens app**",
+   "x": -100,
+   "y": -600,
+   "width": 180,
+   "height": 60,
+   "color": "6"
+  },
+  {
+   "id": "n2",
+   "type": "text",
+   "text": "Login page\n(email + password)",
+   "x": 150,
+   "y": -600,
+   "width": 200,
+   "height": 60
+  },
+  {
+   "id": "n3",
+   "type": "text",
+   "text": "Authenticate\nRate-limit: 40 attempts / 15 min\nIssue JWT + audit log entry",
+   "x": 420,
+   "y": -600,
+   "width": 220,
+   "height": 70,
+   "color": "3"
+  },
+  {
+   "id": "n4",
+   "type": "text",
+   "text": "Route to role dashboard\n(10 roles: Owner, Admin, IT Designer,\nPM, HR, Finance, Architect,\nEngineer, Consultant, Site Personnel)",
+   "x": 710,
+   "y": -600,
+   "width": 220,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "n8",
+   "type": "text",
+   "text": "Forgot Password \u2192\nreset email via SMTP",
+   "x": 150,
+   "y": -480,
+   "width": 200,
+   "height": 55
+  },
+  {
+   "id": "n10",
+   "type": "text",
+   "text": "**Proposal\n(0\u201310%)**",
+   "x": -100,
+   "y": -380,
+   "width": 230,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "n11",
+   "type": "text",
+   "text": "Gates P1\u2013P5:\nArchitect+Consultant staffed\nProposal submitted & approved\nAward + Contract on file",
+   "x": -100,
+   "y": -270,
+   "width": 230,
+   "height": 150
+  },
+  {
+   "id": "n13",
+   "type": "text",
+   "text": "**Design\n(10\u201325%)**",
+   "x": 190,
+   "y": -380,
+   "width": 230,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "n14",
+   "type": "text",
+   "text": "Gates D1\u2013D3:\nDesign w/ files, assigned engineer\nAll designs approved\nApproved current blueprint",
+   "x": 190,
+   "y": -270,
+   "width": 230,
+   "height": 150
+  },
+  {
+   "id": "n16",
+   "type": "text",
+   "text": "**Pre-Construction\n(25\u201330%)**",
+   "x": 480,
+   "y": -380,
+   "width": 230,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "n17",
+   "type": "text",
+   "text": "Gates C1\u2013C6:\nMaterials/Specs approved\nBudget approved\nMilestones dated+active\nSite crew staffed+linked\nNTP + site location\nProcurement initiated",
+   "x": 480,
+   "y": -270,
+   "width": 230,
+   "height": 150
+  },
+  {
+   "id": "n19",
+   "type": "text",
+   "text": "**Construction\n(30\u201395%)**",
+   "x": 770,
+   "y": -380,
+   "width": 230,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "n20",
+   "type": "text",
+   "text": "Gates K1\u2013K4:\nAll tasks completed\nAll milestones closed\nNo open issues\nNo active workflows\n(progress = tasks done/total)",
+   "x": 770,
+   "y": -270,
+   "width": 230,
+   "height": 150
+  },
+  {
+   "id": "n22",
+   "type": "text",
+   "text": "**Closeout\n(95\u201399%)**",
+   "x": 1060,
+   "y": -380,
+   "width": 230,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "n23",
+   "type": "text",
+   "text": "Gates X1\u2013X6:\nFinal inspection approved\nCOC on file\nCloseout payroll approved\nCloseout workflow done\nNo open RFI/RFA\nNo unsettled procurement",
+   "x": 1060,
+   "y": -270,
+   "width": 230,
+   "height": 150
+  },
+  {
+   "id": "n25",
+   "type": "text",
+   "text": "**Completed**",
+   "x": 1350,
+   "y": -380,
+   "width": 230,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "n26",
+   "type": "text",
+   "text": "100% \u2014 PM advances here\nonce all Closeout gates pass",
+   "x": 1350,
+   "y": -270,
+   "width": 230,
+   "height": 150
+  },
+  {
+   "id": "n28",
+   "type": "text",
+   "text": "**Archived**",
+   "x": 1640,
+   "y": -380,
+   "width": 230,
+   "height": 90,
+   "color": "6"
+  },
+  {
+   "id": "n29",
+   "type": "text",
+   "text": "Admin-only advance.\nTerminal state.",
+   "x": 1640,
+   "y": -270,
+   "width": 230,
+   "height": 150
+  },
+  {
+   "id": "n38",
+   "type": "text",
+   "text": "**On Hold**\nWrites locked\nFrom Design/Pre-Con/Construction",
+   "x": -100,
+   "y": -540,
+   "width": 200,
+   "height": 60,
+   "color": "2"
+  },
+  {
+   "id": "n39",
+   "type": "text",
+   "text": "**Cancelled**\nWrites locked\nNeeds written reason",
+   "x": 150,
+   "y": -540,
+   "width": 200,
+   "height": 60,
+   "color": "1"
+  },
+  {
+   "id": "n43",
+   "type": "text",
+   "text": "**RFI / RFA**\nEngineer/DCO raise \u2192 PM routes\n(multi-recipient, no-login reply)\n\u2192 Architect/Engineer answer\n\u2192 Consultant remarks \u2192 PM signs\n\u2192 may spawn Change Order",
+   "x": -100,
+   "y": -20,
+   "width": 260,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "n44",
+   "type": "text",
+   "text": "**Purchasing**\nEngineer PR \u2192 PM endorse\n\u2192 Finance approve \u2192 PO\n\u2192 delivery receipt (Site)\n\u2192 Engineer inspect \u2192 Finance pay",
+   "x": 210,
+   "y": -20,
+   "width": 260,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "n45",
+   "type": "text",
+   "text": "**Attendance & Payroll**\nOffice 1-button / Site geolocation\n(outside geofence: flagged not blocked)\n\u2192 HR verify \u2192 payroll batch\n\u2192 Finance review & approve",
+   "x": 520,
+   "y": -20,
+   "width": 260,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "n46",
+   "type": "text",
+   "text": "**Secure Document Vault**\nUpload \u2192 confidentiality level\n(Internal/Confidential/Restricted)\nRestricted = AES-GCM encrypted\n\u2192 SHA-256 check \u2192 audit log\nPurge needs 2 approvers",
+   "x": 830,
+   "y": -20,
+   "width": 260,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "n47",
+   "type": "text",
+   "text": "**Workflow Engine**\n8 seeded templates\nStage-by-stage decide:\nApprove / Reject / Revise\nCross-cuts all 5 flows above",
+   "x": 1140,
+   "y": -20,
+   "width": 260,
+   "height": 90,
+   "color": "3"
+  },
+  {
+   "id": "n53",
+   "type": "group",
+   "label": "Role Action Summary",
+   "x": 1550,
+   "y": -540,
+   "width": 420,
+   "height": 710,
+   "color": "5"
+  },
+  {
+   "id": "n54",
+   "type": "text",
+   "text": "**Owner** \u2014 read-only all; approves purge/legal hold\n\n**Admin** \u2014 overrides, archive, templates, PO above limit\n\n**IT Designer** \u2014 users, roles, audit logs, support\n\n**Project Manager** \u2014 projects, milestones, phase advance, RFI routing\n\n**HR** \u2014 payroll batches, employee records, attendance\n\n**Finance Manager** \u2014 budgets, POs, payments, payroll approval\n\n**Architect** \u2014 proposals, designs, blueprints, RFI answers\n\n**Engineer** \u2014 requirements, PRs, tasks, issues, inspections\n\n**Consultant** \u2014 design/proposal review, RFI remarks\n\n**Site Personnel** \u2014 task status, DTR, daily reports, deliveries\n\n**DCO** \u2014 RFI logs, transmittals, logbook entries",
+   "x": 1580,
+   "y": -500,
+   "width": 360,
+   "height": 610
+  },
+  {
+   "id": "n55",
+   "type": "text",
+   "text": "**Legend**\n\n\ud83d\udfe2 Green \u2014 lifecycle phase\n\ud83d\udd35 Blue \u2014 terminal / routing\n\ud83d\udfe3 Purple \u2014 entry / archived / summary\n\ud83d\udfe1 Yellow \u2014 cross-cutting flow\n\ud83d\udfe0 Orange \u2014 on hold\n\ud83d\udd34 Red \u2014 cancelled\n\nFull step-by-step detail (mermaid):\n[[14 System Flowchart]]",
+   "x": -400,
+   "y": -540,
+   "width": 260,
+   "height": 220,
+   "color": "6"
+  }
+ ],
+ "edges": [
+  {
+   "id": "n5",
+   "fromNode": "n1",
+   "fromSide": "right",
+   "toNode": "n2",
+   "toSide": "left"
+  },
+  {
+   "id": "n6",
+   "fromNode": "n2",
+   "fromSide": "right",
+   "toNode": "n3",
+   "toSide": "left"
+  },
+  {
+   "id": "n7",
+   "fromNode": "n3",
+   "fromSide": "right",
+   "toNode": "n4",
+   "toSide": "left",
+   "label": "valid"
+  },
+  {
+   "id": "n9",
+   "fromNode": "n2",
+   "fromSide": "bottom",
+   "toNode": "n8",
+   "toSide": "top"
+  },
+  {
+   "id": "n12",
+   "fromNode": "n10",
+   "fromSide": "bottom",
+   "toNode": "n11",
+   "toSide": "top"
+  },
+  {
+   "id": "n15",
+   "fromNode": "n13",
+   "fromSide": "bottom",
+   "toNode": "n14",
+   "toSide": "top"
+  },
+  {
+   "id": "n18",
+   "fromNode": "n16",
+   "fromSide": "bottom",
+   "toNode": "n17",
+   "toSide": "top"
+  },
+  {
+   "id": "n21",
+   "fromNode": "n19",
+   "fromSide": "bottom",
+   "toNode": "n20",
+   "toSide": "top"
+  },
+  {
+   "id": "n24",
+   "fromNode": "n22",
+   "fromSide": "bottom",
+   "toNode": "n23",
+   "toSide": "top"
+  },
+  {
+   "id": "n27",
+   "fromNode": "n25",
+   "fromSide": "bottom",
+   "toNode": "n26",
+   "toSide": "top"
+  },
+  {
+   "id": "n30",
+   "fromNode": "n28",
+   "fromSide": "bottom",
+   "toNode": "n29",
+   "toSide": "top"
+  },
+  {
+   "id": "n31",
+   "fromNode": "n10",
+   "fromSide": "right",
+   "toNode": "n13",
+   "toSide": "left",
+   "label": "advance"
+  },
+  {
+   "id": "n32",
+   "fromNode": "n13",
+   "fromSide": "right",
+   "toNode": "n16",
+   "toSide": "left",
+   "label": "advance"
+  },
+  {
+   "id": "n33",
+   "fromNode": "n16",
+   "fromSide": "right",
+   "toNode": "n19",
+   "toSide": "left",
+   "label": "advance"
+  },
+  {
+   "id": "n34",
+   "fromNode": "n19",
+   "fromSide": "right",
+   "toNode": "n22",
+   "toSide": "left",
+   "label": "advance"
+  },
+  {
+   "id": "n35",
+   "fromNode": "n22",
+   "fromSide": "right",
+   "toNode": "n25",
+   "toSide": "left"
+  },
+  {
+   "id": "n36",
+   "fromNode": "n25",
+   "fromSide": "right",
+   "toNode": "n28",
+   "toSide": "left"
+  },
+  {
+   "id": "n37",
+   "fromNode": "n4",
+   "fromSide": "bottom",
+   "toNode": "n10",
+   "toSide": "top"
+  },
+  {
+   "id": "n40",
+   "fromNode": "n13",
+   "fromSide": "top",
+   "toNode": "n38",
+   "toSide": "bottom",
+   "label": "hold"
+  },
+  {
+   "id": "n41",
+   "fromNode": "n38",
+   "fromSide": "bottom",
+   "toNode": "n13",
+   "toSide": "top",
+   "label": "resume"
+  },
+  {
+   "id": "n42",
+   "fromNode": "n16",
+   "fromSide": "top",
+   "toNode": "n39",
+   "toSide": "bottom",
+   "label": "cancel"
+  },
+  {
+   "id": "n48",
+   "fromNode": "n19",
+   "fromSide": "bottom",
+   "toNode": "n43",
+   "toSide": "top"
+  },
+  {
+   "id": "n49",
+   "fromNode": "n19",
+   "fromSide": "bottom",
+   "toNode": "n44",
+   "toSide": "top"
+  },
+  {
+   "id": "n50",
+   "fromNode": "n19",
+   "fromSide": "bottom",
+   "toNode": "n45",
+   "toSide": "top"
+  },
+  {
+   "id": "n51",
+   "fromNode": "n19",
+   "fromSide": "bottom",
+   "toNode": "n46",
+   "toSide": "top"
+  },
+  {
+   "id": "n52",
+   "fromNode": "n19",
+   "fromSide": "bottom",
+   "toNode": "n47",
+   "toSide": "top"
+  }
+ ]
+}

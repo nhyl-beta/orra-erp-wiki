@@ -25,6 +25,7 @@ tags: [orra-erp, moc, home]
 - [[13 Google Drive Integration]]
 - [[14 System Flowchart]]
 - [[12 Glossary]]
+- [[13 Security Testing (ARTEX Pentesting)]]
 - [[15 Deploy Wiki to GitHub Pages]]
 
 ## Status at a glance (21 Nov 2026)

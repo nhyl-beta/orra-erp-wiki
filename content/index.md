@@ -29,12 +29,13 @@ tags: [orra-erp, moc, home]
 - [[14 Interview Integration Plan (11-11-26)]]
 - [[15 Deploy Wiki to GitHub Pages]]
 - [[16 Platform Benchmarking (Procore, Monday, Payroll)]]
+- [[17 UI-UX Design Plan]]
 
 ## Status at a glance (21 Nov 2026)
 - Flowchart steps: **21** → 14 already built, 3 need a change, 4 new ([[04 Flows, Forms and Screens]])
 - Roles: **11** proposed (10 thesis roles reshaped + DCO) across **20** modules; client confirms each cell ([[03 Roles and Permissions]])
 - New requirement: Google Drive as the storage repository ([[13 Google Drive Integration]])
-- Open interview questions: **17**, first six block the final flowchart and role matrix ([[08 Open Questions]])
+- Open interview questions: **27** (5 added from the Procore/Monday.com/payroll benchmarking pass and the UI-UX design brief), first six block the final flowchart and role matrix ([[08 Open Questions]])
 - Deliverables due **Fri 27 Nov**, review **Sat 28 Nov** ([[09 Plan to December Demo]])
 
 ## Map
